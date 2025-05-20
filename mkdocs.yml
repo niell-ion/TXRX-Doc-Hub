@@ -10,5 +10,6 @@ nav:
   - Projects:
     - RARs: rars.md 
 markdown_extensions:
+  - attr_list:
   - toc:
       permalink: true
