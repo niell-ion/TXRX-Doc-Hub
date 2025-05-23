@@ -32,7 +32,8 @@ This manual is for use by qualified technicians for onsite troubleshooting of th
 
     ![Battery Terminal](assets/Plug.jpg){: style="height:350px;width:350px"}
 
-5. Using a multimeter, measure input voltage across `24V IN` and `GND`, or `VBAT` and `GND`
+5. Disconnect plug labeled `Charger` and measure input voltage
+    * Using a multimeter, probe across `24V IN` and `GND`, or `VBAT` and `GND`
     * **Perform this step before proceeding as low voltage may present as other errors**
     * If board is receiving less than `24V`, refer to [Charger Issues](#charger-issues)
 
@@ -41,6 +42,11 @@ This manual is for use by qualified technicians for onsite troubleshooting of th
 
 7. If board is receiving `24V`, no other issues have been found, and errors are still present:
     * Refer to [Board Issues](#board-issues)
+
+### Addressing
+
+* The DIP switches may be used
+* 
 
 ### Overcurrent Issues
 
@@ -59,6 +65,16 @@ This manual is for use by qualified technicians for onsite troubleshooting of th
 * If battery is providing less than `24V`, there may be an issue with the battery charger
 * Battery charger features two status lights, <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span> (LED1) indicates charging is active, while <span style="background-color:rgb(0, 153, 69)"><span style="color:white;">green</span></span> (LED2) turns on when the battery is fully charged
 * **If charger is not functioning, replace fuse**
+
+### Relay Issues
+
+The RAR board features six relays. One for each motor direction, one for overcurrent, one for the emergency stop, and two for the battery charger.
+
+#### Motor relays
+* If the motor is only functioning in one direct, swap A&B relays
+
+#### Charger Relays
+
 
 ### Sensor Issues
 
