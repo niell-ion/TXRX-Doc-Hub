@@ -10,6 +10,8 @@ nav:
   - About: about.md
   - Projects:
     - RARs: rars.md 
+    - Switch Gap Detector: switchgap.md
+    - Portable Crossing Guard: crossing.md
 markdown_extensions:
   - attr_list:
   - toc:
