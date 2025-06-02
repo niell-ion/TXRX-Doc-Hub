@@ -1,9 +1,9 @@
 # Switch Gap Detector Troubleshooting Manual
 
-![RAR Circuit Board](assets/Board1.jpg)
+![Switch Gap Detector](assets/switchgap1.jpg)
 
 ## Introduction
-This manual is for use by qualified technicians for onsite troubleshooting of the RAR automated switch system. This is not a product manual or schematic. This manual covers only the steps to diagnose issues, and should not be used to repair or modify the RAR.
+This manual is for use by qualified technicians for onsite troubleshooting of the RAR automated switch system. This is not a product manual or schematic. This manual covers only the steps to diagnose issues, and should not be used to repair or modify the Switch Gap Detector.
 
 ### Required Equipment
 * Multimeter
@@ -46,60 +46,3 @@ This manual is for use by qualified technicians for onsite troubleshooting of th
 ### Addressing
 
 * The DIP switches may be used
-* 
-
-### Overcurrent Issues
-
-![Lights](assets/Lights2.jpg){: style="height:350px;width:350px"}        
-
-* Overcurrents may be caused by an obstruction in the switch, or a sudden change in the load experienced by the motor
-* The `Over Current Reset` light indicates an overcurrent issue has occurred 
-* After an overcurrent issue, the RAR must be reset to unlock movement
-* Upon resetting, use `Jog Left` and `Jog Right` buttons to test for resistance throughout the range of travel
-* Once any obstructions have been removed and motion has been tested, close lid and use `Move Left` and `Move Right` buttons to ensure error has been fully cleared
-
-### Charger Issues
-
-![Charger](assets/Charger.jpg){: style="height:350px;width:350px"}    
-
-* If battery is providing less than `24V`, there may be an issue with the battery charger
-* Battery charger features two status lights, <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span> (LED1) indicates charging is active, while <span style="background-color:rgb(0, 153, 69)"><span style="color:white;">green</span></span> (LED2) turns on when the battery is fully charged
-* **If charger is not functioning, replace fuse**
-
-### Relay Issues
-
-The RAR board features six relays. One for each motor direction, one for overcurrent, one for the emergency stop, and two for the battery charger.
-
-#### Motor relays
-* If the motor is only functioning in one direct, swap A&B relays
-
-#### Charger Relays
-
-
-### Sensor Issues
-
-![Sensors](assets/Sensors.jpg){: style="height:350px;width:350px"}        
-
-Each end stop has two sensors: a `Position` switch in the inside slot, close to the center of the disc, and a `Limit` switch in the slot nearer to the edge. As the motor approaches either end stop, the position switch will always trigger first, followed by the limit switch.
-
-![Lights](assets/Lights3.jpg){: style="height:350px;width:350px"}     
-
-Each sensor features its own indicator light and a corresponding status light on the board. 
-
-* For example, when the motor approaches the right endstop, `Right Position` will trigger before `Right Limit`
-* `Right Limit` triggering before `Right Position` indicates an improper connection order
-* If `Right Limit` triggers by itself, without `Right Position` being triggered first, this also shows a connection problem
-
-Conversely, the sensors corresponding to the same side will always trigger in sequence.
-
-* For example, `Left Position` will trigger followed by `Left Limit` when the motor reaches the left endstop
-* `Right Position` triggering followed by `Left Limit` demonstrates an sensor is connected in an improper location
-
-**Use the **`Jog`** buttons to verify that each sensor functions and is in the correct position.**
-
-### Board Issues
-
-If the above troubleshooting steps have been performed, and an issue has not been isolated, the fault may be with the board itself.
-
-* To test the board, use a multimeter to measure the output voltage
-* If board is receiving 24 Volts, and output voltage measures 0 Volts, disconnect power and swap the board with a new replacement
