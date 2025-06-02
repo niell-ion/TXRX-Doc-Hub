@@ -9,7 +9,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Projects:
-    - RARs: rars.md 
+    - RAR: rar.md 
     - Switch Gap Detector: switchgap.md
     - Portable Crossing Guard: crossing.md
 markdown_extensions:
