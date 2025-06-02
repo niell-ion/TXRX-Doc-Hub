@@ -27,27 +27,14 @@ This manual is for use by qualified technicians for onsite troubleshooting of th
     * Look for obstructions or wear that may be causing damage
     * If observed switch condition conflicts with status light, or gap is too large, refer to [Calibration Issues](#calibration-issues)
 
-4. Open enclosure and check for any error codes or status lights. 
-    * Verify that the device is in the correct mode for local control and that no remote users are connected
-    * Ensure that cable, relay, and fuse connections are secure
+4. Test device
+    * Throw switch while observing status light
+    * Verify that status light is <span style="background-color:rgb(0, 153, 69)"><span style="color:white;"> Green </span></span> when switch is in either thrown position, and <span style="background-color:rgb(255, 0, 0)"><span style="color:white;"> Red </span></span> while moving
+    * Verify that switch gap is within acceptable tolerance
 
     ![Battery Terminal](assets/Plug.jpg){: style="height:350px;width:350px"}
 
-5. Disconnect plug labeled `Charger` and measure input voltage
-    * Using a multimeter, probe across `24V IN` and `GND`, or `VBAT` and `GND`
-    * **Perform this step before proceeding as low voltage may present as other errors**
-    * If board is receiving less than `24V`, refer to [Charger Issues](#charger-issues)
-
-6. Verify that sensors are securely connected and in the correct positions
-    * Refer to [Sensor Issues](#sensor-issues)
-
-7. If board is receiving `24V`, no other issues have been found, and errors are still present:
-    * Refer to [Board Issues](#board-issues)
-
-### Addressing
-
-* The DIP switches may be used 
-
 ### Calibration
 
-* 
+* Hold both buttons to enter calibration mode
+* Maximum gap distance is ``13.75mm``, sensors will not read further
