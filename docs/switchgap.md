@@ -18,13 +18,14 @@ This manual is for use by qualified technicians for onsite troubleshooting of th
 ## Troubleshooting
 1. Verify that the device is connected to a working power source
 
-2. Visually inspect the status lights
-    * <span style="background-color:rgb(0, 153, 69)"><span style="color:white;"> Green </span></span>: Operator is currently connected to device
-    * <span style="background-color:rgb(255, 251, 0)"> Yellow </span> : Device is currently in motion
-    * <span style="background-color:rgb(255, 0, 0)"><span style="color:white;"> Red </span></span>: Error
+2. Visually inspect the status light
+    * <span style="background-color:rgb(0, 153, 69)"><span style="color:white;"> Green </span></span>: No gap detected
+    * <span style="background-color:rgb(255, 0, 0)"><span style="color:white;"> Red </span></span>: Gap detected
 
 3. Visually inspect the switch
-    * If switch is obstructed or housing is visibly rotated off of the ground, refer to [Overcurrent Issues](#overcurrent-issues)
+    * Check switch tip for gap, verify that status light matches observed condition
+    * Look for obstructions or wear that may be causing damage
+    * If observed switch condition conflicts with status light, or gap is too large, refer to [Calibration Issues](#calibration-issues)
 
 4. Open enclosure and check for any error codes or status lights. 
     * Verify that the device is in the correct mode for local control and that no remote users are connected
@@ -45,4 +46,8 @@ This manual is for use by qualified technicians for onsite troubleshooting of th
 
 ### Addressing
 
-* The DIP switches may be used
+* The DIP switches may be used 
+
+### Calibration
+
+* 
