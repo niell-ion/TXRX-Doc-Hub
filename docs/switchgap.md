@@ -37,5 +37,7 @@ This manual is for use by qualified technicians for onsite troubleshooting of th
 
 ### Calibration
 
-* Hold both buttons to enter calibration mode
-* Maximum gap distance is ``13.75mm``, sensors will not read further
+* Hold both ``left`` and ``right`` buttons for ``5 seconds`` to enter calibration mode
+* Throw the switch to the position of the sensor being calibrated
+* To set the offset for each detector, hold down the corresponding button for 2 seconds until the LEDs blink
+* The maximum gap distance that can be set is ``13.75mm``, the furthest the sensors can read
