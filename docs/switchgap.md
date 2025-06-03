@@ -23,14 +23,15 @@ This manual is for use by qualified technicians for onsite troubleshooting of th
     * <span style="background-color:rgb(255, 0, 0)"><span style="color:white;"> Red </span></span>: Gap detected
 
 3. Visually inspect the switch
-    * Check switch tip for gap, verify that status light matches observed condition
-    * Look for obstructions or wear that may be causing damage
-    * If observed switch condition conflicts with status light, or gap is too large, refer to [Calibration Issues](#calibration-issues)
+    * Check switch tip for gap, verify that status light color matches observed condition
+    * Look for obstructions or wear to the switch that may cause a gap
+    * If the observed switch condition conflicts with the status light, refer to [Calibration](#calibration)
 
 4. Test device
     * Throw switch while observing status light
     * Verify that status light is <span style="background-color:rgb(0, 153, 69)"><span style="color:white;"> Green </span></span> when switch is in either thrown position, and <span style="background-color:rgb(255, 0, 0)"><span style="color:white;"> Red </span></span> while moving
     * Verify that switch gap is within acceptable tolerance
+    * To adjust switch gap distance, refer to [Calibration](#calibration)
 
     ![Battery Terminal](assets/Plug.jpg){: style="height:350px;width:350px"}
 
