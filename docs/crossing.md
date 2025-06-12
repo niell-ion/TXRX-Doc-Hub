@@ -2,13 +2,13 @@
 
 ![Portable Crossing Guard](assets/crossing.jpg)
 
-Table of Contents
+## Table of Contents
 
-Preface
-* Safety precautions
+### Preface
+Safety precautions
 * Required tools and equipment
 
-System overview
+### System overview
 * Trailer
 * Crossing signal
 * Remote
