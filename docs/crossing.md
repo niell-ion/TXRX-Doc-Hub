@@ -1,6 +1,6 @@
 # Portable Crossing Gate
 
-![Portable Crossing Gate](assets/gate_aicher_text.jpg)
+![Portable Crossing Gate](assets/gate_aicher_text.png)
 
 ### Preface
 Safety precautions
