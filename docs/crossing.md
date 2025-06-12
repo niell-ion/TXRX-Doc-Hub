@@ -13,7 +13,7 @@ Safety precautions
 * Crossing signal
 * Remote
 
-Operations
+### Operations
 * Setup
 * Jacking up the trailer
 * Setting up the crossing signal
@@ -23,22 +23,20 @@ Operations
 * Positioning the solar panel
 * Locking the solar panel
 
-	Remote
-Enter programming mode
-Adding a crossing
-Removing a paired crossing
-Viewing list of paired crossings
+### Remote
+* Enter programming mode
+* Adding a crossing
+* Removing a paired crossing
+* Viewing list of paired crossings
 
-	Operation
-Moving the arm
+### Operation
+* Moving the arm
 	
-3. Maintenance
-	Mechanical Issues
-Adjusting the counterweight
-Adjusting the solar panel
+### Maintenance
+* Mechanical Issues
+* Adjusting the counterweight
+* Adjusting the solar panel
 	Electrical Issues
-
-
 
 4. Mechanical
 5. Electrical
