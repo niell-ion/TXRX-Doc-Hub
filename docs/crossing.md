@@ -2,8 +2,6 @@
 
 ![Portable Crossing Guard](assets/crossing.jpg)
 
-## Table of Contents
-
 ### Preface
 Safety precautions
 * Required tools and equipment
