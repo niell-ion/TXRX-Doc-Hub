@@ -3,7 +3,7 @@
 ![Portable Crossing Gate](assets/gate_aicher_text.png)
 
 ### Preface
-Safety precautions
+* Safety precautions
 * Required tools and equipment
 
 ### System overview
