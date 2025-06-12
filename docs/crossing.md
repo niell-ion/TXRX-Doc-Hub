@@ -31,14 +31,16 @@ Safety precautions
 
 ### Operation
 * Moving the arm
-	
+
 ### Maintenance
-* Mechanical Issues
-* Adjusting the counterweight
-* Adjusting the solar panel
-	Electrical Issues
+* Mechanical
+* Electrical
+	
+### Troubleshooting
+* Mechanical
+	* Counterweight issues
+	* Solar panel issues
 
-4. Mechanical
-5. Electrical
-6. Site Features
-
+* Electrical
+	* Charging issues
+	* Remote issues
