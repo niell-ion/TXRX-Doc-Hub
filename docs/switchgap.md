@@ -1,3 +1,7 @@
+# Switch Gap Detector
+
+![Portable Crossing Guard](assets/crossing.jpg)
+
 Preface
 Safety precautions
 Tools and Equipment
