@@ -1,43 +1,26 @@
-# Switch Gap Detector Troubleshooting Manual
+Preface
+Safety precautions
+Tools and Equipment
 
-![Switch Gap Detector](assets/switchgap1.jpg)
+1. System overview
+Controller
+Target plate
+Reader
 
-## Introduction
-This manual is for use by qualified technicians for onsite troubleshooting of the RAR automated switch system. This is not a product manual or schematic. This manual covers only the steps to diagnose issues, and should not be used to repair or modify the Switch Gap Detector.
+2. Operations
+	Setup
+Installing the reader
+Installing the target plate
+Calibrating the gap offset
 
-### Required Equipment
-* Multimeter
-* 1/8" Flat head screwdriver
-* Personal protective equipment
+	Operations
+Status light position indicator
 
-### Safety Information
-* Read all instructions before troubleshooting
-* Disconnect power before servicing
-* Use personal protective equipment as needed
+Maintenance
+Mechanical Issues
+Electrical Issues
 
-## Troubleshooting
-1. Verify that the device is connected to a working power source
-
-2. Visually inspect the status light
-    * <span style="background-color:rgb(0, 153, 69)"><span style="color:white;"> Green </span></span>: No gap detected
-    * <span style="background-color:rgb(255, 0, 0)"><span style="color:white;"> Red </span></span>: Gap detected
-
-3. Visually inspect the switch
-    * Check switch tip for gap, verify that status light color matches observed condition
-    * Look for obstructions or wear to the switch that may cause a gap
-    * If the observed switch condition conflicts with the status light, refer to [Calibration](#calibration)
-
-4. Test device
-    * Throw switch while observing status light
-    * Verify that status light is <span style="background-color:rgb(0, 153, 69)"><span style="color:white;"> Green </span></span> when switch is in either thrown position, and <span style="background-color:rgb(255, 0, 0)"><span style="color:white;"> Red </span></span> while moving
-    * Verify that switch gap is within acceptable tolerance
-    * To adjust switch gap distance, refer to [Calibration](#calibration)
-
-    ![Battery Terminal](assets/Plug.jpg){: style="height:350px;width:350px"}
-
-### Calibration
-
-* Hold both ``left`` and ``right`` buttons for ``5 seconds`` to enter calibration mode
-* Throw the switch to the position of the sensor being calibrated
-* To set the offset for each detector, hold down the corresponding button for 2 seconds until the LEDs blink
-* The maximum gap distance that can be set is ``13.75mm``, the furthest the sensors can read
+3. Troubleshooting
+Recalibrating the sensor
+Mechanical issues
+Electrical issues
