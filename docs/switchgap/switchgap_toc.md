@@ -1,5 +1,3 @@
-# Switch Gap Detector
-
 ![Switch Gap Detector](assets/switchgap1.jpg)
 
 ## 1. [Preface](switchgap_preface)
