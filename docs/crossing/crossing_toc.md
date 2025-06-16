@@ -33,7 +33,7 @@
 
 ### 5.2 Electrical Issues
 	
-## 6. Troubleshooting
+## 6. [Troubleshooting](crossing_troubleshooting.md)
 
 ### 6.1 Mechanical Issues
 * Counterweight
