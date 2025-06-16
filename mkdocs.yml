@@ -9,24 +9,27 @@ nav:
   - Home: index.md
   - About: about.md
   - Projects:
-    - RAR: rar.md 
-      -- Preface: rarpreface.md
-      -- System Overview: raroverview.md
-      -- Operations: raroperations.md
-      -- Maintenance: rarmaintenance.md
-      -- Troubleshooting: rartroubleshooting.md
-    - Switch Gap Detector: switchgap.md
-      -- Preface: switchgappreface.md
-      -- System Overview: switchgapoverview.md
-      -- Operations: switchgapoperations.md
-      -- Maintenance: switchgapmaintenance.md
-      -- Troubleshooting: switchgaptroubleshooting.md
-    - Portable Crossing Gate: crossing.md
-      -- Preface: crossingpreface.md
-      -- System Overview: crossingoverview.md
-      -- Operations: crossingoperations.md
-      -- Maintenance: crossingmaintenance.md
-      -- Troubleshooting: crossingtroubleshooting.md
+    - RAR:
+      - RAR: rar.md 
+      - Preface: rarpreface.md
+      - System Overview: raroverview.md
+      - Operations: raroperations.md
+      - Maintenance: rarmaintenance.md
+      - Troubleshooting: rartroubleshooting.md
+    - Switch Gap Detector:
+      - Switch Gap Detector: switchgap.md
+      - Preface: switchgappreface.md
+      - System Overview: switchgapoverview.md
+      - Operations: switchgapoperations.md
+      - Maintenance: switchgapmaintenance.md
+      - Troubleshooting: switchgaptroubleshooting.md
+    - Portable Crossing Gate:
+      - Portable Crossing Gate: crossing.md
+      - Preface: crossingpreface.md
+      - System Overview: crossingoverview.md
+      - Operations: crossingoperations.md
+      - Maintenance: crossingmaintenance.md
+      - Troubleshooting: crossingtroubleshooting.md
 markdown_extensions:
   - attr_list:
   - toc:
