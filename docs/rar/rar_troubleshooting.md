@@ -3,16 +3,6 @@
 ## Introduction
 This manual is for use by qualified technicians for onsite troubleshooting of the RAR automated switch system. This is not a product manual or schematic. This manual covers only the steps to diagnose issues, and should not be used to repair or modify the RAR.
 
-### Required Equipment
-* Multimeter
-* 1/8" Flat head screwdriver
-* Personal protective equipment
-
-### Safety Information
-* Read all instructions before troubleshooting
-* Disconnect power before servicing
-* Use personal protective equipment as needed
-
 ## Troubleshooting
 1. Verify that the device is connected to a working power source
 
