@@ -2,7 +2,7 @@
 
 ![Portable Crossing Guard](assets/crossing.jpg)
 
-## 1. Preface
+[## 1. Preface](switchgap_preface)
 * Safety precautions
 * Tools and Equipment
 
