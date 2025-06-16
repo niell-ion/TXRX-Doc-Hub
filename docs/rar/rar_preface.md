@@ -18,6 +18,8 @@ This equipment is intended only for use by trained and authorized personnel. All
 
 Failure to comply with the instructions and safety precautions in this manual can result in serious injury, equipment damage, or death.
 
+* ANSI-rated Personal Protective Equipment (PPE) must be worn at all times, including safety glasses, gloves, hard hat, and protective footwear
+
 * Always follow lockout/tagout procedures before performing maintenance
 
 * Disconnect power supply before servicing
@@ -26,21 +28,19 @@ Failure to comply with the instructions and safety precautions in this manual ca
 
 * Use only manufacturer-approved accessories and replacement parts
 
-> ⚠️ ANSI-rated Personal Protective Equipment (PPE) must be worn at all times, including safety glasses, gloves, hard hat, and protective footwear
-
 #### Safety Disclaimer
 
-The manufacturer assumes no liability for damage or injury resulting from:
-
-* Improper installation or operation
-
-* Unauthorized modifications
-
-* Use outside of intended application
-
-* Neglect of routine maintenance
-
-By operating this equipment, the user agrees to accept all responsibility for its safe use.
+> The manufacturer assumes no liability for damage or injury resulting from:
+>
+>* Improper installation or operation
+>
+>* Unauthorized modifications
+>
+>* Use outside of intended application
+>
+>* Neglect of routine maintenance
+>
+>By operating this equipment, the user agrees to accept all responsibility for its safe use.
 
 If there is any uncertainty regarding safe operation, contact the manufacturer or a qualified supervisor before proceeding.
 
