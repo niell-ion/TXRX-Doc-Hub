@@ -2,17 +2,16 @@
 
 ![Portable Crossing Gate](assets/gate_aicher_text.png)
 
-### Preface
+## 1. Preface
 * Safety precautions
 * Required tools and equipment
 
-### System overview
+## 2. System overview
 * Trailer
 * Crossing signal
 * Remote
 
-### Operations
-* Setup
+## 3. Setup
 * Jacking up the trailer
 * Setting up the crossing signal
 * Setting up the arm
@@ -21,24 +20,25 @@
 * Positioning the solar panel
 * Locking the solar panel
 
+## 4. Operations
 ### Remote
 * Enter programming mode
 * Adding a crossing
 * Removing a paired crossing
 * Viewing list of paired crossings
 
-### Operation
+## 5. Operation
 * Moving the arm
 
-### Maintenance
-* Mechanical
-* Electrical
+## 6. Maintenance
+### Mechanical
+### Electrical
 	
-### Troubleshooting
-* Mechanical
-	* Counterweight issues
-	* Solar panel issues
+## 7. Troubleshooting
+### Mechanical
+* Counterweight issues
+* Solar panel issues
 
-* Electrical
-	* Charging issues
-	* Remote issues
+### Electrical
+* Charging issues
+* Remote issues
