@@ -1,10 +1,10 @@
-### 1.1 Introduction
+# 1.1 Introduction
 
 Welcome to the TXRX RAR system. This manual is intended for machine operators, maintenance technicians, and field engineers. It provides step-by-step instructions to safely and effectively operate and maintain this equipment.
 
 ---
 
-### 1.2 Safety Information
+# 1.2 Safety Information
 
 The safety instructions included at this point are general safety instructions. 
 You will find particular safety instructions at the beginning of each chapter or at the appropriate point in the text.
@@ -17,7 +17,7 @@ You will find particular safety instructions at the beginning of each chapter or
 
 * Once accidents happen, they cannot be undone
 
-#### Safety Warning
+## Safety Warning
 
 <span style="color:red;">IMPORTANT SAFETY INFORMATION – READ BEFORE OPERATING</span></span>
 
@@ -35,7 +35,7 @@ Failure to comply with the instructions and safety precautions in this manual ca
 
 > ⚠️ ANSI-rated Personal Protective Equipment (PPE) must be worn at all times, including safety glasses, gloves, hard hat, and protective footwear
 
-#### Safety Disclaimer
+## Safety Disclaimer
 
 The manufacturer assumes no liability for damage or injury resulting from:
 
@@ -52,7 +52,7 @@ If there is any uncertainty regarding safe operation, contact the manufacturer o
 
 ---
 
-### 1.3 Tools and Equipment
+# 1.3 Tools and Equipment
 
 * Multimeter
 * 1/8" Flat head screwdriver
