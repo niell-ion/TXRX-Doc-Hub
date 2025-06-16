@@ -11,7 +11,7 @@ nav:
   - Projects:
     - RAR: rar.md 
     - Switch Gap Detector: switchgap.md
-    - Portable Crossing Guard: crossing.md
+    - Portable Crossing Gate: crossing.md
 markdown_extensions:
   - attr_list:
   - toc:
