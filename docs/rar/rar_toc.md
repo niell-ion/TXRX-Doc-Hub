@@ -4,7 +4,7 @@
 
 ## 1. ![Preface](rar_preface.md)
 * [Safety Precautions](rar_preface.md#safety_precautions)
-* Tools and Equipment
+* [Tools and Equipment](rar_preface.md#tools_and_equipment)
 
 ## 2. System overview
 * Controller
