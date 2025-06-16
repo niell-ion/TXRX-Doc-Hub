@@ -2,7 +2,7 @@
 
 ## 1. [Preface](crossing_preface.md)
 * [Safety Precautions](crossing_preface.md#safety_precautions)
-* [Tools and Equipment](crossing_preface#tools_and_equipment)
+* [Tools and Equipment](crossing_preface.md#tools_and_equipment)
 
 ## 2. [System overview](crossing_overview.md)
 * Trailer
