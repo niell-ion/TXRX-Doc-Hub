@@ -10,6 +10,7 @@ nav:
   - About: about.md
   - Projects:
     - RAR:
+      - RAR Table of Contents: rartoc.md
       - RAR: rar.md 
       - Preface: rarpreface.md
       - System Overview: raroverview.md
@@ -17,14 +18,14 @@ nav:
       - Maintenance: rarmaintenance.md
       - Troubleshooting: rartroubleshooting.md
     - Switch Gap Detector:
-      - Switch Gap Detector: switchgap.md
+      - Switch Gap Detector Table of Contents: switchgap.md
       - Preface: switchgappreface.md
       - System Overview: switchgapoverview.md
       - Operations: switchgapoperations.md
       - Maintenance: switchgapmaintenance.md
       - Troubleshooting: switchgaptroubleshooting.md
     - Portable Crossing Gate:
-      - Portable Crossing Gate: crossing.md
+      - Portable Crossing Gate Table of Contents: crossing.md
       - Preface: crossingpreface.md
       - System Overview: crossingoverview.md
       - Operations: crossingoperations.md
