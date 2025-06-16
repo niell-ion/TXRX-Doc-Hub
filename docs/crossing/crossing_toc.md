@@ -11,16 +11,16 @@
 
 ## 4. [Operation](crossing_operation.md)
 
-	### 4.1 Setup
-		* Jacking up the trailer
-		* Setting up the crossing signal
-		* Setting up the arm
-		* Adding counterweights
-		* Unlocking the arm
-		* Positioning the solar panel
-		* Locking the solar panel
+* ### 4.1 Setup
+	* Jacking up the trailer
+	* Setting up the crossing signal
+	* Setting up the arm
+	* Adding counterweights
+	* Unlocking the arm
+	* Positioning the solar panel
+	* Locking the solar panel
 
-	### 4.2 [Remote](crossing_remote.md)
+   ### 4.2 [Remote](crossing_remote.md)
 		* Enter programming mode
 		* Adding a crossing
 		* Removing a paired crossing
@@ -29,16 +29,16 @@
 
 ## 5. [Maintenance](crossing_maintenance.md)
 
-### 5.1 Mechanical Issues
+   ### 5.1 Mechanical Issues
 
-### 5.2 Electrical Issues
+   ### 5.2 Electrical Issues
 	
 ## 6. Troubleshooting
 
-### 6.1 Mechanical Issues
+   ### 6.1 Mechanical Issues
 * Counterweight
 * Solar panel
 
-### 6.2 Electrical Issues
+   ### 6.2 Electrical Issues
 * Charging
 * Remote
