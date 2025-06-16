@@ -58,5 +58,3 @@ If there is any uncertainty regarding safe operation, contact the manufacturer o
 * Multimeter
 * 1/8" Flat head screwdriver
 * Personal protective equipment
-
----
