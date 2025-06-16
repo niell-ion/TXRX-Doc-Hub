@@ -1,9 +1,6 @@
 ![RAR Circuit Board](assets/Board1.jpg)
 
-## Introduction
-This manual is for use by qualified technicians for onsite troubleshooting of the RAR automated switch system. This is not a product manual or schematic. This manual covers only the steps to diagnose issues, and should not be used to repair or modify the RAR.
-
-## Troubleshooting
+## Issue Diagnosis
 1. Verify that the device is connected to a working power source
 
 2. Visually inspect the status lights
