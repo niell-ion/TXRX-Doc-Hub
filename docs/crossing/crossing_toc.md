@@ -1,4 +1,4 @@
-![Portable Crossing Gate](assets/gate_aicher_text.png)
+![Portable Crossing Gate](/assets/gate_aicher_text.png)
 
 ## 1. [Preface](crossing_preface.md)
 * Safety precautions
