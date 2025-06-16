@@ -10,7 +10,7 @@ nav:
   - About: about.md
   - Projects:
     - RAR:
-      - Table of Contents: rartoc.md
+      - Table of Contents: rar_toc.md
       - RAR: rar.md 
       - Preface: rarpreface.md
       - System Overview: raroverview.md
