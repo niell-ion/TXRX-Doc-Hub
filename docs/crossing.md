@@ -1,4 +1,5 @@
 # Portable Crossing Gate
+## Table of Contents
 
 ![Portable Crossing Gate](assets/gate_aicher_text.png)
 
