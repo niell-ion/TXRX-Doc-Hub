@@ -1,6 +1,6 @@
 ![RAR Circuit Board](assets/Board1.jpg)
 
-## Diagnostic Steps
+## 6.1 Diagnostic Steps
 1. Verify that the device is connected to a working power source
 
 2. Visually inspect the status lights
@@ -28,7 +28,7 @@
 7. If board is receiving `24V`, no other issues have been found, and errors are still present:
     * Refer to [Board Issues](#board-issues)
 
-### Overcurrent Issues
+## 6.2 Overcurrent Issues
 
 ![Lights](assets/Lights2.jpg){: style="height:350px;width:350px"}        
 
@@ -46,17 +46,17 @@
 * Battery charger features two status lights, <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span> (LED1) indicates charging is active, while <span style="background-color:rgb(0, 153, 69)"><span style="color:white;">green</span></span> (LED2) turns on when the battery is fully charged
 * **If charger is not functioning, replace fuse**
 
-### Relay Issues
+## 6.3 Relay Issues
 
 The RAR board features six relays. One for each motor direction, one for overcurrent, one for the emergency stop, and two for the battery charger.
 
-#### Motor relays
+### Motor relays
 * If the motor is only functioning in one direct, swap A&B relays
 
-#### Charger Relays
+### Charger Relays
 
 
-### Sensor Issues
+## 6.4 Sensor Issues
 
 ![Sensors](assets/Sensors.jpg){: style="height:350px;width:350px"}        
 
@@ -77,7 +77,7 @@ Conversely, the sensors corresponding to the same side will always trigger in se
 
 **Use the **`Jog`** buttons to verify that each sensor functions and is in the correct position.**
 
-### Board Issues
+## 6.5 Board Issues
 
 If the above troubleshooting steps have been performed, and an issue has not been isolated, the fault may be with the board itself.
 
