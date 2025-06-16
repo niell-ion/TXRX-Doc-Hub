@@ -11,25 +11,25 @@ nav:
   - Projects:
     - RAR:
       - Table of Contents: rar/rar_toc.md
-      - Preface: rar_preface.md
-      - System Overview: rar_overview.md
-      - Operations: rar_operations.md
-      - Maintenance: rar_maintenance.md
-      - Troubleshooting: rar_troubleshooting.md
+      - Preface: rar/rar_preface.md
+      - System Overview: rar/rar_overview.md
+      - Operations: rar/rar_operations.md
+      - Maintenance: rar/rar_maintenance.md
+      - Troubleshooting: rar/rar_troubleshooting.md
     - Switch Gap Detector:
-      - Table of Contents: switchgap_toc.md
-      - Preface: switchgap_preface.md
-      - System Overview: switchgap_overview.md
-      - Operations: switchgap_operations.md
-      - Maintenance: switchgap_maintenance.md
-      - Troubleshooting: switchgap_troubleshooting.md
+      - Table of Contents: switchgap/switchgap_toc.md
+      - Preface: switchgap/switchgap_preface.md
+      - System Overview: switchgap/switchgap_overview.md
+      - Operations: switchgap/switchgap_operations.md
+      - Maintenance: switchgap/switchgap_maintenance.md
+      - Troubleshooting: switchgap/switchgap_troubleshooting.md
     - Portable Crossing Gate:
-      - Table of Contents: crossing_toc.md
-      - Preface: crossing_preface.md
-      - System Overview: crossing_overview.md
-      - Operations: crossing_operations.md
-      - Maintenance: crossing_maintenance.md
-      - Troubleshooting: crossing_troubleshooting.md
+      - Table of Contents: crossing/crossing_toc.md
+      - Preface: crossing/crossing_preface.md
+      - System Overview: crossing/crossing_overview.md
+      - Operations: crossing/crossing_operations.md
+      - Maintenance: crossing/crossing_maintenance.md
+      - Troubleshooting: crossing/crossing_troubleshooting.md
 markdown_extensions:
   - attr_list:
   - toc:
