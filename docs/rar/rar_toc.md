@@ -2,7 +2,7 @@
 
 ![RAR](docs/assets/Board1.jpg)
 
-## 1. [Preface](rar_preface)
+## 1. ![Preface](rar_preface.md)
 * Safety precautions
 * Tools and Equipment
 
