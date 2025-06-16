@@ -20,7 +20,7 @@
 * Positioning the solar panel
 * Locking the solar panel
 
-### 4.2 [Remote](crossing_remote.md)
+### 4.2 [Remote](crossing_operation.md#remote)
 * Enter programming mode
 * Adding a crossing
 * Removing a paired crossing
