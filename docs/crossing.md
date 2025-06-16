@@ -29,14 +29,14 @@
 * Moving the arm
 
 ## 6. Maintenance
-### Mechanical
-### Electrical
+### Mechanical Issues
+### Electrical Issues
 	
 ## 7. Troubleshooting
-### Mechanical
-* Counterweight issues
-* Solar panel issues
+### Mechanical Issues
+* Counterweight
+* Solar panel
 
-### Electrical
-* Charging issues
-* Remote issues
+### Electrical Issues
+* Charging
+* Remote
