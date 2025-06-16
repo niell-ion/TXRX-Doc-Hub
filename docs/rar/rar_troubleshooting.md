@@ -1,6 +1,6 @@
 ![RAR Circuit Board](assets/Board1.jpg)
 
-## Issue Diagnosis
+## Diagnostic Steps
 1. Verify that the device is connected to a working power source
 
 2. Visually inspect the status lights
