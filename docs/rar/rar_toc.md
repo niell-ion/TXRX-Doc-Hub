@@ -3,7 +3,7 @@
 ![RAR](docs/assets/Board1.jpg)
 
 ## 1. ![Preface](rar_preface.md)
-* [Safety_Precautions](rar_preface.md#safety_precautions)
+* [Safety Precautions](rar_preface.md#safety_precautions)
 * Tools and Equipment
 
 ## 2. System overview
