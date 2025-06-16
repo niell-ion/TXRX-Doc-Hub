@@ -2,29 +2,29 @@
 
 ![Portable Crossing Guard](assets/crossing.jpg)
 
-## Preface
+## 1. Preface
 	* Safety precautions
 	* Tools and Equipment
 
-## System overview
+## 2. System overview
 	* Controller
 	* Target plate
 	* Reader
 
-## Operations
+## 3. Operations
 	### Setup
 	* Installing the reader
 	* Installing the target plate
 	* Calibrating the gap offset
 
-### Status light position indicator
+	### Status light position indicator
 
 
-## Maintenance
+## 5. Maintenance
 	### Mechanical Issues
 	### Electrical Issues
 
-## Troubleshooting
-Recalibrating the sensor
-Mechanical issues
-Electrical issues
+## 6. Troubleshooting
+	### Recalibrating the sensor
+	### Mechanical issues
+	### Electrical issues
