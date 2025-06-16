@@ -37,7 +37,7 @@ By operating this equipment, the user agrees to accept all responsibility for it
 
 If there is any uncertainty regarding safe operation, contact the manufacturer or a qualified supervisor before proceeding.
 
-### 1.32 Tools and Equipment
+### 1.3 Tools and Equipment
 * Multimeter
 * 1/8" Flat head screwdriver
 * Personal protective equipment
