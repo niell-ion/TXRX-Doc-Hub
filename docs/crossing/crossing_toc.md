@@ -1,8 +1,8 @@
 ![Portable Crossing Gate](assets/Gate_Aicher_rev2.jpg)
 
 ## 1. [Preface](crossing_preface.md)
-* [Safety Precautions](crossing_preface.md#safety_precautions)
-* [Tools and Equipment](crossing_preface.md#tools_and_equipment)
+* Safety Precautions
+* Tools and Equipment
 
 ## 2. [System overview](crossing_overview.md)
 * Trailer
@@ -11,7 +11,7 @@
 
 ## 4. [Operation](crossing_operation.md)
 
-### 4.1 Setup
+### [4.1 Setup](crossing_operation.md#setup)
 * Jacking up the trailer
 * Setting up the crossing signal
 * Setting up the arm
@@ -20,12 +20,13 @@
 * Positioning the solar panel
 * Locking the solar panel
 
-### 4.2 [Remote](crossing_operation.md#remote)
-* Enter programming mode
-* Adding a crossing
-* Removing a paired crossing
-* Viewing list of paired crossings
-* Moving the arm
+### 4.2 [Programming the Remote](crossing_operation.md#programming_the_remote)
+* Add a Paired Crossing
+* Remove a Paired Crossing
+* View list of Paired Crossings
+
+### 4.3 [Using the Remote](crossing_operation.md#using_the_remote)
+* Raising the arm
 
 ## 5. [Maintenance](crossing_maintenance.md)
 
