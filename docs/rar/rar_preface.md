@@ -2,11 +2,11 @@
 ## 1. Preface
 ### 1.1 Introduction
 
-Welcome to the TXRX RAR system user manual. This manual is intended for machine operators, maintenance technicians, and field engineers. It provides step-by-step instructions to safely and effectively operate and maintain this equipment.
+Welcome to the TXRX RAR system. This manual is intended for machine operators, maintenance technicians, and field engineers. It provides step-by-step instructions to safely and effectively operate and maintain this equipment.
 
 ### 1.2 Safety Precautions
 #### Safety Warning
-IMPORTANT SAFETY INFORMATION – READ BEFORE OPERATING
+<span style="color:red;">IMPORTANT SAFETY INFORMATION – READ BEFORE OPERATING</span></span>
 
 This equipment is intended only for use by trained and authorized personnel. All users must read, understand, and follow the instructions in this manual before installing, operating, or servicing the equipment.
 
