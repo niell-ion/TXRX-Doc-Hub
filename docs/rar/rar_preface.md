@@ -1,6 +1,7 @@
 ## 1.1 Introduction
 
-Welcome to the TXRX RAR system. This manual is intended for machine operators, maintenance technicians, and field engineers. It provides step-by-step instructions to safely and effectively operate and maintain this equipment.
+Welcome to the TXRX RAR system. 
+This manual is intended for machine operators, maintenance technicians, and field engineers. It provides step-by-step instructions to safely and effectively operate and maintain this equipment.
 
 ---
 
