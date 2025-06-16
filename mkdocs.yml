@@ -18,14 +18,14 @@ nav:
       - Maintenance: rarmaintenance.md
       - Troubleshooting: rartroubleshooting.md
     - Switch Gap Detector:
-      - Table of Contents: switchgap.md
+      - Table of Contents: switchgaptoc.md
       - Preface: switchgappreface.md
       - System Overview: switchgapoverview.md
       - Operations: switchgapoperations.md
       - Maintenance: switchgapmaintenance.md
       - Troubleshooting: switchgaptroubleshooting.md
     - Portable Crossing Gate:
-      - Table of Contents: crossing.md
+      - Table of Contents: crossingtoc.md
       - Preface: crossingpreface.md
       - System Overview: crossingoverview.md
       - Operations: crossingoperations.md
