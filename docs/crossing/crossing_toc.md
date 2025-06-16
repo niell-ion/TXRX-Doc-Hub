@@ -29,16 +29,16 @@
 
 ## 5. [Maintenance](crossing_maintenance.md)
 
-   ### 5.1 Mechanical Issues
+### 5.1 Mechanical Issues
 
-   ### 5.2 Electrical Issues
+### 5.2 Electrical Issues
 	
 ## 6. Troubleshooting
 
-   ### 6.1 Mechanical Issues
+### 6.1 Mechanical Issues
 * Counterweight
 * Solar panel
 
-   ### 6.2 Electrical Issues
+### 6.2 Electrical Issues
 * Charging
 * Remote
