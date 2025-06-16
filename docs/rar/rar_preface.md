@@ -2,9 +2,10 @@
 ## 1. Preface
 
 ### Safety Precautions
-* item 1
-* item 2
-* item 3
+* Read all instructions before troubleshooting
+* Disconnect power before servicing
+* Use personal protective equipment as needed
+
 
 # Tools and Equipment
 * Multimeter
