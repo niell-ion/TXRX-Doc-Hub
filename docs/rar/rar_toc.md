@@ -1,6 +1,6 @@
 # RAR
 
-![RAR](assets/Board1.jpg)
+![RAR](docs/assets/Board1.jpg)
 
 ## 1. [Preface](rar_preface)
 * Safety precautions
