@@ -1,8 +1,11 @@
 ![RAR](assets/Board1.jpg)
 
 ## 1. [Preface](rar_preface.md)
-* [Safety Precautions](rar_preface.md#safety_precautions)
-* [Tools and Equipment](rar_preface.md#tools_and_equipment)
+### 1.1 Introduction
+### 1.2 [Safety Information](rar_preface.md#safety_information)
+* Safety Warning
+* Safety Disclaimer
+### 1.3 [Tools and Equipment](rar_preface.md#tools_and_equipment)
 
 ## 2. [System overview](rar_overview.md)
 * Controller
