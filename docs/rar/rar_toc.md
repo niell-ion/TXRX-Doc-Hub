@@ -12,19 +12,19 @@
 * Reader
 
 ## 3. [Operations](rar_operations.md)
-### Setup
+### 3.1 Setup
 * Installing the reader
 * Installing the target plate
 * Calibrating the gap offset
 
-### Status light position indicator
+### 3.2 Status light position indicator
 
 ## 5. [Maintenance](rar_maintenance.md)
-### Mechanical Issues
-### Electrical Issues
+### 5.1 Mechanical Issues
+### 5.2 Electrical Issues
 
 ## 6. [Troubleshooting](rar_troubleshooting.md)
-### Recalibrating the sensor
-### Mechanical issues
-### Electrical issues
+### 6.1 Recalibrating the sensor
+### 6.2 Mechanical issues
+### 6.3 Electrical issues
 
