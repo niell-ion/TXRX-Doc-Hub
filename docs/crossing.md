@@ -1,6 +1,3 @@
-### Table of Contents
-# Portable Crossing Gate
-
 ![Portable Crossing Gate](assets/gate_aicher_text.png)
 
 ## 1. Preface
