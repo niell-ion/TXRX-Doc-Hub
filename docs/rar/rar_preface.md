@@ -26,7 +26,7 @@ Failure to comply with the instructions and safety precautions in this manual ca
 
 * Use only manufacturer-approved accessories and replacement parts
 
-* ANSI-rated Personal Protective Equipment (PPE) must be worn at all times, including safety glasses, gloves, hard hat, and protective footwear
+> ⚠️ ANSI-rated Personal Protective Equipment (PPE) must be worn at all times, including safety glasses, gloves, hard hat, and protective footwear
 
 #### Safety Disclaimer
 
