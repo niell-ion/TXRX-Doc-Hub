@@ -31,6 +31,7 @@ nav:
       - Maintenance: crossing/crossing_maintenance.md
       - Troubleshooting: crossing/crossing_troubleshooting.md
     - Derail:
+      - Table of Contents: derail/derail_toc.md
 markdown_extensions:
   - attr_list:
   - toc:
