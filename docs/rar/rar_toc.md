@@ -1,7 +1,7 @@
 ![RAR](assets/Board1.jpg)
 
 ## 1. [Preface](rar_preface.md)
-### 1.1 Introduction
+### 1.1 [Introduction](rar_preface.md#introduction)
 ### 1.2 [Safety Information](rar_preface.md#safety_information)
 * Safety Warning
 * Safety Disclaimer
