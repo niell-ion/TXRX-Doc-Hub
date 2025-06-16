@@ -8,7 +8,7 @@ Welcome to the TXRX RAR system. This manual is intended for machine operators, m
 
 ---
 
-### 1.2 Safety Precautions
+### 1.2 Safety Information
 
 The safety instructions included at this point are general safety instructions. 
 You will find particular safety instructions at the beginning of each chapter or at the appropriate point in the text.
@@ -61,3 +61,5 @@ If there is any uncertainty regarding safe operation, contact the manufacturer o
 * Multimeter
 * 1/8" Flat head screwdriver
 * Personal protective equipment
+
+---
