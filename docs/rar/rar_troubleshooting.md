@@ -31,11 +31,6 @@ This manual is for use by qualified technicians for onsite troubleshooting of th
 7. If board is receiving `24V`, no other issues have been found, and errors are still present:
     * Refer to [Board Issues](#board-issues)
 
-### Addressing
-
-* The DIP switches may be used
-* 
-
 ### Overcurrent Issues
 
 ![Lights](assets/Lights2.jpg){: style="height:350px;width:350px"}        
