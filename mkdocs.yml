@@ -25,7 +25,7 @@ nav:
       - Maintenance: switchgapmaintenance.md
       - Troubleshooting: switchgaptroubleshooting.md
     - Portable Crossing Gate:
-      - Table of Contents: crossingtoc.md
+      - Table of Contents: crossing_toc.md
       - Preface: crossingpreface.md
       - System Overview: crossingoverview.md
       - Operations: crossingoperations.md
