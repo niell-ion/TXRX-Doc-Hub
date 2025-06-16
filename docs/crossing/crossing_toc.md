@@ -1,8 +1,8 @@
 ![Portable Crossing Gate](assets/Gate_Aicher_rev2.jpg)
 
 ## 1. [Preface](crossing_preface.md)
-i. [Safety Precautions](crossing_preface.md#safety_precautions)
-ii. [Required Tools and Equipment](crossing.preface#required_tools_and_equipment)
+1. [Safety Precautions](crossing_preface.md#safety_precautions)
+2. [Required Tools and Equipment](crossing.preface#required_tools_and_equipment)
 
 ## 2. [System overview](crossing_overview.md)
 * Trailer
