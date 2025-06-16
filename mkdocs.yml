@@ -10,7 +10,7 @@ nav:
   - About: about.md
   - Projects:
     - RAR: rar.md 
-      - Preface: rarpreface.md
+      -- Preface: rarpreface.md
       - System Overview: raroverview.md
       - Operations: raroperations.md
       - Maintenance: rarmaintenance.md
