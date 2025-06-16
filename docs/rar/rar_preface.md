@@ -10,6 +10,17 @@ Welcome to the TXRX RAR system. This manual is intended for machine operators, m
 
 ### 1.2 Safety Precautions
 
+The safety instructions included at this point are general safety instructions. 
+You will find particular safety instructions at the beginning of each chapter or at the appropriate point in the text.
+
+> ⚠️ Safety instructions are emphasized by a brightly shaded triangle and block quotes
+ 
+* Observing all safety instructions will help you to avoid accidents and to prevent damage to the RAR
+ 
+* Always comply with the safety instructions, even in scenarios where you are under time pressure
+
+* Once accidents happen, they cannot be undone
+
 #### Safety Warning
 
 <span style="color:red;">IMPORTANT SAFETY INFORMATION – READ BEFORE OPERATING</span></span>
