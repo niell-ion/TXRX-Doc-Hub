@@ -1,5 +1,3 @@
-# RAR Troubleshooting Manual
-
 ![RAR Circuit Board](assets/Board1.jpg)
 
 ## Introduction
