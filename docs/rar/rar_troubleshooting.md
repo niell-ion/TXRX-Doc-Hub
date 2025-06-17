@@ -1,4 +1,4 @@
-![RAR Circuit Board](assets/Board1.jpg)
+![RAR Circuit Board](assets/Board1.jpg){: style="height:350px;width:350px"}     
 
 ## 6.1 Diagnostic Steps
 1. Verify that the device is connected to a working power source
