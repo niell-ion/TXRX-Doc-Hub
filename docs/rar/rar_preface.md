@@ -1,6 +1,6 @@
 ## 1.1 Introduction
 
-### How to Use This Manual
+### **How to Use This Manual**
 
 Welcome to the TXRX RAR system. This manual is intended for machine operators, maintenance technicians, and field engineers. It provides step-by-step instructions to safely and effectively operate and maintain this equipment.
 
