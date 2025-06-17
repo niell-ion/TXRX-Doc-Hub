@@ -23,6 +23,7 @@ This manual is organized into clearly labeled sections for quick reference:
 > 💡 If you're looking for a specific topic, refer to the Table of Contents or use the search function (for digital versions).
 
 > ⚠️ This manual does not replace proper hands-on training. Only qualified personnel should operate or maintain this equipment.
+
 ---
 
 ## 1.2 Safety Information
