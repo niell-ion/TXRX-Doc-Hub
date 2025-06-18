@@ -11,7 +11,7 @@
 
 ## 4. [Operation](crossing_operation.md)
 
-### [4.1 Setup](crossing_operation.md#setup)
+### 4.1 [Setup](crossing_operation.md#setup)
 * Jacking up the trailer
 * Setting up the crossing signal
 * Setting up the arm
