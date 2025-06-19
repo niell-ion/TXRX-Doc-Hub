@@ -1,5 +1,7 @@
-## 5.1 Programming the Remote
+## 5.1 Remote Programming
 
+**Entering Programming Mode**
+---
 **Adding a Paired Crossing**
 ---
 **Removing a Paired Crossing**
@@ -7,8 +9,8 @@
 **Viewing list of Paired Crossings**
 ---
 
-## 5.2 Using the Remote
+## 5.2 Remote Operation
   
-**Raising the Arm**
+**Moving the Arm**
 ---
 
