@@ -2,12 +2,16 @@
 ## 4.1 Setup
 
 **Jacking up the trailer**
-**Setting up the crossing signal**
-**Setting up the arm**
-**Adding counterweights**
+-
+**Raising the crossing signal**
+-
+**Installing the arm**
+-
+**Counterweighting the arm**
+-
 **Unlocking the arm**
-**Positioning the solar panel**
-**Locking the solar panel**
+-
+**Setting up the solar panel**
 
 ## 4.2 Programming the Remote
 
