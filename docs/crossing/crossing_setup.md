@@ -4,6 +4,7 @@
 **Jacking up the trailer**
 ---
 **Raising the crossing signal**
+---
 
 ## 4.2 Arm Setup
 
