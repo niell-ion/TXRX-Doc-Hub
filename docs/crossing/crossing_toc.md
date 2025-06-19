@@ -9,6 +9,8 @@
 * Crossing signal
 * Remote
 
+---
+
 ## 3. [Setup](crossing_setup.md)
 
 ### 3.1 [Trailer Setup](crossing_remote.md#trailer_setup)
@@ -24,19 +26,25 @@
 
 ## 4. [Remote](crossing_remote.md)
 
-### 4.2 [Programming the Remote](crossing_remote.md#programming_the_remote)
-* Add a Paired Crossing
-* Remove a Paired Crossing
-* View list of Paired Crossings
+---
 
-### 4.3 [Using the Remote](crossing_remote.md#using_the_remote)
+### 4.1 [Programming the Remote](crossing_remote.md#programming_the_remote)
+* Adding a Paired Crossing
+* Removing a Paired Crossing
+* Viewing list of Paired Crossings
+
+### 4.2 [Using the Remote](crossing_remote.md#using_the_remote)
 * Raising the arm
+
+---
 
 ## 5. [Maintenance](crossing_maintenance.md)
 
 ### 5.1 Routine maintenance items
 
 ### 5.2 Other maintenance items
+
+---
 	
 ## 6. [Troubleshooting](crossing_troubleshooting.md)
 
