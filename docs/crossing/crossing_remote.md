@@ -1,7 +1,9 @@
 ## 5.1 Remote Programming
 
 **Entering Programming Mode**
+
 ---
+
 **Pairing the Portable Crossing Gate**
 
 * Once in programming mode, hold the ``UP`` button for ``5 seconds`` until all 4 LEDs blink repeatedly to enter pairing mode
