@@ -4,6 +4,8 @@
 * Safety Precautions
 * Tools and Equipment
 
+---
+
 ## 2. [System overview](crossing_overview.md)
 * Trailer
 * Crossing signal
@@ -12,6 +14,8 @@
 ---
 
 ## 3. [Setup](crossing_setup.md)
+
+---
 
 ### 3.1 [Trailer Setup](crossing_remote.md#trailer_setup)
 * Jacking up the trailer
