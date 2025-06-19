@@ -13,7 +13,7 @@ nav:
       - Table of Contents: rar/rar_toc.md
       - Preface: rar/rar_preface.md
       - System Overview: rar/rar_overview.md
-      - Operations: rar/rar_operations.md
+      - Operations: rar/rar_operation.md
       - Maintenance: rar/rar_maintenance.md
       - Troubleshooting: rar/rar_troubleshooting.md
     - Switch Gap Detector:
@@ -27,7 +27,7 @@ nav:
       - Table of Contents: crossing/crossing_toc.md
       - Preface: crossing/crossing_preface.md
       - System Overview: crossing/crossing_overview.md
-      - Operations: crossing/crossing_operations.md
+      - Operations: crossing/crossing_operation.md
       - Maintenance: crossing/crossing_maintenance.md
       - Troubleshooting: crossing/crossing_troubleshooting.md
     - Derail:
