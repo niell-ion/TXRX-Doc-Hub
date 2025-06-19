@@ -34,9 +34,9 @@
 
 ## 5. [Maintenance](crossing_maintenance.md)
 
-### 5.1 Mechanical Issues
+### 5.1 Routine maintenance items
 
-### 5.2 Electrical Issues
+### 5.2 Other maintenance items
 	
 ## 6. [Troubleshooting](crossing_troubleshooting.md)
 
