@@ -17,5 +17,7 @@
 
 ## 4.3 Solar Panel
 
-**Setting up the solar panel**
+**Positioning the solar panel**
+---
+**Locking the solar panel**
 ---
