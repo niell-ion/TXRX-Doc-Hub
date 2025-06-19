@@ -1,15 +1,19 @@
-# Operation
-## 4.1 Setup
+# Setup
+## 4.1 Trailer Setup
 
 **Jacking up the trailer**
 ---
 **Raising the crossing signal**
----
+
+## 4.2 Setup
+
 **Installing the arm**
 ---
 **Counterweighting the arm**
 ---
 **Unlocking the arm**
----
+
+## 4.3 Solar Panel
+
 **Setting up the solar panel**
 ---
