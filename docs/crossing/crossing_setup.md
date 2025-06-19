@@ -12,6 +12,7 @@
 **Counterweighting the arm**
 ---
 **Unlocking the arm**
+---
 
 ## 4.3 Solar Panel
 
