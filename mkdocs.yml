@@ -27,7 +27,8 @@ nav:
       - Table of Contents: crossing/crossing_toc.md
       - Preface: crossing/crossing_preface.md
       - System Overview: crossing/crossing_overview.md
-      - Operations: crossing/crossing_operation.md
+      - Setup: crossing/crossing_setup.md
+      - Remote: crossing/crossing_remote.md
       - Maintenance: crossing/crossing_maintenance.md
       - Troubleshooting: crossing/crossing_troubleshooting.md
     - Derail:
