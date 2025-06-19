@@ -20,7 +20,7 @@ nav:
       - Table of Contents: switchgap/switchgap_toc.md
       - Preface: switchgap/switchgap_preface.md
       - System Overview: switchgap/switchgap_overview.md
-      - Operations: switchgap/switchgap_operations.md
+      - Operations: switchgap/switchgap_operation.md
       - Maintenance: switchgap/switchgap_maintenance.md
       - Troubleshooting: switchgap/switchgap_troubleshooting.md
     - Portable Crossing Gate:
