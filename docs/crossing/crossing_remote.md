@@ -1,4 +1,4 @@
-## 4.2 Programming the Remote
+## 5.1 Programming the Remote
 
 **Adding a Paired Crossing**
 ---
@@ -7,7 +7,7 @@
 **Viewing list of Paired Crossings**
 ---
 
-## 4.3 Using the Remote
+## 5.2 Using the Remote
   
 **Raising the Arm**
 ---
