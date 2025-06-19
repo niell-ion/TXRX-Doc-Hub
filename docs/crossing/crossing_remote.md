@@ -21,9 +21,11 @@
 
 ## 5.2 Remote Operation
   
-**Moving the Arm**
+**Moving the Crossing Arm**
 
+> ⚠️ Ensure that yourself and others are clear of the crossing arm's travel path before raising or lowering the arm.
 
+* Press the ``UP`` button to raise the arm
 
-* Press the ``UP`` button to raise the arm 
+* Press the ``DOWN`` button to lower the arm
 ---
