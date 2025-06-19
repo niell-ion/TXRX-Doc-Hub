@@ -5,7 +5,7 @@
 ---
 **Raising the crossing signal**
 
-## 4.2 Setup
+## 4.2 Arm Setup
 
 **Installing the arm**
 ---
