@@ -12,12 +12,16 @@
 **Unlocking the arm**
 -
 **Setting up the solar panel**
+-
 
 ## 4.2 Programming the Remote
 
 **Add a Paired Crossing**
+-
 **Remove a Paired Crossing**
+-
 **View list of Paired Crossings**
+-
 
 ## 4.3 Using the Remote
   
