@@ -10,19 +10,18 @@
 * Press the blue button on the Portable Crossing Gate to pair
 * When crossing is paired, LEDs will blink to indicate a successful connection
 * To pair another Portable Crossing Gate, within ``15 seconds`` bring the remote to the next crossing and press the blue pairing button
-* To exit pairing mode, press any button
+* Press any button to exit pairing mode
+---
+
+**Viewing list of Paired Crossings**
+
+* 
 
 ---
 
 **Removing a Paired Crossing**
 
 * In programming mode, hold the ``DOWN`` button for ``5 seconds`` until all 4 LEDS blink repeatedly to enter unpairing mode
-* 
-
----
-
-**Viewing list of Paired Crossings**
-
 * 
 
 ---
