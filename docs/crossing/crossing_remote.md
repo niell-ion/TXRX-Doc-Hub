@@ -11,6 +11,8 @@
 
 **Pairing a Portable Crossing Gate**
 
+![Pairing Button](assets/remote_pair.png){: style="height:350px;width:350px"}
+
 * Once in programming mode, hold the ``UP`` button for ``5 seconds`` until all 4 LEDs blink <span style="background-color:rgb(255, 251, 0)">yellow</span> repeatedly to enter pairing mode.
 * Press the blue button on the Portable Crossing Gate to pair
 * When crossing is paired, LEDs will blink to indicate a successful connection
