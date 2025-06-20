@@ -5,7 +5,7 @@
 **Entering Programming Mode**
 
 * Pressing the ``UP`` button first immediately followed by the ``DOWN`` button, press ``UP`` and ``DOWN`` buttons in order and hold both for ``5 seconds``
-* LEDs will blink ``blue`` <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue </span></span>.
+* All 4 LEDs will blink <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue </span></span>.
 
 ---
 
