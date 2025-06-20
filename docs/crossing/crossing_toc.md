@@ -39,6 +39,8 @@
 ### 4.2 [Remote Operation](crossing_remote.md#remote_operation)
 * Moving the Arm
 
+### 4.3 [Video Reference](crossing_remote.md#video_reference)
+
 ---
 
 ## 5. [Maintenance](crossing_maintenance.md)
