@@ -16,7 +16,7 @@
 * Once in programming mode, hold the ``UP`` button for ``5 seconds`` until all 4 LEDs blink <span style="background-color:rgb(255, 251, 0)">yellow</span> repeatedly to enter pairing mode.
 * Press the <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span> button on the Portable Crossing Gate to pair
 * When crossing is paired, LEDs will blink to indicate a successful connection
-* To pair another Portable Crossing Gate, within ``15 seconds`` bring the remote to the next crossing and press the blue pairing button
+* To pair another Portable Crossing Gate, within ``15 seconds`` bring the remote to the next crossing and press the <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span> pairing button
 * Press any button to exit pairing mode
 ---
 
