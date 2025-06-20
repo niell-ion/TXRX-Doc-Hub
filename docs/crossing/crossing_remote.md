@@ -5,7 +5,7 @@
 **Entering Programming Mode**
 
 * Pressing the ``UP`` button first immediately followed by the ``DOWN`` button, press ``UP`` and ``DOWN`` buttons in order and hold both for ``5 seconds``
-* All 4 LEDs will blink <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span>.
+* All 4 LEDs will blink <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span>
 
 ---
 
@@ -25,14 +25,14 @@
 **Viewing list of Paired Crossings**
 
 * While in programming mode, press the ``UP`` and ``DOWN`` arrows to navigate the list of paired Portable Crossing Gates
-* Crossings are represented in binary by the number of LEDs illuminated in <span style="background-color:rgb(0, 0, 0)"><span style="color:white;">white</span></span>.
+* Paired crossings are listed in binary, the number of the crossing represented by the number of LEDs illuminated in white
 
 ---
 
 **Removing a Paired Crossing Gate**
 
-* In programming mode, navigate to the number of the crossing you wish to unpair, indicated by the number of LEDs illuminated.
-* Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the crossing blink <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span>.
+* In programming mode, navigate to the number of the crossing you wish to unpair, indicated by the number of LEDs illuminated
+* Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the crossing blink <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span>
 
 ---
 
@@ -43,7 +43,6 @@
 > ⚠️ Ensure that the arm's travel path is clear before raising or lowering to prevent injury or damage to equipment.
 
 * Press the ``UP`` button to raise the arm
-
 * Press the ``DOWN`` button to lower the arm
 
 ---
