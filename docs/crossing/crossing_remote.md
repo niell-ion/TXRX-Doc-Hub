@@ -4,7 +4,7 @@
 
 **Entering Programming Mode**
 
-* Pressing the ``UP`` button first, press ``UP`` and ``DOWN`` buttons and hold for ``5 seconds``
+* Pressing the ``UP`` button first immediately followed by the ``DOWN`` button, press ``UP`` and ``DOWN`` buttons in order and hold both for ``5 seconds``
 * LEDs will blink ``blue``
 
 ---
