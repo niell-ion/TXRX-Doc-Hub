@@ -35,7 +35,7 @@
 **Exiting to Control Mode**
 
 * From either viewing mode or pairing mode, wait ``15 seconds`` to return to normal control mode
-* Any updates to the list of paired crossings will apply automatically
+* Any updates made to the list of paired crossings will be applied
 
 ## 5.2 Remote Operation
 
