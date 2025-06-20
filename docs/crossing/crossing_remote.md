@@ -1,6 +1,6 @@
 ## 5.1 Remote Programming
 
-![Portable Crossing Gate Remote](assets/Remote-01.png)
+![Portable Crossing Gate Remote](assets/Remote-01.png){: style="height:350px;width:350px"}
 
 **Entering Programming Mode**
 
