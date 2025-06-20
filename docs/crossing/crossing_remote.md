@@ -4,8 +4,8 @@
 
 **Entering Programming Mode**
 
-* Pressing the ``UP`` button first immediately followed by the ``DOWN`` button, press ``UP`` and ``DOWN`` buttons in order and hold both for ``5 seconds``
-* All 4 LEDs will blink <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span>
+* Press and hold the ``UP`` button first immediately followed by the ``DOWN`` button, holding both ``UP`` and ``DOWN`` buttons for ``5 seconds``
+* All 4 LEDs will blink <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span> when programming mode is activated
 
 ---
 
@@ -14,10 +14,12 @@
 ![Pairing Button](assets/Remote_02.png){: style="height:350px;width:350px"}
 
 * Once in programming mode, hold the ``UP`` button for ``5 seconds`` until all 4 LEDs blink <span style="background-color:rgb(255, 251, 0)">yellow</span> repeatedly to enter pairing mode.
+* Locate the control enclosure on the Portable Crossing Gate you wish to pair, containing three buttons. The pairing button is located in the center and colored <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span> with a radio icon.
 * Press the <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span> button on the Portable Crossing Gate to pair
 * When crossing is paired, LEDs will blink to indicate a successful connection
-* To pair another Portable Crossing Gate, within ``15 seconds`` bring the remote to the next crossing and press the <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span> pairing button
-* Press any button to exit pairing mode
+* To pair another Portable Crossing Gate, bring the remote to the next crossing and press the <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span> pairing button within ``15 seconds``
+* After ``15 seconds`` the remote will time out and exit programming mode, which will have to be re-entered
+* Press any button to exit programming mode
 ---
 
 ![List of Crossings](assets/Remote_03-01.png){: style="height:350px;width:350px"}
