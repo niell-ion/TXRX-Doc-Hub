@@ -15,8 +15,6 @@
 
 ## 3. [Setup](crossing_setup.md)
 
----
-
 ### 3.1 [Trailer Setup](crossing_remote.md#trailer_setup)
 * Jacking up the trailer
 * Setting up the crossing signal
