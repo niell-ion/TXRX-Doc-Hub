@@ -40,3 +40,4 @@ markdown_extensions:
 
 plugins:
   - to-pdf
+  output_path: document.pd
