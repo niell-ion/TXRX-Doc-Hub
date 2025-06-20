@@ -8,15 +8,10 @@
 ### 1.3 [Tools and Equipment](rar_preface.md#tools_and_equipment)
 
 ## 2. [System overview](rar_overview.md)
-* Controller
-* Target plate
-* Reader
 
 ## 3. [Operations](rar_operations.md)
+
 ### 3.1 Setup
-* Installing the reader
-* Installing the target plate
-* Calibrating the gap offset
 
 ### 3.2 Status light position indicator
 
