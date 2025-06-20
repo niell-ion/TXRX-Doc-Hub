@@ -21,7 +21,7 @@
 **Viewing list of Paired Crossings**
 
 * While in programming mode, press the ``UP`` and ``DOWN`` arrows to navigate the list of paired Portable Crossing Gates
-* Crossings are represented in binary by the number of LEDs illuminated in <span style="background-color:rgb(255, 255, 255)"><span style="color:white;">white</span></span>.
+* Crossings are represented in binary by the number of LEDs illuminated in <span style="background-color:rgb(0, 0, 0)"><span style="color:white;">white</span></span>.
 
 ---
 
