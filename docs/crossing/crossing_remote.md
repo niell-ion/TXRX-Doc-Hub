@@ -58,7 +58,7 @@ Note that the remote control is always on when charged. Pressing either the ``UP
 
 ## 4.3 Video Reference
 
-Three demonstration videos are provided to show the remote's operation instructions
+Videos recorded on-site are provided to demonstrate operation of the remote.
 
 [Link to Shared Drive](https://drive.google.com/drive/folders/1m8iu9sO9QyP0LjTphAF3QGKxYsJJ6iOA?usp=drive_link)
 
