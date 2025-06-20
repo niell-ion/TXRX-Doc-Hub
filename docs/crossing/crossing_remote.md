@@ -5,7 +5,7 @@
 **Entering Programming Mode**
 
 * Pressing the ``UP`` button first immediately followed by the ``DOWN`` button, press ``UP`` and ``DOWN`` buttons in order and hold both for ``5 seconds``
-* LEDs will blink ``blue``
+* LEDs will blink ``blue`` <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue </span></span>.
 
 ---
 
@@ -28,7 +28,7 @@
 **Removing a Paired Crossing Gate**
 
 * In programming mode, navigate to the crossing you wish to unpair.
-* Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the crossing blink <span style="background-color:rgb(255, 0, 0)"><span style="color:white;"> Red </span></span>.
+* Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the crossing blink <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red </span></span>.
 
 ---
 
