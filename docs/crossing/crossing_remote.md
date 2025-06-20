@@ -1,8 +1,8 @@
 ## 5.1 Remote Programming
 
-![Portable Crossing Gate Remote](assets/Remote-01.png){: style="height:350px;width:350px"}
-
 **Viewing list of crossings**
+
+![Portable Crossing Gate Remote](assets/Remote-01.png){: style="height:350px;width:350px"}
 
 * Press and hold the ``UP`` button first immediately followed by the ``DOWN`` button, holding both ``UP`` and ``DOWN`` buttons for ``5 seconds``
 * All 4 LEDs will blink <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span> when viewing mode is active
@@ -15,7 +15,6 @@
 **Pairing a Crossing**
 
 ![Pairing Button](assets/Remote_02.png){: style="height:350px;width:350px"}
-Pairing button
 
 * While in viewing mode, hold the ``UP`` button for ``5 seconds`` until all 4 LEDs blink <span style="background-color:rgb(255, 251, 0)">yellow</span> repeatedly to enter pairing mode
 * Locate the control enclosure on the Portable Crossing Gate you wish to pair. Open the enclosure to expose the three control buttons. The pairing button is located in the center and colored <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span> with a radio icon
@@ -26,9 +25,9 @@ Pairing button
 * Wait ``15 seconds`` to return to normal control mode
 ---
 
-![List of Crossings](assets/Remote_03-01.png){: style="height:350px;width:350px"}
-
 **Removing a Paired Crossing Gate**
+
+![List of Crossings](assets/Remote_03-01.png){: style="height:350px;width:350px"}
 
 * In viewing mode, navigate to the number of the crossing you wish to remove, indicated in binary by the number of LEDs illuminated
 * Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the number of the crossing to remove blink <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span> to show that it has been successfuly removed
