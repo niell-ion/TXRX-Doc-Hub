@@ -28,7 +28,7 @@
 **Removing a Paired Crossing Gate**
 
 * In programming mode, navigate to the crossing you wish to unpair.
-* Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the
+* Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the crossing blink <span style="background-color:rgb(255, 0, 0)"><span style="color:white;"> Red </span></span>.
 
 ---
 
