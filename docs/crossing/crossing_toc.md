@@ -30,16 +30,16 @@
 
 ## 4. [Remote](crossing_remote.md)
 
-### 4.1 [Remote Programming](crossing_remote.md#remote_programming)
+### 4.1 [Remote Programming](crossing_remote.md#Remote_Programming)
 * Entering Programming Mode
 * Adding a Paired Crossing
 * Removing a Paired Crossing
 * Viewing list of Paired Crossings
 
-### 4.2 [Remote Operation](crossing_remote.md#remote_operation)
+### 4.2 [Remote Operation](crossing_remote.md#Remote_Operation)
 * Moving the Arm
 
-### 4.3 [Video Reference](crossing_remote.md#video_reference)
+### 4.3 [Video Reference](crossing_remote.md#Video_Reference)
 
 ---
 
