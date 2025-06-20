@@ -1,6 +1,6 @@
 ## 4.1 Remote Programming
 
-###Viewing list of crossings
+### Viewing list of crossings
 
 ![Portable Crossing Gate Remote](assets/Remote-01.png){: style="height:350px;width:350px"}
 
