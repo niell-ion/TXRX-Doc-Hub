@@ -15,7 +15,7 @@
 
 ---
 
-**Pairing a Crossing**
+### Pairing a Crossing
 
 ![Pairing Button](assets/Remote_02.png){: style="height:350px;width:350px"}
 
@@ -28,24 +28,24 @@
 * Wait ``15 seconds`` to return to normal control mode
 ---
 
-**Removing a Paired Crossing Gate**
+### Removing a Paired Crossing Gate
 
 * In viewing mode, navigate to the number of the crossing you wish to remove, indicated in binary by the number of LEDs illuminated
 * Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the number of the crossing to remove blink <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span> to show that it has been successfuly removed
 
-**Exiting to Control Mode**
+### Exiting to Control Mode
 
 * From either viewing mode or pairing mode, wait ``15 seconds`` to return to normal control mode
 * Any updates made to the list of paired crossings will be applied
 
 ## 4.2 Remote Operation
 
-**Charging the Remote**
+### Charging the Remote
 
 * Use the provided wireless charging cradle provided to keep the remote fully powered
 * **Always leave the remote on the cradle when not in use**
   
-**Moving the Crossing Arm**
+### Moving the Crossing Arm
 
 Note that the remote control is always on when charged. Pressing either the ``UP`` or ``DOWN`` button will immediately activate the crossing when in range.
 
