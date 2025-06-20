@@ -5,13 +5,13 @@
 **Entering Programming Mode**
 
 * Pressing the ``UP`` button first immediately followed by the ``DOWN`` button, press ``UP`` and ``DOWN`` buttons in order and hold both for ``5 seconds``
-* All 4 LEDs will blink <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue </span></span>.
+* All 4 LEDs will blink <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span>.
 
 ---
 
 **Pairing a Portable Crossing Gate**
 
-* Once in programming mode, hold the ``UP`` button for ``5 seconds`` until all 4 LEDs blink <span style="background-color:rgb(255, 251, 0)">Yellow </span> repeatedly to enter pairing mode.
+* Once in programming mode, hold the ``UP`` button for ``5 seconds`` until all 4 LEDs blink <span style="background-color:rgb(255, 251, 0)">yellow</span> repeatedly to enter pairing mode.
 * Press the blue button on the Portable Crossing Gate to pair
 * When crossing is paired, LEDs will blink to indicate a successful connection
 * To pair another Portable Crossing Gate, within ``15 seconds`` bring the remote to the next crossing and press the blue pairing button
@@ -21,14 +21,14 @@
 **Viewing list of Paired Crossings**
 
 * While in programming mode, press the ``UP`` and ``DOWN`` arrows to navigate the list of paired Portable Crossing Gates
-* Crossings are represented in binary by the number of LEDs illuminated in ``white``. 
+* Crossings are represented in binary by the number of LEDs illuminated in <span style="background-color:rgb(255, 255, 255)"><span style="color:white;">white</span></span>.
 
 ---
 
 **Removing a Paired Crossing Gate**
 
 * In programming mode, navigate to the crossing you wish to unpair.
-* Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the crossing blink <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red </span></span>.
+* Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the crossing blink <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span>.
 
 ---
 
