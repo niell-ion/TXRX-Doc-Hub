@@ -7,6 +7,9 @@
 * Press and hold the ``UP`` button first immediately followed by the ``DOWN`` button, holding both ``UP`` and ``DOWN`` buttons for ``5 seconds``
 * All 4 LEDs will blink <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span> when viewing mode is active
 * While in viewing mode, press the ``UP`` and ``DOWN`` arrows to navigate the list of paired Portable Crossing Gates
+
+![List of Crossings](assets/Remote_03-01.png){: style="height:350px;width:350px"}
+
 * Paired crossings are listed in binary, the number of the crossing represented by the number of LEDs illuminated in white
 * To exit viewing mode, wait ``15 seconds``
 
@@ -26,8 +29,6 @@
 ---
 
 **Removing a Paired Crossing Gate**
-
-![List of Crossings](assets/Remote_03-01.png){: style="height:350px;width:350px"}
 
 * In viewing mode, navigate to the number of the crossing you wish to remove, indicated in binary by the number of LEDs illuminated
 * Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the number of the crossing to remove blink <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span> to show that it has been successfuly removed
