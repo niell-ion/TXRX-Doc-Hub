@@ -20,6 +20,8 @@
 * Press any button to exit pairing mode
 ---
 
+![List of Crossings](assets/Remote_03-01.png){: style="height:350px;width:350px"}
+
 **Viewing list of Paired Crossings**
 
 * While in programming mode, press the ``UP`` and ``DOWN`` arrows to navigate the list of paired Portable Crossing Gates
@@ -29,7 +31,7 @@
 
 **Removing a Paired Crossing Gate**
 
-* In programming mode, navigate to the crossing you wish to unpair.
+* In programming mode, navigate to the number of the crossing you wish to unpair, indicated by the number of LEDs illuminated.
 * Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the crossing blink <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span>.
 
 ---
