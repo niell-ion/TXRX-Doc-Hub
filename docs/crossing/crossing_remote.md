@@ -1,5 +1,7 @@
 ## 5.1 Remote Programming
 
+![Portable Crossing Gate Remote](assets/Remote-01.png)
+
 **Entering Programming Mode**
 
 * Pressing the ``UP`` button first, press ``UP`` and ``DOWN`` buttons and hold for ``5 seconds``
