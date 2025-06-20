@@ -2,11 +2,14 @@
 
 **Entering Programming Mode**
 
+* Pressing the ``UP`` button first, press ``UP`` and ``DOWN`` buttons and hold for ``5 seconds``
+* LEDs will blink ``blue``
+
 ---
 
-**Pairing the Portable Crossing Gate**
+**Pairing a Portable Crossing Gate**
 
-* Once in programming mode, hold the ``UP`` button for ``5 seconds`` until all 4 LEDs blink repeatedly to enter pairing mode
+* Once in programming mode, hold the ``UP`` button for ``5 seconds`` until all 4 LEDs blink ``yellow`` repeatedly to enter pairing mode.
 * Press the blue button on the Portable Crossing Gate to pair
 * When crossing is paired, LEDs will blink to indicate a successful connection
 * To pair another Portable Crossing Gate, within ``15 seconds`` bring the remote to the next crossing and press the blue pairing button
@@ -15,14 +18,15 @@
 
 **Viewing list of Paired Crossings**
 
-* 
+* While in programming mode, press the ``UP`` and ``DOWN`` arrows to navigate the list of paired Portable Crossing Gates
+* Crossings are represented in binary by the number of LEDs illuminated in ``white``. 
 
 ---
 
-**Removing a Paired Crossing**
+**Removing a Paired Crossing Gate**
 
-* In programming mode, hold the ``DOWN`` button for ``5 seconds`` until all 4 LEDS blink repeatedly to enter unpairing mode
-* 
+* In programming mode, navigate to the crossing you wish to unpair.
+* Hold the ``DOWN`` button for ``5 seconds`` until the LEDs indicating the
 
 ---
 
@@ -35,5 +39,9 @@
 * Press the ``UP`` button to raise the arm
 
 * Press the ``DOWN`` button to lower the arm
+
+---
+
+[Video Reference](
 
 ---
