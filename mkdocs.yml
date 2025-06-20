@@ -37,7 +37,3 @@ markdown_extensions:
   - attr_list:
   - toc:
       permalink: true
-
-plugins:
-  - to-pdf
-      output_path: document.pdf
