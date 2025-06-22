@@ -6,8 +6,8 @@ This site is built with [MKDocs](http://mkdocs.org)
 
 [RAR](rar_toc.md){ .md-button }
 
-## [Switch Gap Detector](docs/switchgap_toc.md)
+[Switch Gap Detector](docs/switchgap_toc.md){ .md-button }
 
-## [Portable Crossing Gate](docs/crossing_toc.md)
+[Portable Crossing Gate](docs/crossing_toc.md){ .md-button }
 
-## [Derail](docs/derail_toc.md)
+[Derail](docs/derail_toc.md){ .md-button }
