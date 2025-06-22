@@ -2,7 +2,7 @@
 
 For more information visit [txrxlabs.org](https://www.txrxlabs.org)
 
-This site is built with [MKDocs](http://mkdocs.org)\
+This site is built with [MKDocs](http://mkdocs.org)
 
 ## [RAR](rar_toc.md)
 
