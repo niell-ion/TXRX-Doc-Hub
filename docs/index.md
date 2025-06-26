@@ -5,22 +5,22 @@ Visit the links below to access the table of contents for each project, or use t
 
 ---
 
-**RAR**
+## **RAR**
 
 [Go to Project](rar/rar_toc.md){ .md-button .md-button--primary } 
 
 
-**Portable Crossing Gate**
+## **Portable Crossing Gate**
 
 [Go to Project](switchgap/switchgap_toc.md){ .md-button .md-button--primary } 
 
 
-**Portable Crossing Gate**
+## **Portable Crossing Gate**
 
 [Go to Project](crossing/crossing_toc.md){ .md-button .md-button--primary } 
 
 
-**Switch Gap Detector**
+## **Switch Gap Detector**
 
 [Go to Project](derail/derail_toc.md){ .md-button .md-button--primary }
 
