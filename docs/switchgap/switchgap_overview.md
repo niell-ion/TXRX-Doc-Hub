@@ -39,4 +39,4 @@ The status light sits atop a pole attached to the controller housting. It provid
 
 ---
 
-[Preface :material-chevron-left:](switchgap_preface.md){ .md-button .md-button--primary }  [Operation :material-chevron-right:](switchgap_operation.md){ .md-button .md-button--primary }
+[:material-chevron-left: Preface](switchgap_preface.md){ .md-button .md-button--primary }  [Operation :material-chevron-right:](switchgap_operation.md){ .md-button .md-button--primary }
