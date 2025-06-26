@@ -1,8 +1,7 @@
-## 2.1 Trailer
+## 2.1 Target Plate
 
-## 2.2 Crossing Signal
+## 2.2 Sensors
 
-## 2.3 Crossing Arm
+## 2.3 Controller
 
-## 2.4 Remote
-
+## 2.4 Status Light
