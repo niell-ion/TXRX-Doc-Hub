@@ -1,15 +1,15 @@
 ## 3.1 Setup
 
-** Installing the sensor module **
+**Installing the sensor module**
 
 
-** Installing the target plate **
+**Installing the target plate**
 
 * Locate the mounting arm with two holes welded to the switch rail *The mounting arm is installed by TXRX and not included within the scope of this manual*
 
 ## 3.2 Calibration
 
-** Calibrating the gap offset **
+**Calibrating the gap offset**
 
 ---
 
