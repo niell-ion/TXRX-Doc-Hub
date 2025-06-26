@@ -6,7 +6,7 @@ theme:
     primary: deep orange
     accent: blue
   features:
-  - navigation.footer
+    - navigation.footer
 nav:
   - Home: index.md
   - About: about.md
