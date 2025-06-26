@@ -8,7 +8,7 @@ Use the links below to access the table of contents for each project, or quickly
 
 ## **RAR**
 
-[Go to Project](rar/rar_toc.md){ .md-button .md-button--primary } 
+[:material-arrow-right: – `.icons/material/arrow-right.svg` Go](rar/rar_toc.md){ .md-button .md-button--primary } 
 
 ---
 
