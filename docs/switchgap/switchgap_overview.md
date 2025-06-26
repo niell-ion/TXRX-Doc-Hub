@@ -38,5 +38,3 @@ The status light sits atop a pole attached to the controller housting. It provid
 * In calibration mode, the light will shine continuously to provide real-time distance feedback
 
 ---
-
-[:material-chevron-left: Preface](switchgap_preface.md){ .md-button .md-button--primary }  [Operation :material-chevron-right:](switchgap_operation.md){ .md-button .md-button--primary }
