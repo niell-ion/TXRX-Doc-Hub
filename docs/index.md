@@ -1,7 +1,8 @@
 # Project Portal
 
 Welcome to the TXRX Documentation Hub.
-Visit the links below to access the table of contents for each project, or use the left navigation bar to quickly access pages.
+
+Use the links below to access the table of contents for each project, or quickly access pages with the left navigation bar.
 
 ---
 
