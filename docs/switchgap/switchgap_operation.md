@@ -2,6 +2,9 @@
 
 **Installing the sensor module**
 
+1. Loosen the bolts on the sensor module toe clamp
+2. Fit the toe clamp over the base of the rail, parallel to the target plate bracket
+3. c
 
 **Installing the target plate**
 
