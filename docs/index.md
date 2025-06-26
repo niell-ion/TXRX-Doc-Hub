@@ -2,7 +2,7 @@
 
 Welcome to the TXRX Documentation Hub.
 
-Use the links below to access the table of contents for each project, or quickly access pages with the left navigation bar.
+Use the links below to visit the table of contents for each project, or quickly access pages with the left navigation bar.
 
 ---
 
@@ -14,19 +14,19 @@ Use the links below to access the table of contents for each project, or quickly
 
 ## **Switch Gap Detector**
 
-[Go to Project](switchgap/switchgap_toc.md){ .md-button .md-button--primary } 
+[Go :material-arrow-right:](switchgap/switchgap_toc.md){ .md-button .md-button--primary } 
 
 ---
 
 ## **Portable Crossing Gate**
 
-[Go to Project](crossing/crossing_toc.md){ .md-button .md-button--primary } 
+[Go :material-arrow-right:](crossing/crossing_toc.md){ .md-button .md-button--primary } 
 
 ---
 
 ## **Derail**
 
-[Go to Project](derail/derail_toc.md){ .md-button .md-button--primary }
+[Go :material-arrow-right:](derail/derail_toc.md){ .md-button .md-button--primary }
 
 ---
 
