@@ -20,7 +20,9 @@
 * Installing the target plate
 * Calibrating the gap offset
 
-### 3.2 Status light position indicator
+### 3.2 Calibration
+
+### 3.3 Instructions for Use
 
 ---
 
