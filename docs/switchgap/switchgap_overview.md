@@ -2,10 +2,10 @@
 
 The sensor modules consist of electromagnetic displacement sensors enclosed in a cast aluminum housing. Each switch gap detector features two sensor modules, one for each switch position.
 
-* They monitor the switch point position by detecting the presence and relative distance of a target plate
 * Sensor modules are always fastened to the stock rail
+* They monitor the switch point position by detecting the presence and relative distance of a target plate
 * They are hardwired to the controller via electrical conduit
-* Sensors modules must be calibrated to the correct target distance before use
+* Sensor modules must be position adjusted and calibrated before use
 
 ---
 
@@ -13,8 +13,8 @@ The sensor modules consist of electromagnetic displacement sensors enclosed in a
 
 Target plates are specially designed steel plates that can be detected by the sensor housing.
 
-* Target plates are always fastened to the switch rail. 
-* Target plates must be adjusted to the correct angle and spacing from the sensor module before use.
+* Target plates are always fastened to the switch rail
+* Target plates must be position adjusted before use
 
 ---
 
