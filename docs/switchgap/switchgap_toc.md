@@ -5,9 +5,10 @@
 * Tools and Equipment
 
 ## 2. [System overview](switchgap_overview)
-* Controller
-* Target plate
-* Reader
+### 2.1 Target Plate
+### 2.2 Sensors
+### 2.3 Controller
+### 2.4 Status Light
 
 ## 3. [Operations](switchgap_operations)
 ### 3.1 Setup
