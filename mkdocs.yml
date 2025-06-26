@@ -5,6 +5,8 @@ theme:
   palette: 
     primary: deep orange
     accent: blue
+  features:
+  - navigation.footer
 nav:
   - Home: index.md
   - About: about.md
@@ -33,8 +35,6 @@ nav:
       - Troubleshooting: crossing/crossing_troubleshooting.md
     - Derail:
       - Table of Contents: derail/derail_toc.md
-features:
-  - navigation.footer
 markdown_extensions:
   - attr_list:
   - toc:
