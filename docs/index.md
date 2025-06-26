@@ -8,13 +8,13 @@ Use the links below to visit the table of contents for each project, or quickly 
 
 ## **RAR**
 
-[Go :material-arrow-right:](rar/rar_toc.md){ .md-button .md-button--primary } 
+[Go :material-arrow-right-thick:](rar/rar_toc.md){ .md-button .md-button--primary } 
 
 ---
 
 ## **Switch Gap Detector**
 
-[Go :material-arrow-right:](switchgap/switchgap_toc.md){ .md-button .md-button--primary } 
+[Go :material-arrow-right-thick:](switchgap/switchgap_toc.md){ .md-button .md-button--primary } 
 
 ---
 
@@ -26,7 +26,7 @@ Use the links below to visit the table of contents for each project, or quickly 
 
 ## **Derail**
 
-[Go :material-arrow-right:](derail/derail_toc.md){ .md-button .md-button--primary }
+[Go :material-arrow-right-thick:](derail/derail_toc.md){ .md-button .md-button--primary }
 
 ---
 
