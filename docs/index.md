@@ -20,7 +20,7 @@ Use the links below to visit the table of contents for each project, or quickly 
 
 ## **Portable Crossing Gate**
 
-[Go :material-arrow-right:](crossing/crossing_toc.md){ .md-button .md-button--primary } 
+[Go :fa-arrow-right:](crossing/crossing_toc.md){ .md-button .md-button--primary } 
 
 ---
 
