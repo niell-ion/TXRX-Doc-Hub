@@ -6,4 +6,4 @@
 
 ---
 
-[Troubleshooting :material-chevron-right:](switchgap_troubleshooting.md){ .md-button .md-button--primary } 
+[Operation :material-chevron-right:](switchgap_operation.md){ .md-button .md-button--primary }  [Troubleshooting :material-chevron-right:](switchgap_troubleshooting.md){ .md-button .md-button--primary } 
