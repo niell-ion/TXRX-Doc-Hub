@@ -16,4 +16,4 @@
 
 ---
 
-[:material-chevron-left: Table of Contents](switchgap_toc.md){ .md-button .md-button--primary }      [Overview :material-chevron-right:](switchgap_overview.md){ .md-button .md-button--primary } 
+<div style="padding-left: 20px; padding-right: 20px;">[:material-chevron-left: Table of Contents](switchgap_toc.md){ .md-button .md-button--primary }</div>  [Overview :material-chevron-right:](switchgap_overview.md){ .md-button .md-button--primary } 
