@@ -3,6 +3,8 @@
 
 ### Jacking up the trailer
 
+![Trailer Jack](assets/crossing_jack.jpg){: style="height:350px;width:350px"}
+
 1. Park the trailer on level ground
 2. Disconnect tow vehicle
 3. Place wheel chocks in front of and behind the axle
