@@ -9,4 +9,3 @@
 * 1/8" Flat head screwdriver
 * Calipers
 * Wrench or socket set
-* Ladder or lift (if needed for height)
