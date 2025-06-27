@@ -37,5 +37,3 @@ Ensure proper PPE is equipped and all required tools are present before attempti
 4. There should be a 1mm gap between the sensor and plate when the switch is closed
 
 ## 3.3 Usage Instructions
-
----
