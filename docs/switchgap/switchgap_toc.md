@@ -18,9 +18,9 @@
 ### 3.1 Setup
 * Installing the reader
 * Installing the target plate
-* Calibrating the gap offset
 
 ### 3.2 Calibration
+* Setting the gap offset
 
 ### 3.3 Usage Instructions
 
