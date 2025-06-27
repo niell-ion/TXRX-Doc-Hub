@@ -2,11 +2,11 @@
 
 ### Preparation
 
-``Note: Limited installation instructions are provided. The controller, target plate mounting arm, and protective cover plates are installed by TXRX.``
-
 Ensure proper PPE is equipped and all required tools are present before attempting to install the Switch Gap Detector. 
 
 ### Installing the Sensor Module
+
+``Note: Limited installation instructions are provided. The controller, target plate mounting arm, and protective cover plates are installed by TXRX.``
 
 1. Start by installing the sensor module on the stock rail closest to the controller enclosure
 2. Observe that the sensor module is properly connected to the controller enclosure
