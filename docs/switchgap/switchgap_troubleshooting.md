@@ -2,7 +2,7 @@
 
 If the gap distance needs to be adjusted, follow the initial calibration steps to reset the sensor.
 
-### 3.1 [Calibration](switchgap_operation.md#calibrating-the-sensor)
+### [Calibration](switchgap_operation.md#calibrating-the-sensor)
 
 ---
 
