@@ -66,4 +66,4 @@ The status light provides visual feedback whether the switch is gapped when not 
 * A <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span> blinking light indicates a gap or moving switch
 * A <span style="background-color:rgb(0, 255, 0)">green</span> blinking light indicates proper contact
 
-> ⚠️ If the switch is not moving and not intentionally gapped, but the light is blinking ``red``, immediately stop use of the switch until properly inspected.
+> ⚠️ If the switch is not moving and not intentionally gapped, but the light is blinking ``<span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span>``, immediately stop use of the switch until properly inspected.
