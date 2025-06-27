@@ -6,4 +6,5 @@
 ## 1.2 Tools and Equipment
 * Multimeter
 * Personal protective equipment
-* Adjustable Wrench x2
+* Wrench or socket set
+* Ladder or lift (if needed for height)
