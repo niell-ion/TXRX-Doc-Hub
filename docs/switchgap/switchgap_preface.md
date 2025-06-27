@@ -1,5 +1,3 @@
-## Preface
-
 ### Safety Precautions
 * Read all instructions before troubleshooting
 * Disconnect power before servicing
