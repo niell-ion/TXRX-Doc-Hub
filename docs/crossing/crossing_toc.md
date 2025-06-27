@@ -22,7 +22,7 @@
 * Setting up the arm
 * Adding counterweights
 * Unlocking the arm
-### 3.3 [Solar Panel Setup](docs/crossing/crossing_setup.md##solar-panel-setup)
+### 3.3 [Solar Panel Setup](docs/crossing/crossing_setup.md#solar-panel-setup)
 * Positioning the solar panel
 * Locking the solar panel
 
