@@ -16,7 +16,7 @@
 
 ---
 
-### Raising the Ccrossing Signal
+### Raising the Crossing Signal
 
 1. Release the locking bolts from the signal mast
 2. Carefully raise the mast into positon, using the side steps to prevent injury
