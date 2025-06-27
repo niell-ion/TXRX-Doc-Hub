@@ -57,6 +57,8 @@
 8. Press and hold both push buttons for ``5 seconds`` until LEDs blink blue
 9. The near side gap is now calibrated, repeat the process for the far side
 
+---
+
 ## 3.3 Usage
 
 The status light provides visual feedback whether the switch is gapped when not moving. Check the status light after every switch movement to effectively prevent derailments due to gapped switches
