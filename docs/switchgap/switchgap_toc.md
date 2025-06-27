@@ -27,12 +27,15 @@
 ---
 
 ## 4. [Maintenance](switchgap_maintenance.md)
-### 5.1 Mechanical Issues
-### 5.2 Electrical Issues
+### 4.1 Mechanical Issues
+### 4.2 Electrical Issues
 
 ---
 
 ## 5. [Troubleshooting](switchgap_troubleshooting.md)
 ### 5.1 Recalibrating the sensor
+* Calibration
 ### 5.2 Mechanical issues
+* Switch is Blocked
 ### 5.3 Electrical issues
+* Status Light is Not Illuminated
