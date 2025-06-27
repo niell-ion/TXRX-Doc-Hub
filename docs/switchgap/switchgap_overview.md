@@ -1,5 +1,7 @@
 ## 2.1 Sensor Modules
 
+![Sensor Module](assets/switchgap1.jpg){: style="height:350px;width:350px"}
+
 The sensor modules consist of electromagnetic displacement sensors enclosed in a cast aluminum housing. They monitor the switch point position by electromagnetically detecting the presence and relative distance of the target plate. Each switch gap detector system features two modules, one for each switch position.
 
 * Sensor modules are always fastened to the stock rail
