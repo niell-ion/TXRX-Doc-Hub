@@ -8,4 +8,5 @@
 * Multimeter
 * 1/8" Flat head screwdriver
 * Calipers
-* Adjustable Wrench x2 
+* Wrench or socket set
+* Ladder or lift
