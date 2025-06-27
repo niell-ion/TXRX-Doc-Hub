@@ -42,6 +42,8 @@
 
 ### Calibrating the Sensor
 
+![Calibration Buttons](assets/switchgap_calibrate.jpg){: style="height:350px;width:350px"}
+
 1. Ensure both the sensor module and target plate are properly mounted according to the previous steps
 2. Open the controller enclosure cover
 3. Locate the two push buttons below the LED array
