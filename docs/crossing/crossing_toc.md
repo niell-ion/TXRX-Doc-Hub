@@ -15,14 +15,14 @@
 
 ## 3. [Setup](crossing_setup.md)
 
-### 3.1 [Trailer Setup](crossing_setup.md#trailer-setup)
+### 3.1 [Trailer Setup](crossing_setup.md#3.1-trailer-setup)
 * Jacking up the trailer
 * Setting up the crossing signal
-### 3.2 [Arm Setup](crossing_setup.md#arm-setup)
+### 3.2 [Arm Setup](crossing_setup.md#3.2-arm-setup)
 * Setting up the arm
 * Adding counterweights
 * Unlocking the arm
-### 3.3 [Solar Panel Setup](crossing_setup.md#solar-panel)
+### 3.3 [Solar Panel Setup](crossing_setup.md#3.3-solar-panel)
 * Positioning the solar panel
 * Locking the solar panel
 
