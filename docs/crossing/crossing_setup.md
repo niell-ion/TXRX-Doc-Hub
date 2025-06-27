@@ -1,7 +1,6 @@
-# Setup
 ## 3.1 Trailer Setup
 
-### Jacking up the trailer
+### Securing the Trailer
 
 ![Trailer Jack](assets/crossing_jack.jpg){: style="height:350px;width:350px"}
 
@@ -17,12 +16,12 @@
 
 ---
 
-### Raising the crossing signal
+### Raising the Ccrossing Signal
 
 1. Release the locking bolts from the signal mast
-2. Carefully raise the mast into positon
-3. Ensure the mast is fully seated
-4. Bolt mast in upright positioon
+2. Carefully raise the mast into positon, using the side steps to prevent injury
+4. Ensure the mast is fully seated
+5. Bolt mast in upright positioon
 
 ---
 
@@ -30,12 +29,12 @@
 
 ![Crossing Arm Lock](assets/crossing_lock.jpg){: style="height:350px;width:350px"}
 
-### Locking the arm
+### Locking the Arm
 1. Locate the gate locking tool stored in the mechanism enclosure
 2. Identify the gate lock and slide the metal cover out of the way
 3. Use the tool to turn the lock, securing the gate in the raised position
 
-### Installing the arm
+### Installing the Arm
 
 1. Inspect the arm brackets on the gate mechanism for obstructions
 2. Make sure the gate mechanism is locked in the raised (upright) position
@@ -47,7 +46,7 @@
 8. Double check tightness of all bolts
 9. Install and tighten Arm Lights
 
-### Counterweighting the arm
+### Counterweighting the Arm
 
 1. Slowly lower the arm manually (if possible) to check for smooth travel and balance
 2. Adjust number of counterweight plates until the arm feels balanced
@@ -59,14 +58,14 @@
 
 ![Solar Panel Receptacle](assets/crossing_solar_bracket.jpg){: style="height:350px;width:350px"}
 
-### Positioning the solar panel
+### Positioning the Solar Panel
 
 1. Determine which direction to face the solar panel to receive the most sun exposure given the trailer's surroundings (true south unless obstructed)
 2. Identify which side of the trailer will receive more shade from the arm
 3. Select the appropriate mounting plate on the sunniest, least shaded side of the trailer
 4. Bolt the solar panel receptacle to the mounting plate
 
-### Locking the solar panel
+### Locking the Solar Panel
 
 ![Panel Inclination Lock Bolts](assets/crossing_solar_incline.jpg){: style="height:350px;width:350px"}
 
