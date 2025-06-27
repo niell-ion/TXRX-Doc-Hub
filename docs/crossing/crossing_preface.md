@@ -7,4 +7,4 @@
 * Multimeter
 * Personal protective equipment
 * Wrench or socket set
-* Ladder or lift (if needed for height)
+* Arm locking tool
