@@ -14,7 +14,7 @@
 
 ---
 
-## 3. [Operations](switchgap_operations)
+## 3. [Operations](switchgap_operations.md)
 ### 3.1 Setup
 * Installing the reader
 * Installing the target plate
@@ -22,17 +22,17 @@
 
 ### 3.2 Calibration
 
-### 3.3 Instructions for Use
+### 3.3 Usage Instructions
 
 ---
 
-## 4. [Maintenance](switchgap_maintenance)
+## 4. [Maintenance](switchgap_maintenance.md)
 ### 5.1 Mechanical Issues
 ### 5.2 Electrical Issues
 
 ---
 
-## 5. [Troubleshooting](switchgap_troubleshooting)
+## 5. [Troubleshooting](switchgap_troubleshooting.md)
 ### 5.1 Recalibrating the sensor
 ### 5.2 Mechanical issues
 ### 5.3 Electrical issues
