@@ -36,5 +36,3 @@
 ### 5.1 Recalibrating the sensor
 ### 5.2 Mechanical issues
 ### 5.3 Electrical issues
-
----
