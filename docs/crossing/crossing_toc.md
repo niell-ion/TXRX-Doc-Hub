@@ -6,7 +6,7 @@
 
 ---
 
-## 2. [System overview](crossing_overview.md)
+## 2. [System Overview](crossing_overview.md)
 * Trailer
 * Crossing signal
 * Remote
@@ -46,9 +46,9 @@
 
 ## 5. [Maintenance](crossing_maintenance.md)
 
-### 5.1 Routine maintenance items
+### 5.1 Routine Maintenance
 
-### 5.2 Other maintenance items
+### 5.2 Occasional Maintenance
 
 ---
 	
