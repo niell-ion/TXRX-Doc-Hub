@@ -36,5 +36,3 @@ The status light sits atop a pole attached to the controller housting. It provid
 * A red light indicates the switch is gapped or open. If the switch is not actively being thrown, a red light indicates a switch gap exceeding safe tolerances
 * A green light indicates that the switch is closed in either position, within a safe tolerance of the user-calibrated positon
 * In calibration mode, the light will shine continuously to provide real-time distance feedback
-
----
