@@ -1,12 +1,12 @@
-![Switch Gap Detector](assets/switchgap1.jpg)
+![Switch Gap Detector](assets/switchgap_main.jpg)
 
-## 1. [Preface](switchgap_preface)
+## 1. [Preface](switchgap_preface.md)
 * Safety precautions
 * Tools and Equipment
 
 ---
 
-## 2. [System overview](switchgap_overview)
+## 2. [System overview](switchgap_overview.md)
 ### 2.1 Target Plate
 ### 2.2 Sensors
 ### 2.3 Controller
