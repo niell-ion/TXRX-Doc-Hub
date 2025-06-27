@@ -47,7 +47,7 @@
 1. Ensure both the sensor module and target plate are properly mounted according to the previous steps
 2. Open the controller enclosure cover
 3. Locate the two push buttons below the LED array
-4. Press and hold both buttons simultaneously for ``2 seconds`` until all 8 LEDs blink blue
+4. Press and hold both buttons simultaneously for ``2 seconds`` until all 8 LEDs blink <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span>
 5. The sensor is now in calibration mode, the status light will shine continuously to assist in programming
 6. Moving the switch from side to side, use the on-board LEDs to check that all sensors are detecting the target plates
 7. Move the switch to the maximum allowable gapped distance from the near side
