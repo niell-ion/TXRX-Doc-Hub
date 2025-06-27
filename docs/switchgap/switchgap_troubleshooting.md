@@ -7,7 +7,3 @@
 ---
 
 ## 5.3 Electrical Issues
-
----
-
-[:material-chevron-left: Maintenance](switchgap_maintenance.md){ .md-button .md-button--primary } 
