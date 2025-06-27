@@ -17,12 +17,14 @@
 
 ### Installing the Target Plate
 
+> ⚠️ To prevent damage to the system, take caution not to hit the sensor module with the target plate while installing
+
 1. Locate the target plate mounting arm with two bolt holes, welded to the switch rail
 2. Without fully tightening, use the provided bolts to fasten the target plate to the arm
 3. Ensure the target plate is parallel to the sensor module
 4. Slide the target plate as far away from the sensor module as possible using the slotted bolt holes
-5. Slowly throw the switch, bringing the target plate closer to the sensor module without causing them to touch
-6. Move the target plate if necessary so that the switch can be fully thrown without touching the sensor
+5. Slowly move the switch, bringing the target plate closer to the sensor module
+6. Move the target plate if necessary to prevent it from touching the sensor
 7. Without tightening the target plate bolts, proceed to calibration
 
 ---
@@ -31,9 +33,9 @@
 
 ### Setting the Gap Offset
 
-1. With the sensor module and target plate parallel and nearly touching, place a ``1mm`` shim between them
+1. With the switch in position and the sensor module and target plate parallel, place a ``1mm`` shim in between
 2. Slide the target plate towards the sensor module until they are only separated by the thickness of the shim
 3. Tighten the target plate bolts and remove the shim
-4. There should be a 1mm gap between the sensor and plate when the switch is closed
+4. There should be a 1mm gap between the sensor module and plate when the switch is closed, this prevents damage from impact
 
 ## 3.3 Usage Instructions
