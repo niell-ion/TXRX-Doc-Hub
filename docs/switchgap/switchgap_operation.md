@@ -6,7 +6,7 @@ Ensure proper PPE is equipped and all required tools are present before attempti
 
 ### Installing the Sensor Module
 
-``Note: Limited installation instructions are provided. The controller, target plate mounting arm, and protective cover plates are installed by TXRX.``
+``Note: Limited installation instructions are provided. Controller, target plate mounting arm, and protective cover plates are installed by TXRX.``
 
 1. Start by installing the sensor module on the stock rail closest to the controller enclosure
 2. Observe that the sensor module is properly connected to the controller enclosure
