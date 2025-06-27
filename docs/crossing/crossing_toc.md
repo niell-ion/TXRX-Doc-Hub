@@ -17,7 +17,7 @@
 ## 3. [Setup](crossing_setup.md)
 
 ### 3.1 [Trailer Setup](crossing_setup.md#3.1-trailer-setup)
-* Jacking up the trailer
+* Securing the trailer
 * Setting up the crossing signal
 ### 3.2 [Arm Setup](crossing_setup.md#3.2-arm-setup)
 * Setting up the arm
