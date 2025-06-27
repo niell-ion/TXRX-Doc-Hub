@@ -22,7 +22,7 @@
 ### 3.2 Calibration
 * Setting the gap offset
 
-### 3.3 How to Use
+### 3.3 Usage
 
 ---
 
