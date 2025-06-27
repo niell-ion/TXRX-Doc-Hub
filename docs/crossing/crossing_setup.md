@@ -54,6 +54,14 @@
 
 ### Positioning the solar panel
 
-The solar panel should face towards the sun
+1. Determine which direction to face the solar panel to receive the most sun exposure given the trailer's surroundings (true south unless obstructed)
+2. Identify which side of the trailer will receive more shade from the arm
+3. Select the appropriate mounting plate on the sunniest, least shaded side of the trailer
+4. Bolt the solar panel receptacle to the mounting plate
 
 ### Locking the solar panel
+
+1. Locate the two rotation lock bolts on the solar panel receptacle
+2. With the solar panel facing towards the sunniest angle, tighten the bolts to fix the panel in place
+3. Adjust the inclination (15 to 40 degrees unless obstructed)
+4. Tighten the inclination lock bolts
