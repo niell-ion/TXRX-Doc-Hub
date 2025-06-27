@@ -18,7 +18,7 @@
 
 ### Installing the Target Plate
 
-> ⚠️ To prevent damage to the system, take caution not to hit the sensor module with the target plate while installing
+> ⚠️ To prevent damage to the system, take caution not to hit the sensor module with the target plate while installing.
 
 1. Locate the target plate mounting arm with two bolt holes, welded to the switch rail
 2. Without fully tightening, use the provided bolts to fasten the target plate to the arm
@@ -58,3 +58,10 @@
 9. The near side gap is now calibrated, repeat the process for the far side
 
 ## 3.3 Usage Instructions
+
+The status light provides visual feedback whether the switch is gapped when not moving. Check the status light after every switch movement to effectively prevent derailments due to gapped switches
+
+* A ``red`` blinking light indicates a gap or moving switch
+* A ``green`` blinking light indicates proper contact
+
+> ⚠️ If the switch is not moving and not intentionally gapped, but the light is blinking ``red``, immediately stop use of the switch until properly inspected.
