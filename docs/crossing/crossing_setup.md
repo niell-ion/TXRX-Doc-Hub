@@ -26,11 +26,27 @@
 
 ## 3.2 Arm Setup
 
+### Locking the arm
+1. Locate the gate locking tool stored in the mechanism enclosure
+2. Identify the gate lock and slide the metal cover out of the way
+3. Use the tool to turn the lock, securing the gate in the raised position
+
 ### Installing the arm
+
+1. Inspect the arm brackets on the gate mechanism for obstructions
+2. Make sure the gate mechanism is locked in the raised (upright) position
+3. Lift the main arm section into place
+4. Insert and tighten the main bolts
+5. Insert the safety locking pin
+6. If using an arm extension, slide it in to the main arm section to the desired length
+7. Insert and tighten the arm extension bolts
+8. Double check tightness of all bolts
 
 ### Counterweighting the arm
 
-### Unlocking the arm
+1. Slowly lower the arm manually (if possible) to check for smooth travel and balance
+2. Adjust number of counterweight plates until the arm feels balanced
+3. Check that counterweights are securely fastened
 
 ---
 
