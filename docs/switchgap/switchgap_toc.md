@@ -1,7 +1,7 @@
 ![Switch Gap Detector](assets/switchgap_main.jpg)
 
 ## 1. [Preface](switchgap_preface.md)
-* Safety precautions
+* Safety Precautions
 * Tools and Equipment
 
 ---
@@ -16,11 +16,11 @@
 
 ## 3. [Operations](switchgap_operations.md)
 ### 3.1 Setup
-* Installing the reader
-* Installing the target plate
+* Installing the Reader
+* Installing the Target Plate
 
 ### 3.2 Calibration
-* Setting the gap offset
+* Setting the Gap Offset
 
 ### 3.3 Usage
 
