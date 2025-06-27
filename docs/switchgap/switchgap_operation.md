@@ -6,7 +6,7 @@
 
 Ensure proper PPE is equipped and all required tools are present before attempting to install the Switch Gap Detector. 
 
-### Installing the sensor module
+### Installing the Sensor Module
 
 1. Start by installing the sensor module on the stock rail closest to the controller enclosure
 2. Observe that the sensor module is properly connected to the controller enclosure
@@ -15,31 +15,27 @@ Ensure proper PPE is equipped and all required tools are present before attempti
 5. Fit the toe clamp over the base of the stock rail, parallel with the target plate bracket
 6. Tighten the toe clamp bolts so that the sensor is securely fastened to the base of the rail
 
-### Installing the target plate
+### Installing the Target Plate
 
 1. Locate the target plate mounting arm with two bolt holes, welded to the switch rail
 2. Without fully tightening, use the provided bolts to fasten the target plate to the arm
 3. Ensure the target plate is parallel to the sensor module
-4. Slowly throw the switch, bringing the target plate closer to the sensor module without causing them to touch
-5. Move the target plate if necessary so that the switch can be fully thrown without touching the sensor
-6. Without tightening the target plate bolts, proceed to calibration
+4. Slide the target plate as far away from the sensor module as possible using the slotted bolt holes
+5. Slowly throw the switch, bringing the target plate closer to the sensor module without causing them to touch
+6. Move the target plate if necessary so that the switch can be fully thrown without touching the sensor
+7. Without tightening the target plate bolts, proceed to calibration
 
 ---
 
 ## 3.2 Calibration
 
-### Calibrating the gap offset
+### Setting the Gap Offset
 
-1. With the sensor module and target plate nearly touching
-2. Use a ``1mm`` shim to 
-
-### Setting the gap offset
-
-1. Ensure that the sensor module securely tightened to the base of the stock rail and that the target plate is loosely bolted to the mounting arm
-2. Slowly close the switch, taking ca
----
+1. With the sensor module and target plate parallel and nearly touching, place a ``1mm`` shim between them
+2. Slide the target plate towards the sensor module until they are only separated by the thickness of the shim
+3. Tighten the target plate bolts and remove the shim
+4. There should be a 1mm gap between the sensor and plate when the switch is closed
 
 ## 3.3 Usage Instructions
-
 
 ---
