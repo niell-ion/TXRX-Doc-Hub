@@ -37,6 +37,7 @@
 * Viewing list of Paired Crossings
 
 ### 4.2 [Remote Operation](crossing_remote.md#remote-operation)
+* Charging the Remote
 * Moving the Arm
 
 ### 4.3 [Video Reference](crossing_remote.md#video-reference)
