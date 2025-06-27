@@ -8,17 +8,18 @@ If the gap distance needs to be adjusted, follow the initial calibration steps t
 
 ## 5.2 Mechanical Issues
 
-### If switch is blocked
+### Switch is blocked
 1. Check that the sensor module is securely fastened to the stock rail
 2. Ensure that the target plate is securely fastened to the mounting arm
 3. Observe that the target plate and mounting arm are parallel
 4. Check for foreign objects in the switch point
 5. Check for damage to the rails or switch mechanism
+
 ---
 
 ## 5.3 Electrical Issues
 
-### If status light is not showing
+### Status light is not illuminated
 1. Check that the detector is connected to a power source
 2. Observe that the cable is in good condition with no visible damage
 3. Open the controller enclosure and check that the circuit board recieves power
