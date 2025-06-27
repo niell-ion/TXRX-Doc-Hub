@@ -1,26 +1,26 @@
 ## 2.1 Trailer
 
-* Arm holders
-* Solar panel mounts
-* Leveling jacks
-* Side steps
-* Battery boxes
-* Signal mount
+* Arm Holders
+* Solar Panel Mounts
+* Leveling Jacks
+* Side Steps
+* Battery Boxes
+* Signal Mount
 
 ## 2.2 Crossing Signal
 
 * Electronics Housing
-* Gate actuator
-* Crossing lights
+* Gate Actuator
+* Crossing Lights
 * Bell
 
 ## 2.3 Crossing Arm
 
 * Main Arm
 * Arm Extension
-* Counterweight holder
-* Counterweight plates
-* Arm lights
+* Counterweight Holder
+* Counterweight Plates
+* Arm Lights
 
 ## 2.4 Remote
 
