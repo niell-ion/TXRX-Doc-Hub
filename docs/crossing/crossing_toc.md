@@ -1,8 +1,9 @@
 ![Portable Crossing Gate](assets/Gate_Aicher_rev2.jpg)
 
 ## 1. [Preface](crossing_preface.md)
-* Safety Precautions
-* Tools and Equipment
+### 1.1 Introduction
+### 1.2 Safety Precautions
+### 1.3 Tools and Equipment
 
 ---
 
