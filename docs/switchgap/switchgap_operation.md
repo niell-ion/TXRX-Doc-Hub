@@ -54,7 +54,7 @@
 
 > The sensor's maximum detection range is ``13.75 mm``
 
-8. Press and hold both push buttons for ``5 seconds`` until LEDs blink blue
+8. Press and hold both push buttons for ``5 seconds`` until LEDs blink <span style="background-color:rgb(0, 0, 255)"><span style="color:white;">blue</span></span>
 9. The near side gap is now calibrated, repeat the process for the far side
 
 ---
@@ -63,7 +63,7 @@
 
 The status light provides visual feedback whether the switch is gapped when not moving. Check the status light after every switch movement to effectively prevent derailments due to gapped switches
 
-* A ``red`` blinking light indicates a gap or moving switch
-* A ``green`` blinking light indicates proper contact
+* A <span style="background-color:rgb(255, 0, 0)"><span style="color:white;">red</span></span> blinking light indicates a gap or moving switch
+* A <span style="background-color:rgb(0, 255, 0)"><span style="color:white;">green</span></span> blinking light indicates proper contact
 
 > ⚠️ If the switch is not moving and not intentionally gapped, but the light is blinking ``red``, immediately stop use of the switch until properly inspected.
