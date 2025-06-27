@@ -15,5 +15,3 @@
 * Adjustable Wrench x2 
 
 ---
-
-[:material-chevron-left: Table of Contents](switchgap_toc.md){ .md-button .md-button--primary }  [Overview :material-chevron-right:](switchgap_overview.md){ .md-button .md-button--primary } 
