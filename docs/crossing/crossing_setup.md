@@ -56,6 +56,8 @@
 
 ## 3.3 Solar Panel
 
+![Solar Panel Receptacle](assets/crossing_solar_bracket.jpg){: style="height:350px;width:350px"}
+
 ### Positioning the solar panel
 
 1. Determine which direction to face the solar panel to receive the most sun exposure given the trailer's surroundings (true south unless obstructed)
@@ -64,6 +66,8 @@
 4. Bolt the solar panel receptacle to the mounting plate
 
 ### Locking the solar panel
+
+![Panel Inclination Lock Bolts](assets/crossing_solar_incline.jpg){: style="height:350px;width:350px"}
 
 1. Locate the two rotation lock bolts on the solar panel receptacle
 2. With the solar panel facing towards the sunniest angle, tighten the bolts to fix the panel in place
