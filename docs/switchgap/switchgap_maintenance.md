@@ -1,5 +1,5 @@
-## 4.1 Mechanical Systems
+## 4.1 Routine Maintenance
 
 ---
 
-## 4.2 Electrical Systems
+## 4.2 Occasional Maintenance
