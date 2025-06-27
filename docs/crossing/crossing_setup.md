@@ -26,7 +26,7 @@
 
 ## 3.2 Arm Setup
 
-![Crossing Arm Lock](assets/crossing_lock.jpg)
+![Crossing Arm Lock](assets/crossing_lock.jpg){: style="height:350px;width:350px"}
 
 ### Locking the arm
 1. Locate the gate locking tool stored in the mechanism enclosure
