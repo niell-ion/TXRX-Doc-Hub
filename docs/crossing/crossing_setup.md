@@ -40,7 +40,7 @@
 1. Inspect the arm brackets on the gate mechanism for obstructions
 2. Make sure the gate mechanism is locked in the raised (upright) position
 3. Lift the Main Arm section into place
-4. Insert and tighten the main bolts
+4. Insert and tighten the main bolts with the provided nut and washers
 5. Insert the safety locking pin
 6. If using an Arm Extension, slide it in to the main arm section to the desired length
 7. Insert and tighten the arm extension bolts
