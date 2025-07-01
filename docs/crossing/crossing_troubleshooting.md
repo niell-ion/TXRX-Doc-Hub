@@ -9,7 +9,7 @@
 ### Crossing has no power
 
 1. Ensure solar panel cables are connected
-2. Check that solar panel is not shaded [3.3 Solar Panel Setup](
+2. Check that solar panel is not shaded [3.3 Solar Panel Setup](crossing_setup.md#3.3-solar-panel-setup)
 3. Check that battery cables are connected and has charge
 4. Check that controller 
 
