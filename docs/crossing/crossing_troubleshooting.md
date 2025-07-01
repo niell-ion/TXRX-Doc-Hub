@@ -2,7 +2,7 @@
 
 ### Gate Moves too Slow or too Fast
 
-> Always wear close-toed adjusting counterweights
+> Always wear a hard hat and steel-toed boots adjusting counterweights
 
 1. Check battery to ensure correct voltage level
 2. Observe counterweight and record number of plates
