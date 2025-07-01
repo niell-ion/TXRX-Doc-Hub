@@ -19,9 +19,9 @@
 ### Crossing Has No Power
 
 1. Ensure solar panel cables are connected
-2. Check that solar panel is not shaded by arm [3.3 Solar Panel Setup](crossing_setup.md#3.3-solar-panel-setup)
-3. Check that battery cables are connected and has charge
-4. Check that controller 
+2. Check that solar panel is not in continuous shade. If it is, refer to [3.3 Solar Panel Setup](crossing_setup.md#3.3-solar-panel-setup) for instructions on moving panel
+4. Check that battery cables are connected and has charge
+5. Check that controller 
 
 ### Remote Not Connecting
 
