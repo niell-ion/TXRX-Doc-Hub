@@ -2,7 +2,7 @@
 
 ### How to Use This Manual
 
-Welcome to the TXRX RAR system. This manual is intended for machine operators, maintenance technicians, and field engineers. It provides step-by-step instructions to safely and effectively operate and maintain this equipment.
+Welcome to the TXRX RARS. This manual is intended for machine operators, maintenance technicians, and field engineers. It provides step-by-step instructions to safely and effectively operate and maintain this equipment.
 
 This manual is organized into clearly labeled sections for quick reference:
 
@@ -33,7 +33,7 @@ You will find particular safety instructions at the beginning of each chapter or
 
 > ⚠️ Safety instructions are emphasized by a brightly shaded triangle and block quotes
  
-* Observing all safety instructions will help you to avoid accidents and to prevent damage to the RAR
+* Observing all safety instructions will help you to avoid accidents and to prevent damage to the RARS
  
 * Always comply with the safety instructions, even in scenarios where you are under time pressure
 
