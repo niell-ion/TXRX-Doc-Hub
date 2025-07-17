@@ -6,9 +6,9 @@ Use the links below to visit the table of contents for each project, or quickly 
 
 ---
 
-## **RAR**
+## **RARS**
 
-[Go :material-arrow-right-thick:](rar/rar_toc.md){ .md-button .md-button--primary } 
+[Go :material-arrow-right-thick:](rar/rars_toc.md){ .md-button .md-button--primary } 
 
 ---
 
