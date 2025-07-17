@@ -12,12 +12,12 @@ nav:
   - About: about.md
   - Projects:
     - RAR:
-      - Table of Contents: rar/rar_toc.md
-      - Preface: rar/rar_preface.md
-      - System Overview: rar/rar_overview.md
-      - Operation: rar/rar_operation.md
-      - Maintenance: rar/rar_maintenance.md
-      - Troubleshooting: rar/rar_troubleshooting.md
+      - Table of Contents: rar/rars_toc.md
+      - Preface: rar/rars_preface.md
+      - System Overview: rar/rars_overview.md
+      - Operation: rar/rars_operation.md
+      - Maintenance: rar/rars_maintenance.md
+      - Troubleshooting: rar/rars_troubleshooting.md
     - Switch Gap Detector:
       - Table of Contents: switchgap/switchgap_toc.md
       - Preface: switchgap/switchgap_preface.md
