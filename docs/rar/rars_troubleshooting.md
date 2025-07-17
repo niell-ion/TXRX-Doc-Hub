@@ -1,4 +1,4 @@
-![RAR Circuit Board](assets/Board1.jpg){: style="height:350px;width:350px"}
+![RARS Circuit Board](assets/Board1.jpg){: style="height:350px;width:350px"}
 
 ## 6.1 Diagnostic Steps
 1. Verify that the device is connected to a working power source
@@ -34,7 +34,7 @@
 
 * Overcurrents may be caused by an obstruction in the switch, or a sudden change in the load experienced by the motor
 * The `Over Current Reset` light indicates an overcurrent issue has occurred 
-* After an overcurrent issue, the RAR must be reset to unlock movement
+* After an overcurrent issue, the RARS must be reset to unlock movement
 * Upon resetting, use `Jog Left` and `Jog Right` buttons to test for resistance throughout the range of travel
 * Once any obstructions have been removed and motion has been tested, close lid and use `Move Left` and `Move Right` buttons to ensure error has been fully cleared
 
@@ -48,7 +48,7 @@
 
 ## 6.3 Relay Issues
 
-The RAR board features six relays. One for each motor direction, one for overcurrent, one for the emergency stop, and two for the battery charger.
+The RARS board features six relays. One for each motor direction, one for overcurrent, one for the emergency stop, and two for the battery charger.
 
 ### Motor relays
 * If the motor is only functioning in one direct, swap A&B relays
