@@ -34,14 +34,11 @@
 ## 4. [Operation](derail_operation.md)
 
 ### 4.1 [Remote Programming](crossing_remote.md#remote-programming)
-* Entering Programming Mode
-* Adding a Paired Crossing
-* Removing a Paired Crossing
-* Viewing list of Paired Crossings
+* Opening the derail
+* Closing the derail
 
-### 4.2 [Remote Operation](crossing_remote.md#remote-operation)
-* Charging the Remote
-* Moving the Arm
+### 4.2 [Status Light](light_states.md#remote-operation)
+* Light states
 
 ### 4.3 [Video Reference](derail.md#video-reference)
 
