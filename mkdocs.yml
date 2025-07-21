@@ -35,6 +35,12 @@ nav:
       - Troubleshooting: crossing/crossing_troubleshooting.md
     - Derail:
       - Table of Contents: derail/derail_toc.md
+      - Derail: derail/derail_preface.md
+      - System Overview: derail/derail_overview.md
+      - Setup: derail/derail_setup.md
+      - Oepration: derail/derail_overview.md
+      - Maintenance: derail/derail_maintenance.md
+      - Troubleshooting: derail/derail_troubleshooting.md
 markdown_extensions:
   - attr_list:
   - toc:
