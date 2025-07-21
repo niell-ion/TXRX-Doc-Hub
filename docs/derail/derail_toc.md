@@ -22,9 +22,10 @@
 * Positioning the sensor
 * Attaching the sensor
 ### 3.2 [Controller Setup](derail_setup.md#3.2-arm-setup)
-* Setting up the arm
-* Adding counterweights
-* Unlocking the arm
+* Mounting the controller
+* Connecting the sensor
+* Connecting the solar panel
+* Connecting the light
 ### 3.3 [Solar Panel Setup](derail_setup.md#3.3-solar-panel)
 * Positioning the solar panel
 * Locking the solar panel
