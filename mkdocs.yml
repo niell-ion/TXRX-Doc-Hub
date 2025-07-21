@@ -38,7 +38,7 @@ nav:
       - Preface: derail/derail_preface.md
       - System Overview: derail/derail_overview.md
       - Setup: derail/derail_setup.md
-      - Operation: derail/derail_overview.md
+      - Operation: derail/derail_operation.md
       - Maintenance: derail/derail_maintenance.md
       - Troubleshooting: derail/derail_troubleshooting.md
 markdown_extensions:
