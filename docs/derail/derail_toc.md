@@ -8,18 +8,20 @@
 ---
 
 ## 2. [System Overview](derail_overview.md)
-* Trailer
-* Crossing signal
-* Remote
+* Derail device
+* Sensor
+* Controller
+* Solar panel
+* Indiciator light
 
 ---
 
 ## 3. [Setup](derail_setup.md)
 
-### 3.1 [Trailer Setup](derail_setup.md#3.1-trailer-setup)
-* Securing the trailer
-* Setting up the crossing signal
-### 3.2 [Arm Setup](derail_setup.md#3.2-arm-setup)
+### 3.1 [Derail Setup](derail_setup.md#3.1-trailer-setup)
+* Positioning the sensor
+* Attaching the sensor
+### 3.2 [Controller Setup](derail_setup.md#3.2-arm-setup)
 * Setting up the arm
 * Adding counterweights
 * Unlocking the arm
@@ -41,7 +43,7 @@
 * Charging the Remote
 * Moving the Arm
 
-### 4.3 [Video Reference](crossing_remote.md#video-reference)
+### 4.3 [Video Reference](derail.md#video-reference)
 
 ---
 
@@ -56,7 +58,7 @@
 ## 6. [Troubleshooting](derail_troubleshooting.md)
 
 ### 6.1 Mechanical Issues
-* Counterweight
+* Sensor positioning
 * Solar panel
 
 ### 6.2 Electrical Issues
