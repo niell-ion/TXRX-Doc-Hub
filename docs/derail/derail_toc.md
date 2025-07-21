@@ -12,7 +12,7 @@
 * Sensor
 * Controller
 * Solar panel
-* Indiciator light
+* Indicator light
 
 ---
 
