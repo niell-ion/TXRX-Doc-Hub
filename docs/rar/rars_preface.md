@@ -77,5 +77,5 @@ If there is any uncertainty regarding safe operation, contact the manufacturer o
 ## 1.3 Tools and Equipment
 
 * Multimeter
-* 1/8" Flat head screwdriver
-* Personal protective equipment
+* 1/8" Slotted Screwdriver
+* Personal Protective Equipment
