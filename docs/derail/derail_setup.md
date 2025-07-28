@@ -4,7 +4,7 @@
 
 ---
 
-## 3.2 Controller Setup
+### 3.2 Controller Setup
 * Mounting the controller
 * Connecting the sensor
 * Connecting the solar panel
@@ -12,6 +12,6 @@
 
 ---
 
-## 3.3 Solar Panel Setup
+### 3.3 Solar Panel Setup
 * Positioning the solar panel
 * Locking the solar panel
