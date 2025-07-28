@@ -1,5 +1,3 @@
-## 6. Troubleshooting
-
 ### 6.1 Mechanical Issues
 * Sensor positioning
 * Solar panel
