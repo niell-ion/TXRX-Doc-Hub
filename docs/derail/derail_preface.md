@@ -76,3 +76,5 @@ If there is any uncertainty regarding safe operation, contact the manufacturer o
 
 ## 1.3 Tools and Equipment
 * Multimeter
+* Adjustable Wrench
+* 1/8" Slotted Screwdriver
