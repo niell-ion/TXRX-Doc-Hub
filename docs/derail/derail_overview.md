@@ -5,8 +5,8 @@
 
 ## 3.2 Controller
 
-* Controller mounting stand
-* Controller electronics housing
+* Controller Mounting Stand
+* Controller Electronics Housing
 
 ## 3.3 Solar panel
 
