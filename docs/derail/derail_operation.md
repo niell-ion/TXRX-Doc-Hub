@@ -1,9 +1,7 @@
 ## 4.1 Derail Operation
 
-![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
+The Derail Light is fitted to a standard Western-Cullen-Hayes derail device. Refer to WCH documentation for derail device-specific operation instructions.
 
-* Opening the derail
-* Closing the derail
 
 ---
 
