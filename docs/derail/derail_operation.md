@@ -7,7 +7,8 @@
 
 ---
 
+## 4.2 Status Light
+
 ![Derail Light](assets/derail_stand.jpg){: style="height:350px;width:350px"}
 
-## 4.2 Status Light
 * Light states
