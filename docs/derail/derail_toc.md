@@ -42,8 +42,6 @@
 ### 4.2 [Status Light](light_states.md#remote-operation)
 * Light states
 
-### 4.3 [Video Reference](derail.md#video-reference)
-
 ---
 
 ## 5. [Maintenance](derail_maintenance.md)
