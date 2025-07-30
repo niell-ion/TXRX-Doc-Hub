@@ -6,8 +6,6 @@
 
 * Locate the sensor bracket be welded to the derail device
 
-
-
 ---
 
 ### 3.2 Controller Setup
