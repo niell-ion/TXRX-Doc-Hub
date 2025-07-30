@@ -5,6 +5,8 @@
 * Opening the derail
 * Closing the derail
 
+---
+
 ![Derail Sensor](assets/derail_stand.md)
 
 ## 4.2 Status Light
