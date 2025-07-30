@@ -1,13 +1,13 @@
 ## 4.1 Derail Operation
 
-![Derail Sensor](assets/derail_sensor.jpg)
+![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
 * Opening the derail
 * Closing the derail
 
 ---
 
-![Derail Light](assets/derail_stand.jpg)
+![Derail Light](assets/derail_stand.jpg){: style="height:350px;width:350px"}
 
 ## 4.2 Status Light
 * Light states
