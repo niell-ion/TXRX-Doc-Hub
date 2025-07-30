@@ -1,6 +1,7 @@
 ## 5.1 Routine Maintenance
 
-* Observe
+* Observe that the sensor is properly positioned and that the sensor bracket is securely attached
+  
 ---
 
 ## 5.2 Occasional Maintenance
