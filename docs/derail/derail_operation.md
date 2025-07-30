@@ -2,7 +2,7 @@
 
 The Derail Light is fitted to a standard Western-Cullen-Hayes derail device. Refer to WCH documentation for derail device-specific operation instructions.
 
-> ⚠️ Do not operate derail device without clearance from site supervisor
+> ⚠️ Do not operate derail device without clearance from site supervisor.
 
 ---
 
