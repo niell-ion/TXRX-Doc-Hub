@@ -35,7 +35,7 @@
 
 ## 4. [Operation](derail_operation.md)
 
-### 4.1 [Remote Programming](crossing_remote.md#remote-programming)
+### 4.1 [Derail Operation](crossing_remote.md#remote-programming)
 * Opening the derail
 * Closing the derail
 
@@ -59,5 +59,4 @@
 * Solar panel
 
 ### 6.2 Electrical Issues
-* Charging
-* Remote
+* Device has no power
