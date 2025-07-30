@@ -1,6 +1,6 @@
 ## 3.1 Sensor Assembly
 
-![Derail Sensor](derail/assets/derail_sensor.jpg){: style="height:350px;width:350px"}
+![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
 * Sensor Mounting Bracket
 * Sensor Reader Head
@@ -14,6 +14,6 @@
 
 ## 3.3 Solar panel
 
-![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:350px;width:350px"}
+![Derail Solar Panel](assets/derail_stand.jpg){: style="height:350px;width:350px"}
 
 ## 3.4 Indicator light
