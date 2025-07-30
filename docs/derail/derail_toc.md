@@ -1,4 +1,4 @@
-![Derail Light](assets/x.jpg)
+![Derail Light](assets/derail_stand.jpg)
 
 ## 1. [Preface](derail_preface.md)
 ### 1.1 Introduction
@@ -6,9 +6,6 @@
 ### 1.3 Tools and Equipment
 
 ---
-
-![Trailer Jack](derail_housing.jpg){: style="height:350px;width:350px"}
-
 
 ## 2. [System Overview](derail_overview.md)
 
@@ -39,8 +36,6 @@
 ## 4. [Operation](derail_operation.md)
 
 ### 4.1 [Derail Operation](crossing_remote.md#remote-programming)
-* Opening the derail
-* Closing the derail
 
 ### 4.2 [Status Light](light_states.md#remote-operation)
 * Light states
