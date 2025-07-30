@@ -1,4 +1,7 @@
 ## 3.1 Derail Setup
+
+![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
+
 * Positioning the sensor
 * Attaching the sensor
 
