@@ -7,6 +7,9 @@
 
 ---
 
+![Trailer Jack](derail_housing.jpg){: style="height:350px;width:350px"}
+
+
 ## 2. [System Overview](derail_overview.md)
 
 ### 3.1 Derail device
