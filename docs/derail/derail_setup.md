@@ -2,8 +2,11 @@
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
-* Positioning the sensor
-* Attaching the sensor
+### Positioning the sensor
+
+* Locate the sensor bracket be welded to the derail device
+
+
 
 ---
 
