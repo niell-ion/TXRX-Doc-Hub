@@ -4,12 +4,12 @@
 
 ### Positioning the sensor
 
-* Locate `sensor bracket` welded to derail device
+* Locate sensor bracket welded to derail device
 
 > Bracket is previously installed. Mounting and welding instructions are not currently included within the scope of this document.
 
-* Check that front of `sensor` is parallel to side face of derail device
-* Slide the sensor in the slotted brack until it the face of the sensor is `3.5mm` from the face of the derail
+* Check that front of sensor is parallel to side face of derail device
+* Slide the sensor in the slotted brack until it the face of the sensor is 3.5mm from the face of the derail
 
 ---
 
@@ -29,7 +29,7 @@
 ![Derail Solar Panel](assets/derail_board.jpg){: style="height:350px;width:350px"}
 
 1. Connect the sensor wires to terminals on the board as shown
-2. Use a `multimeter` to test the connections
+2. Use a multimeter to test the connections
 
 ### Connecting the solar panel
 
@@ -40,7 +40,7 @@
 ![Derail Solar Panel](assets/derail_wire.jpg){: style="height:350px;width:350px"}
 
 1. Connect the light wires to terminals on the board as shown
-2. Use a `multimeter` to test the connections
+2. Use a multimeter to test the connections
 
 ---
 
