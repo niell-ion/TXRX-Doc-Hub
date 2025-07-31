@@ -9,11 +9,11 @@
 
 ## 2. [System Overview](derail_overview.md)
 
-### 3.1 Derail device
-### 3.2 Sensor
-### 3.3 Controller
-### 3.4 Solar panel
-### 3.5 Status Light
+### 2.1 [Derail device](derail_overview.md#2.1-derail-device)
+### 2.2 [Sensor](derail_overview.md#2.2-sensor)
+### 2.3 [Controller](derail_overview.md#2.3-controller)
+### 2.4 [Solar Panel](derail_overview.md#2.4-solar-panel)
+### 2.5 [Status Light](derail_overview.md#2.5-status-light)
 
 ---
 
