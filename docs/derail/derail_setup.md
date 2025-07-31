@@ -4,9 +4,11 @@
 
 ### Positioning the sensor
 
-* Locate the sensor bracket welded to the derail device
+* Locate the `sensor bracket` welded to the derail device
 
 > Sensor bracket is previously installed. Mounting and welding instructions are not included in the scope of this document.
+
+* Ensure that the sensor is parallel
 
 ---
 
@@ -21,8 +23,16 @@
 3. Ensure controller stand is securely fastened to the tie with appropriate torque
 
 ### Connecting the sensor
-* Connecting the solar panel
-* Connecting the light
+
+![Derail Solar Panel](assets/_adjust.jpg){: style="height:350px;width:350px"}
+
+1. Connect the sensor wires to the  
+
+### Connecting the solar panel
+
+![Derail Solar Panel](assets/solar_control.jpg){: style="height:350px;width:350px"}
+
+### Connecting the light
 
 ---
 
