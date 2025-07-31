@@ -20,14 +20,15 @@
 ### Mounting the controller stand
 
 1. Mount the tie bracket to the tie
-2. Bolt the controller stand to the tie bracket
-3. Ensure bolts are tightened and assembly is secure
+2. Clear area for controller stand
+3. Bolt the controller stand to the tie bracket
+4. Ensure bolts are tightened and assembly is secure
 
 ### Connecting the sensor
 
 ![Derail Solar Panel](assets/derail_board.jpg){: style="height:350px;width:350px"}
 
-1. Connect the sensor wires to the screw terminals located on the board as shown
+1. Connect the sensor wires to terminals on the board as shown
 2. Use a `multimeter` to test the connections
 
 ### Connecting the solar panel
@@ -38,7 +39,7 @@
 
 ![Derail Solar Panel](assets/derail_wire.jpg){: style="height:350px;width:350px"}
 
-1. Locate the screw terminals on the board
+1. Connect the light wires to terminals on the board as shown
 2. Use a `multimeter` to test the connections
 
 ---
@@ -51,7 +52,7 @@
 
 1. Loosely bolt the solar panel pipe receiver bolts to the controller stand
 2. Rotate the solar panel so it faces south. If south face is consistently shaded than the angle to the nearest direction recieving full sun
-3. Fully tighten down the pipe receiver bolts 
+3. Fully tighten down the pipe receiver bolts
 
 ### Locking the solar panel
 
