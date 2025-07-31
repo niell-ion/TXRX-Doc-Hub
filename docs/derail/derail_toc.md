@@ -53,8 +53,10 @@
 ## 6. [Troubleshooting](derail_troubleshooting.md)
 
 ### 6.1 Mechanical Issues
-* Sensor positioning
-* Solar panel
+* Sensor positioning issues
+* Solar panel issues
 
 ### 6.2 Electrical Issues
-* Device has no power
+* Charging issues
+* Connection issues
+* Sensor issues
