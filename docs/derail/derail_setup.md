@@ -4,11 +4,12 @@
 
 ### Positioning the sensor
 
-* Locate the `sensor bracket` welded to the derail device
+* Locate `sensor bracket` welded to derail device
 
-> Sensor bracket is previously installed. Mounting and welding instructions are not included in the scope of this document.
+> Bracket is previously installed. Mounting and welding instructions are not currently included within the scope of this document.
 
-* Ensure that the sensor is parallel
+* Check that front of `sensor` is parallel to side face of derail device
+* Slide the sensor in the slotted brack until it the face of the sensor is `3.5mm` from the face of the derail
 
 ---
 
