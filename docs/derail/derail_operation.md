@@ -10,4 +10,4 @@ The Derail Light is fitted to a standard Western-Cullen-Hayes derail device. Ref
 
 ![Derail Light](assets/derail_stand.jpg){: style="height:350px;width:350px"}
 
-* Light states
+* When the derail device is engaged, the light will blink blue.
