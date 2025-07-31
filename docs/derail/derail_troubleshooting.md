@@ -1,7 +1,8 @@
 ### 6.1 Mechanical Issues
-* Sensor positioning
-* Solar panel
+* Sensor positioning issues
+* Solar panel issues
 
 ### 6.2 Electrical Issues
-* Charging
-* Remote
+* Charging issues
+* Connection issues
+* Sensor issues
