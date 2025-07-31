@@ -48,13 +48,13 @@
 
 ![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:350px;width:350px"}
 
-### Positioning the solar panel
+### Solar panel totation
 
 1. Loosely bolt the solar panel pipe receiver bolts to the controller stand
 2. Rotate the solar panel so it faces south. If south face is consistently shaded than the angle to the nearest direction recieving full sun
 3. Fully tighten down the pipe receiver bolts
 
-### Locking the solar panel
+### Solar panel tilt
 
 1. Locate the bolts mounting the solar panel to the pipe
 2. Loosen the bolts and tilt the solar panel to the desired angle for maximum sun
