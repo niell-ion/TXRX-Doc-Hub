@@ -17,23 +17,29 @@
 
 ![Derail Sensor](assets/derail_housing.jpg){: style="height:350px;width:350px"}
 
-### Mounting the controller
+### Mounting the controller stand
 
 1. Mount the tie bracket to the tie
 2. Bolt the controller stand to the tie bracket
-3. Ensure controller stand is securely fastened to the tie with appropriate torque
+3. Ensure bolts are tightened and assembly is secure
 
 ### Connecting the sensor
 
-![Derail Solar Panel](assets/_adjust.jpg){: style="height:350px;width:350px"}
+![Derail Solar Panel](assets/derail_board.jpg){: style="height:350px;width:350px"}
 
-1. Connect the sensor wires to the  
+1. Connect the sensor wires to the screw terminals located on the board as shown
+2. Use a `multimeter` to test the connections
 
 ### Connecting the solar panel
 
 ![Derail Solar Panel](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
 ### Connecting the light
+
+![Derail Solar Panel](assets/derail_wire.jpg){: style="height:350px;width:350px"}
+
+1. Locate the screw terminals on the board
+2. Use a `multimeter` to test the connections
 
 ---
 
