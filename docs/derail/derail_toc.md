@@ -37,7 +37,7 @@
 
 ### 4.1 [Derail Operation](derail_operation.md#4.1-derail-operation)
 
-### 4.2 [Status Light](derail_operation.md#4.2-status-light
+### 4.2 [Status Light](derail_operation.md#4.2-status-light)
 * Light states
 
 ---
