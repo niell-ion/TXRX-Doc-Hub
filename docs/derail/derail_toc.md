@@ -44,19 +44,19 @@
 
 ## 5. [Maintenance](derail_maintenance.md)
 
-### 5.1 Routine Maintenance
+### 5.1 [Routine Maintenance](derail_maintenance.md#5.1-routine-maintenance)
 
-### 5.2 Occasional Maintenance
+### 5.2 [Occasional Maintenance](derail_maaintenance.md#5.2-occasional-maintenance)
 
 ---
 	
 ## 6. [Troubleshooting](derail_troubleshooting.md)
 
-### 6.1 Mechanical Issues
+### 6.1 [Mechanical Issues](derail_troubleshooting.md#mechanical-issues)
 * Sensor positioning issues
 * Solar panel issues
 
-### 6.2 Electrical Issues
+### 6.2 [Electrical Issues](derail_troubleshooting.md#electrical-issues)
 * Charging issues
 * Connection issues
 * Sensor issues
