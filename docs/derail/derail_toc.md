@@ -1,9 +1,9 @@
 ![Derail Light](assets/derail_stand.jpg)
 
 ## 1. [Preface](derail_preface.md)
-### 1.1 Introduction
-### 1.2 Safety Precautions
-### 1.3 Tools and Equipment
+### 1.1 [Introduction](derail_preface.md#1.1-introduction)
+### 1.2 [Safety Precautions](derail_preface.md#1.1-safety-precautions)
+### 1.3 [Tools and Equipment](derail_preface.md#1.1-tools-and-equipment)
 
 ---
 
