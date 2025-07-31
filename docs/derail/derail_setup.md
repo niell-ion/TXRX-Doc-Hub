@@ -2,7 +2,7 @@
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
-### Positioning the sensor
+### Positioning the Sensor
 
 * Locate sensor bracket welded to derail device
 
@@ -17,25 +17,25 @@
 
 ![Derail Sensor](assets/derail_housing.jpg){: style="height:350px;width:350px"}
 
-### Mounting the controller stand
+### Mounting the Controller Stand
 
 1. Mount the tie bracket to the tie
 2. Clear area for controller stand
 3. Bolt the controller stand to the tie bracket
 4. Ensure bolts are tightened and assembly is secure
 
-### Connecting the sensor
+### Connecting the Sensor
 
 ![Derail Solar Panel](assets/derail_board.jpg){: style="height:350px;width:350px"}
 
 1. Connect the sensor wires to terminals on the board as shown
 2. Use a multimeter to test the connections
 
-### Connecting the solar panel
+### Connecting the Solar Panel
 
 ![Derail Solar Panel](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
-### Connecting the light
+### Connecting the Light
 
 ![Derail Solar Panel](assets/derail_wire.jpg){: style="height:350px;width:350px"}
 
@@ -48,13 +48,13 @@
 
 ![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:350px;width:350px"}
 
-### Solar panel totation
+### Solar Panel Rotation
 
 1. Loosely bolt the solar panel pipe receiver bolts to the controller stand
 2. Rotate the solar panel so it faces south. If south face is consistently shaded than the angle to the nearest direction recieving full sun
 3. Fully tighten down the pipe receiver bolts
 
-### Solar panel tilt
+### Solar Panel Tilt
 
 1. Locate the bolts mounting the solar panel to the pipe
 2. Loosen the bolts and tilt the solar panel to the desired angle for maximum sun
