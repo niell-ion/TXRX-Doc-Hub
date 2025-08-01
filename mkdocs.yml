@@ -10,22 +10,21 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Projects:
-    - RAR:
+  - RAR:
       - Table of Contents: rar/rars_toc.md
       - Preface: rar/rars_preface.md
       - System Overview: rar/rars_overview.md
       - Operation: rar/rars_operation.md
       - Maintenance: rar/rars_maintenance.md
       - Troubleshooting: rar/rars_troubleshooting.md
-    - Switch Gap Detector:
+   - Switch Gap Detector:
       - Table of Contents: switchgap/switchgap_toc.md
       - Preface: switchgap/switchgap_preface.md
       - System Overview: switchgap/switchgap_overview.md
       - Operation: switchgap/switchgap_operation.md
       - Maintenance: switchgap/switchgap_maintenance.md
       - Troubleshooting: switchgap/switchgap_troubleshooting.md
-    - Portable Crossing Gate:
+   - Portable Crossing Gate:
       - Table of Contents: crossing/crossing_toc.md
       - Preface: crossing/crossing_preface.md
       - System Overview: crossing/crossing_overview.md
@@ -33,7 +32,7 @@ nav:
       - Remote: crossing/crossing_remote.md
       - Maintenance: crossing/crossing_maintenance.md
       - Troubleshooting: crossing/crossing_troubleshooting.md
-    - Derail:
+  - Derail:
       - Table of Contents: derail/derail_toc.md
       - Preface: derail/derail_preface.md
       - System Overview: derail/derail_overview.md
