@@ -18,6 +18,8 @@ The reader module consists of electromagnetic displacement sensors enclosed in a
 ## 3.3 Solar panel
 
 ![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:350px;width:350px"}
+* Solar Panel Mast
+* Solar Panel Spider Bracket
 
 ## 3.4 Indicator light
 * A blinking LED indicator light communicates whether the derail is open or closed.
