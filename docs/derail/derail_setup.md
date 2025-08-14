@@ -35,12 +35,16 @@
 
 ![Derail Solar Panel](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
+1. Connect the Solar Panel wires to terminals on the board as shown
+2. Use a multimeter to test the connections
+
 ### Connecting the Light
 
 ![Derail Solar Panel](assets/derail_wire.jpg){: style="height:350px;width:350px"}
 
-1. Connect the light wires to terminals on the board as shown
-2. Use a multimeter to test the connections
+1. Ensure that 5V jumpers are installed
+2. Connect the light wires to terminals on the board as shown
+3. Use a multimeter to test the connections
 
 ---
 
@@ -50,12 +54,12 @@
 
 ### Solar Panel Rotation
 
-1. Loosely bolt the solar panel pipe receiver bolts to the controller stand
-2. Rotate the solar panel so it faces south. If south face is consistently shaded than the angle to the nearest direction recieving full sun
-3. Fully tighten down the pipe receiver bolts
+1. Place the solar panel pipe receiver onto the corresponding threaded stud pattern
+2. Rotate the solar panel so it faces south, or nearest direction recieving full sun
+4. Fully tighten down the pipe receiver nuts
 
 ### Solar Panel Tilt
 
-1. Locate the bolts mounting the solar panel to the pipe
+1. Locate the bolts mounting the solar panel to the bracket
 2. Loosen the bolts and tilt the solar panel to the desired angle for maximum sun
 3. Tighten the bolts until they are secure
