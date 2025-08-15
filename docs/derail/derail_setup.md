@@ -55,8 +55,11 @@
 ### Solar Panel Rotation
 
 1. Place the solar panel pipe receiver onto the corresponding threaded stud pattern
-2. Rotate the solar panel so it faces south, or nearest direction recieving full sun
-4. Fully tighten down the pipe receiver nuts
+2. Add the 1/4" washers to the studs, on top of the pipe receiver
+3. Without tightenining, loosely thread the 1/4"-20 nuts 
+4. Rotate the solar panel so it faces south, or nearest direction recieving full sun
+5. Ensure the light is not casting a shadow on the solar panel
+6. Fully tighten down the 1/4"-20 nuts
 
 ### Solar Panel Tilt
 
