@@ -22,19 +22,19 @@ Using a pickaxe, dig a path under the rail and around the sleepers for the liqui
 
 ## 3.2 Sensor Installation
 
-### Flip Style
+### For Flip-Style Derail
 
 Grind paint off of attaching face of bracket face before welding
 
-Locate bracket on side of derailer
+Locate bracket on side of derail
 
 Move derailer side to side, move to the closest position and then the furthest, making sure sensor is clear
 
 Ensure sensor will be clear of wheels
 
-### Swing Style
+### For Swing-Style Derail
 
-Locate bracekt on stand 
+Locate bracket on stand 
 
 Bolt bracket to stand
 
