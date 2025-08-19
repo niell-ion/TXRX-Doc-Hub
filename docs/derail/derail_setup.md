@@ -1,5 +1,11 @@
 ## 3.1 Derail Setup
 
+### Before Install
+
+1. Check clearance to adjacent rail, ensuring ``42 inches`` of clearance
+2. Ensure site has ``27 inches`` of vertical clearance
+3. Ensure site has ``22 inches`` of side-to-side clearance
+
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
 ### Positioning the Sensor
