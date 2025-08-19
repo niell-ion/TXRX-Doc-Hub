@@ -6,7 +6,9 @@
 
 #### CLEARANCE
 To rail: ``42 inches``
+
 Vertical: ``27 inches``
+
 Horizontal: ``22 inches``
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
