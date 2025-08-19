@@ -14,6 +14,10 @@ Measure the area where the controller will be installed. Refer to the following 
 
 At the installation site, the sun should be directly visible from 10 AM - 3 PM, and not obstructed by structures, railcars, or foliage.
 
+#### Digging
+
+Use a pickaxe to dig a path under the rail and around the sleepers.
+
 ---
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
