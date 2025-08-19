@@ -6,7 +6,7 @@
 * A slotted L-shaped mounting bracket is provided for welding to derail
 
 ### Sensor Module
-* Monitors the opening and closing of the derail by detecting the presence of the metal plate.
+* Monitors the opening and closing of the derail by detecting the presence of the metal plate
 
 ### Liquid-Tight Tubing
 * Protects the sensor wires
