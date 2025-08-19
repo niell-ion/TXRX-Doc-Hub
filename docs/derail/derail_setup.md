@@ -12,7 +12,7 @@ Measure the area where the controller will be installed. Refer to the following 
 
 #### Solar Panel
 
-At the installation site, 10 AM - 3 PM, the sun should be directly visible and not obstructed by structures, railcars, or foliage.
+At the installation site, the sun should be directly visible from 10 AM - 3 PM, and not obstructed by structures, railcars, or foliage.
 
 ---
 
