@@ -1,14 +1,19 @@
 ## 3.1 Derail Setup
 
-### Before Install
+### Preparing the Site
 
-1. Check clearance to adjacent rail, ensuring the following dimensions:
+* Measure the area where the controller will be installed
+* Refer to the following figure and table for minimum clearance dimensions
 
-#### CLEARANCE
+#### Minimum Site Clearance 
 
 | To Rail   | Vertical   | Horizontal   |
 |------------|------------|------------|
 | 42 inches| 27 inches| 22 inches|
+
+#### Solar Panel
+
+From the hours of 10 AM - 3 PM, the sun should be directly visible without obstructions
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
