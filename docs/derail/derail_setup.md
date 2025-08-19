@@ -2,7 +2,7 @@
 
 ### Before Install
 
-1. Check clearance to adjacent rail, ensuring the following dimensions
+1. Check clearance to adjacent rail, ensuring the following dimensions:
 
 #### CLEARANCE
 To rail: ``42 inches``
