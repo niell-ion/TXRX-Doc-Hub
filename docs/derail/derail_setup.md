@@ -24,38 +24,39 @@ Using a pickaxe, dig a path under the rail and around the sleepers for the liqui
 
 ### For Flip-Style Derail
 
-Grind paint off of attaching face of bracket face before welding
+1. Locate bracket on side of derail
 
-Locate bracket on side of derail
+2. Move derailer side to side, to the nearest and furthest extent, making sure sensor is clear of moving parts
 
-Move derailer side to side, move to the closest position and then the furthest, making sure sensor is clear
+3. Ensure sensor will be clear of wheels
 
-Ensure sensor will be clear of wheels
+4. Grind paint off of mating face of sensor bracket before welding
+
+5. Weld sensor to derail 
 
 ### For Swing-Style Derail
 
-Locate bracket on stand 
+1. Locate bracket on stand 
 
-Bolt bracket to stand
-
-* Locate sensor bracket welded to derail device
-
-> Bracket is previously installed. Mounting and welding instructions are not currently included within the scope of this document.
-
-* Check that front of sensor is parallel to side face of derail device
-* Slide the sensor in the slotted brack until it the face of the sensor is 3.5mm from the face of the derail
+2. Bolt bracket to stand
 
 ### Liquid-Tight tubing
 
 * Marmon provided
 
 1. Measure between bracket to box
-2. Cut tubing
-3. Run cable through tubing from sensor to box
-4. slide the bracket straight down on to the sensor
-5. Move bracket forward and back to adjust
-6. Once positioned, tighten top bolts to secure bracket
-7. Connect sensor wire in box
+
+3. Cut tubing
+
+5. Run cable through tubing from sensor to box
+
+7. slide the bracket straight down on to the sensor
+
+9. Move bracket forward and back to adjust
+
+11. Once positioned, tighten top bolts to secure bracket
+
+13. Connect sensor wire in box
 
 ---
 
