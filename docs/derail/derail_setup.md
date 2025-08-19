@@ -2,8 +2,7 @@
 
 ### Preparing the Site
 
-* Measure the area where the controller will be installed
-* Refer to the following figure and table for minimum clearance dimensions
+Measure the area where the controller will be installed. Refer to the following figure and table for minimum clearance dimensions:
 
 #### Minimum Site Clearance 
 
