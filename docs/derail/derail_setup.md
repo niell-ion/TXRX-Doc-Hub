@@ -5,6 +5,11 @@
 1. Check clearance to adjacent rail, ensuring the following dimensions:
 
 #### CLEARANCE
+
+| To Rail   | Vertical   | Horizontal   |
+|------------|------------|------------|
+| 42 inches| 27 inches| 22 inches|
+
 To rail: ``42 inches``
 
 Vertical: ``27 inches``
