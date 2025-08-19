@@ -1,28 +1,42 @@
-## 3.1 Derail Setup
+## 3.1 Site Preparation
 
-### Preparing the Site
+### Clearance
 
 Measure the area where the controller will be installed. Refer to the following figure and table for minimum clearance dimensions:
-
-#### Minimum Site Clearance 
 
 | To Rail   | Vertical   | Horizontal   |
 |------------|------------|------------|
 | 42 inches| 27 inches| 22 inches|
 
-#### Solar Panel
+### Solar Panel
 
 At the installation site, the sun should be directly visible from 10 AM - 3 PM, and not obstructed by structures, railcars, or foliage.
 
-#### Digging
+### Digging
 
-Use a pickaxe to dig a path under the rail and around the sleepers.
+Using a pickaxe, dig a path under the rail and around the sleepers for the liquid-tight tubing and controller stand.
 
 ---
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
-### Positioning the Sensor
+## 3.2 Sensor Installation
+
+### Flip Style
+
+Grind paint off of attaching face of bracket face before welding
+
+Locate bracket on side of derailer
+
+Move derailer side to side, move to the closest position and then the furthest, making sure sensor is clear
+
+Ensure sensor will be clear of wheels
+
+### Swing Style
+
+Locate bracekt on stand 
+
+Bolt bracket to stand
 
 * Locate sensor bracket welded to derail device
 
@@ -31,9 +45,21 @@ Use a pickaxe to dig a path under the rail and around the sleepers.
 * Check that front of sensor is parallel to side face of derail device
 * Slide the sensor in the slotted brack until it the face of the sensor is 3.5mm from the face of the derail
 
+### Liquid-Tight tubing
+
+* Marmon provided
+
+1. Measure between bracket to box
+2. Cut tubing
+3. Run cable through tubing from sensor to box
+4. slide the bracket straight down on to the sensor
+5. Move bracket forward and back to adjust
+6. Once positioned, tighten top bolts to secure bracket
+7. Connect sensor wire in box
+
 ---
 
-## 3.2 Controller Setup
+## 3.3 Assembly
 
 ![Derail Sensor](assets/derail_housing.jpg){: style="height:350px;width:350px"}
 
