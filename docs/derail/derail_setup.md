@@ -47,9 +47,9 @@ If needed, level the area where the controller will be installed at this time.
 
 ![Derail Solar Panel](assets/derail_light_wire.jpg){: style="height:350px;width:350px"}
 
-3. Ensure that 5V jumpers are installed
-4. Connect the light wires to terminals on the board as shown
-5. Use a multimeter to test the connections
+4. Ensure that 5V jumpers are installed
+5. Connect the light wires to terminals on the board as shown
+6. Use a multimeter to test the connections
 
 ---
 
@@ -62,12 +62,12 @@ If needed, level the area where the controller will be installed at this time.
 
 ![Derail Solar Panel](assets/derail_studs.jpg){: style="height:350px;width:350px"}
   
-4. Place the slotted base of the solar panel assembly onto the threaded stud pattern on the side of the device that receives more sun
-5. Adjust solar panel rotation to desired angle
-6. Ensure the light is not casting a shadow on the solar panel
-7. Thread washers and 1/4"-20 nuts onto base studs and tighten
-8. Adjust solar panel tilt to desired angle and tighten bolts
-9. Feed the wires through the cable glands into controller enclosure
+3. Place the slotted base of the solar panel assembly onto the threaded stud pattern on the side of the device that receives more sun
+4. Adjust solar panel rotation to desired angle
+5. Ensure the light is not casting a shadow on the solar panel
+6. Thread washers and 1/4"-20 nuts onto base studs and tighten
+7. Adjust solar panel tilt to desired angle and tighten bolts
+8. Feed the wires through the cable glands into controller enclosure
 
 ![Derail Solar Panel Wire](assets/derail_charger_wire.jpg){: style="height:350px;width:350px"}
 
