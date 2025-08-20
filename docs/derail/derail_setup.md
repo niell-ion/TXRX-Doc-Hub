@@ -69,7 +69,7 @@ If needed, level the area where the controller will be installed at this time.
 
 8. Feed the wires through the cable glands into controller enclosure
 9. Connect the Solar Panel wires to terminals on the board as shown
-11. Use a multimeter to test the connections
+10. Use a multimeter to test the connections
 
 ## 3.3 Sensor Installation
 
@@ -111,5 +111,4 @@ If needed, level the area where the controller will be installed at this time.
 
 ### Turning on the System
 
-* Connect battery wire
-* Controller will power up
+Connect battery wire. Look for light on charge controller and board to indicate sensor is receiving power.
