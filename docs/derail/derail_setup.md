@@ -1,6 +1,7 @@
 ## 3.1 Site Preparation
 
 ### Tools and Equipment
+
 * Measuring Tape
 * Pickaxe
 * Multimeter
