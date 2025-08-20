@@ -9,8 +9,6 @@ Before proceeding, measure the area where the sensor will be installed. Refer to
 |------------|------------|------------|
 | 42 inches| 27 inches| 22 inches|
 
-Ensure the safe zone is unobstructed and level.
-
 ### Solar Panel
 
 Survey the installation site. For the solar panel to function, the sun should be directly visible from 10 AM - 3 PM, and not be obstructed by structures, railcars, or foliage.
@@ -19,6 +17,7 @@ Two mounting pounts are provided with 1/4"-20 threaded studs for the solar panel
 ### Digging
 
 Using a pickaxe, remove the ballast under the rail and around the ties for the liquid-tight tubing and controller stand.
+If needed, level the area where the controller will be installed at this time.
 
 ---
 
@@ -40,15 +39,15 @@ Using a pickaxe, remove the ballast under the rail and around the ties for the l
 
 ### Light
 
-1. Place the slotted base of the light assembly on to the threaded 
+1. Place the slotted base of the light assembly on to the threaded stud pattern
+2. Feed the wires through the cable glands into controller enclosure
 
-### Connecting the Light
 
 ![Derail Solar Panel](assets/derail_wire.jpg){: style="height:350px;width:350px"}
 
-1. Ensure that 5V jumpers are installed
-2. Connect the light wires to terminals on the board as shown
-3. Use a multimeter to test the connections
+3. Ensure that 5V jumpers are installed
+4. Connect the light wires to terminals on the board as shown
+5. Use a multimeter to test the connections
 
 ---
 
@@ -57,7 +56,7 @@ Using a pickaxe, remove the ballast under the rail and around the ties for the l
 ![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:350px;width:350px"}
 
 1. Center solar panel on spider bracket and fasten using provided M6 cage nuts
-2. Bolt spider bracket, with solar panel attached, to solar panel mast
+2. Bolt the spider bracket with solar panel attached to the mast
 3. Place the slotted base of the solar panel assembly onto the threaded stud pattern on the side of the device that receives more sun
 4. Adjust solar panel rotation to desired angle
 5. Ensure the light is not casting a shadow on the solar panel
@@ -68,7 +67,7 @@ Using a pickaxe, remove the ballast under the rail and around the ties for the l
 
 `` Do not connect battery wire until all installation steps are complete ``
 
-8. Feed wires through cable glands into controller enclosure
+8. Feed the wires through the cable glands into controller enclosure
 9. Connect the Solar Panel wires to terminals on the board as shown
 11. Use a multimeter to test the connections
 
