@@ -30,6 +30,7 @@
 ### 3.3 [Solar Panel Setup](derail_setup.md#3.3-solar-panel)
 * Positioning the solar panel
 * Locking the solar panel
+### 3.4 [Turning on the System](derail_setup.md#3.4-turning-on-the-system)
 
 ---
 
