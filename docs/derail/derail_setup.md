@@ -1,5 +1,8 @@
 ## 3.1 Site Preparation
 
+Before installing the derail system, ensure that all required parts and tools are present.
+Complete all site preparation steps before proceeding to installation. The device may not be installed at sites not meeting the clearance requirements.
+
 ### Tools and Equipment
 
 * Measuring Tape
