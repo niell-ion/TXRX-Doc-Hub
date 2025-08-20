@@ -107,13 +107,16 @@ Using a pickaxe, remove the ballast under the rail and around the ties for the l
 
 ``Liquid tight tubing provided by Marmon``
 
-1. Measure between bracket to box
-2. Cut tubing
-3. Run cable through tubing from sensor to box
-4. slide the bracket straight down on to the sensor
+1. Measure length of tubing from sensor to controller
+2. Cut tubing to length, leaving a little extra in case of adjustment
+3. Run cable through tubing from sensor to controller
+
+![Sensor Bracket](assets/derail_tubing_nut.jpg){: style="height:350px;width:350px"}
+
+4. Slide the bracket straight down on to the sensor
 5. Move bracket forward and back to adjust
-6. Once positioned, tighten top bolts to secure bracket
-7. Pass sensor wire through cable gland into controller housing
+7. Once positioned, tighten top bolts to secure bracket
+8. Pass sensor wire through cable gland into controller housing
 
 ![Derail Solar Panel](assets/derail_sensor_wire.jpg){: style="height:350px;width:350px"}
 
