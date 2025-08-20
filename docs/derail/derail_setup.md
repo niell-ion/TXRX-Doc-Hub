@@ -21,36 +21,7 @@ Using a pickaxe, dig a path under the rail and around the ties for the liquid-ti
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
-## 3.2 Sensor Installation
-
-### For Flip-Style Derail
-
-1. Locate bracket on side of derail
-2. Move derailer side to side, to the nearest and furthest extent, making sure sensor is clear of moving parts
-3. Ensure sensor will be clear of wheels
-4. Grind paint off of mating face of sensor bracket before welding
-5. Weld sensor to derail 
-
-### For Swing-Style Derail
-
-1. Locate bracket on stand 
-2. Bolt bracket to stand
-
-### Liquid-Tight tubing
-
-* Marmon provided
-
-1. Measure between bracket to box
-2. Cut tubing
-3. Run cable through tubing from sensor to box
-4. slide the bracket straight down on to the sensor
-5. Move bracket forward and back to adjust
-6. Once positioned, tighten top bolts to secure bracket
-7. Connect sensor wire in box
-
----
-
-## 3.3 Assembly
+## 3.2 Assembly
 
 ![Derail Sensor](assets/derail_housing.jpg){: style="height:350px;width:350px"}
 
@@ -63,13 +34,6 @@ Using a pickaxe, dig a path under the rail and around the ties for the liquid-ti
 5. Ensure bolts are tightened, and that assembly is centered on the tie and square to the rail
 6. Attach leveling feet using holes on bottom of bracket and tighten
 7. Pre-load feet to prevent assembly from wobbling
-
-### Connecting the Sensor
-
-![Derail Solar Panel](assets/derail_board.jpg){: style="height:350px;width:350px"}
-
-1. Connect the sensor wires to terminals on the board as shown
-2. Use a multimeter to test the connections
 
 ### Light
 
@@ -102,3 +66,41 @@ Using a pickaxe, dig a path under the rail and around the ties for the liquid-ti
 8. Feed wires through cable glands into controller enclosure
 9. Connect the Solar Panel wires to terminals on the board as shown
 10. Use a multimeter to test the connections
+
+## 3.3 Sensor Installation
+
+### For Flip-Style Derail
+
+1. Locate bracket on side of derail
+2. Move derailer side to side, to the nearest and furthest extent, making sure sensor is clear of moving parts
+3. Ensure sensor will be clear of wheels
+4. Grind paint off of mating face of sensor bracket before welding
+5. Weld sensor to derail 
+
+### For Swing-Style Derail
+
+``Stand for swing-style derail sensor provided by Marmon``
+
+1. Locate bracket on stand 
+2. Bolt bracket to stand
+
+### Liquid-Tight tubing
+
+``Liquid tight tubing provided by Marmon``
+
+1. Measure between bracket to box
+2. Cut tubing
+3. Run cable through tubing from sensor to box
+4. slide the bracket straight down on to the sensor
+5. Move bracket forward and back to adjust
+6. Once positioned, tighten top bolts to secure bracket
+7. Pass sensor wire through cable gland into controller housing
+
+![Derail Solar Panel](assets/derail_board.jpg){: style="height:350px;width:350px"}
+
+8. Connect the sensor wires to terminals on the board as shown
+9. Use a multimeter to test the connections
+
+### Turning on the System
+
+* Connect battery wire
