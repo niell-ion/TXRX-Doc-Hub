@@ -45,7 +45,7 @@ If needed, level the area where the controller will be installed at this time.
 2. Fasten the 1/4" washers and 1/4"-20 nuts
 3. Feed the wires through the cable glands into controller enclosure
 
-![Derail Solar Panel](assets/derail_wire.jpg){: style="height:350px;width:350px"}
+![Derail Solar Panel](assets/derail_light_wire.jpg){: style="height:350px;width:350px"}
 
 3. Ensure that 5V jumpers are installed
 4. Connect the light wires to terminals on the board as shown
