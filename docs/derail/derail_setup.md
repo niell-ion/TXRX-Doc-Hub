@@ -51,7 +51,7 @@ Using a pickaxe, remove the ballast under the rail and around the ties for the l
 ![Derail Solar Panel](assets/derail_light_wire.jpg){: style="height:350px;width:350px"}
 
 4. Ensure that 5V jumpers are installed
-5. Connect the light wires to terminals on the board as shown
+5. Connect the light wires to ``OUT 0`` terminals on the board as shown
 6. Use a multimeter to test the connections
 
 ---
