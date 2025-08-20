@@ -14,6 +14,8 @@ Before proceeding, measure the area where the sensor will be installed. Refer to
 Survey the installation site. For the solar panel to function, the sun should be directly visible from 10 AM - 3 PM, and not be obstructed by structures, railcars, or foliage.
 Two mounting pounts are provided with 1/4"-20 threaded studs for the solar panel and light. Mount the solar panel on the side of the derail device that receives the most sun.
 
+Solar panel tilt angle is calculated based on the latitude of the installation site.
+
 ### Digging
 
 Using a pickaxe, remove the ballast under the rail and around the ties for the liquid-tight tubing and controller stand.
@@ -54,7 +56,6 @@ If needed, level the area where the controller will be installed at this time.
 ---
 
 ### Solar Panel
-
 
 1. Center solar panel on spider bracket and fasten using provided M6 cage nuts
 2. Bolt the spider bracket with solar panel attached to the mast
