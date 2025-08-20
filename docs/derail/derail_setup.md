@@ -100,7 +100,7 @@ If needed, level the area where the controller will be installed at this time.
 6. Once positioned, tighten top bolts to secure bracket
 7. Pass sensor wire through cable gland into controller housing
 
-![Derail Solar Panel](assets/solar_control.jpg){: style="height:350px;width:350px"}
+![Derail Solar Panel](assets/derail_sensor_wire.jpg){: style="height:350px;width:350px"}
 
 8. Connect the sensor wires to terminals on the board as shown
 9. Use a multimeter to test the connections
