@@ -102,7 +102,7 @@ If needed, level the area where the controller will be installed at this time.
 
 ![Derail Solar Panel](assets/derail_sensor_wire.jpg){: style="height:350px;width:350px"}
 
-8. Connect the sensor wires to terminals on the board as shown
+8. Connect the sensor wires to ``IN 0`` on the board as shown
 9. Use a multimeter to test the connections
 10. Straighten tubing path
 11. Bolt liquid-tight tubing cover plate perpedicular to rail as shown
