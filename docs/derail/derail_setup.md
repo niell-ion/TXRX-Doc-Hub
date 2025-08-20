@@ -105,6 +105,9 @@ If needed, level the area where the controller will be installed at this time.
 
 8. Connect the sensor wires to terminals on the board as shown
 9. Use a multimeter to test the connections
+10. Straighten tubing path
+11. Bolt liquid-tight tubing cover plate perpedicular to rail as shown
+12. Cover tubing with ballast
 
 ### Turning on the System
 
