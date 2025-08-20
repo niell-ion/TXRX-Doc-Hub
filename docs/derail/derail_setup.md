@@ -63,7 +63,6 @@ If needed, level the area where the controller will be installed at this time.
 6. Thread washers and 1/4"-20 nuts onto base studs and tighten
 7. Adjust solar panel tilt to desired angle and tighten bolts
 
-![Derail Solar Panel](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
 `` Do not connect battery wire until all installation steps are complete ``
 
@@ -100,9 +99,6 @@ If needed, level the area where the controller will be installed at this time.
 5. Move bracket forward and back to adjust
 6. Once positioned, tighten top bolts to secure bracket
 7. Pass sensor wire through cable gland into controller housing
-
-![Derail Solar Panel](assets/derail_board.jpg){: style="height:350px;width:350px"}
-
 8. Connect the sensor wires to terminals on the board as shown
 9. Use a multimeter to test the connections
 10. Straighten tubing path
@@ -111,4 +107,6 @@ If needed, level the area where the controller will be installed at this time.
 
 ## 3.4 Turning on the System
 
-Connect battery wire. Look for light on charge controller and board to indicate sensor is receiving power.
+![Derail Solar Panel](assets/solar_control.jpg){: style="height:350px;width:350px"}
+
+Connect battery wire as shown. Look for light on charge controller and board to indicate sensor is receiving power.
