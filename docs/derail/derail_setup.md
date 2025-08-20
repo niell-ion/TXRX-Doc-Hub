@@ -9,6 +9,8 @@ Before proceeding, measure the area where the sensor will be installed. Refer to
 |------------|------------|------------|
 | 42 inches| 27 inches| 22 inches|
 
+The area should be nominally level front to back. Ensure that there is no more than 6" of elevation increase from the rail to a point measured 42 inches straight back.
+
 ### Solar Panel
 
 Survey the installation site. For the solar panel to function, the sun should be directly visible from 10 AM - 3 PM, and not be obstructed by structures, railcars, or foliage.
@@ -18,8 +20,7 @@ Solar panel tilt angle is calculated based on the latitude of the installation s
 
 ### Digging
 
-Using a pickaxe, remove the ballast under the rail and around the ties for the liquid-tight tubing and controller stand.
-If needed, level the area where the controller will be installed at this time.
+Using a pickaxe, remove the ballast under the rail and around the ties for the liquid-tight tubing and controller stand. The cleared area should be large enough to comfortably work aound.
 
 ---
 
