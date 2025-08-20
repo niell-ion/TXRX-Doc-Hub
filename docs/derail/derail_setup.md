@@ -42,7 +42,6 @@ If needed, level the area where the controller will be installed at this time.
 1. Place the slotted base of the light assembly on to the threaded stud pattern
 2. Feed the wires through the cable glands into controller enclosure
 
-
 ![Derail Solar Panel](assets/derail_wire.jpg){: style="height:350px;width:350px"}
 
 3. Ensure that 5V jumpers are installed
@@ -80,7 +79,8 @@ If needed, level the area where the controller will be installed at this time.
 3. Ensure sensor will be clear of wheels
 4. Grind paint off of mating face of sensor bracket before welding
 5. Mount sensor to bracket with provided screws
-6. Weld sensor and bracket assembly to derail 
+6. Double check that sensor is clear, square to rail, and reader face is parallel to metal plate of derail
+7. Weld sensor and bracket assembly to derail 
 
 ### For Swing-Style Derail
 
