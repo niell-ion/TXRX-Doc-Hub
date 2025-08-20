@@ -59,7 +59,8 @@ Using a pickaxe, remove the ballast under the rail and around the ties for the l
 4. If not already attached, bolt the controller stand to the tie bracket
 5. Ensure bolts are tightened, and that assembly is centered on the tie and square to the rail
 6. Attach leveling feet using holes on bottom of bracket and tighten
-7. Pre-load feet to prevent assembly from wobbling
+
+When attaching the leveling feet, pre-load them slightly so that the controller stand is being held in tension by the feet pushing against the ballast. This will prevent the device from vibrating in use.
 
 ### Light
 
