@@ -63,9 +63,11 @@ Using a pickaxe, dig a path under the rail and around the ties for the liquid-ti
 
 ![Derail Solar Panel](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
+`` Do not connect battery wire until all installation steps are complete ``
+
 8. Feed wires through cable glands into controller enclosure
 9. Connect the Solar Panel wires to terminals on the board as shown
-10. Use a multimeter to test the connections
+11. Use a multimeter to test the connections
 
 ## 3.3 Sensor Installation
 
@@ -75,7 +77,8 @@ Using a pickaxe, dig a path under the rail and around the ties for the liquid-ti
 2. Move derailer side to side, to the nearest and furthest extent, making sure sensor is clear of moving parts
 3. Ensure sensor will be clear of wheels
 4. Grind paint off of mating face of sensor bracket before welding
-5. Weld sensor to derail 
+5. Mount sensor to bracket with provided screws
+6. Weld sensor and bracket assembly to derail 
 
 ### For Swing-Style Derail
 
@@ -104,3 +107,4 @@ Using a pickaxe, dig a path under the rail and around the ties for the liquid-ti
 ### Turning on the System
 
 * Connect battery wire
+* Controller will power up
