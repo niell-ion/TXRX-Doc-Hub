@@ -17,9 +17,7 @@
 #### Tubing Cover Bracket
 * Secures the liquid-tight tubing
 
-### Swing-Style
-
-
+---
 
 ## 2.2 Controller
 
