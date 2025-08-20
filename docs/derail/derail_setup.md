@@ -41,10 +41,11 @@ If needed, level the area where the controller will be installed at this time.
 
 ### Light
 
-
+![Derail Solar Panel](assets/derail_light_studs.jpg){: style="height:350px;width:350px"}
 
 1. Place the slotted base of the light assembly on to the threaded stud pattern
-2. Feed the wires through the cable glands into controller enclosure
+2. Fasten the 1/4" washers and 1/4"-20 nuts
+3. Feed the wires through the cable glands into controller enclosure
 
 ![Derail Solar Panel](assets/derail_wire.jpg){: style="height:350px;width:350px"}
 
