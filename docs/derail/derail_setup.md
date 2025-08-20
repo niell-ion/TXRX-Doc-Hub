@@ -10,7 +10,8 @@ Measure the area where the controller will be installed. Refer to the following 
 
 ### Solar Panel
 
-At the installation site, the sun should be directly visible from 10 AM - 3 PM, and not obstructed by structures, railcars, or foliage.
+Survey the installation site. For the solar panel to function, the sun should be directly visible from 10 AM - 3 PM, and not be obstructed by structures, railcars, or foliage.
+Two mounting pounts are provided with 1/4"-20 threaded studs for the solar panel and light. Mount the solar panel on the side of the derail device that receives the most sun.
 
 ### Digging
 
@@ -70,7 +71,9 @@ Using a pickaxe, dig a path under the rail and around the ties for the liquid-ti
 1. Connect the sensor wires to terminals on the board as shown
 2. Use a multimeter to test the connections
 
+### Light
 
+1. Place the slotted base of the light assembly on to the threaded 
 
 ### Connecting the Light
 
@@ -88,18 +91,14 @@ Using a pickaxe, dig a path under the rail and around the ties for the liquid-ti
 
 1. Center solar panel on spider bracket and fasten using provided M6 cage nuts
 2. Bolt spider bracket, with solar panel attached, to solar panel mast
-
-### Solar Panel Rotation
-
-1. Place the slotted base of the solar panel mast onto the threaded stud pattern on the side of the device that receives more sun
-2. Adjust solar panel rotation to desired angle
-3. Ensure the light is not casting a shadow on the solar panel
-4. Thread washers and 1/4"-20 nuts onto base studs and tighten
-5. Adjust solar panel tilt to desired angle and tighten bolts
-
-### Connecting the Solar Panel
+3. Place the slotted base of the solar panel assembly onto the threaded stud pattern on the side of the device that receives more sun
+4. Adjust solar panel rotation to desired angle
+5. Ensure the light is not casting a shadow on the solar panel
+6. Thread washers and 1/4"-20 nuts onto base studs and tighten
+7. Adjust solar panel tilt to desired angle and tighten bolts
 
 ![Derail Solar Panel](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
-1. Connect the Solar Panel wires to terminals on the board as shown
-2. Use a multimeter to test the connections
+8. Feed wires through cable glands into controller enclosure
+9. Connect the Solar Panel wires to terminals on the board as shown
+10. Use a multimeter to test the connections
