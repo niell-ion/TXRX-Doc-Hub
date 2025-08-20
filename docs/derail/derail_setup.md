@@ -2,11 +2,14 @@
 
 ### Clearance
 
-Measure the area where the controller will be installed. Refer to the following figure and table for minimum clearance dimensions:
+The derail sensor requires a clear zone around the device and a level surface for installation. The device may only be used at sites which meet these requirments.
+Before proceeding, measure the area where the sensor will be installed. Refer to the following table for minimum clearance dimensions:
 
-| To Rail   | Vertical   | Horizontal   |
+| Distance to Rail   | Vertical Clearance   | Horizontal Clearance   |
 |------------|------------|------------|
 | 42 inches| 27 inches| 22 inches|
+
+Ensure the safe zone is unobstructed and level.
 
 ### Solar Panel
 
@@ -15,7 +18,7 @@ Two mounting pounts are provided with 1/4"-20 threaded studs for the solar panel
 
 ### Digging
 
-Using a pickaxe, dig a path under the rail and around the ties for the liquid-tight tubing and controller stand.
+Using a pickaxe, remove the ballast under the rail and around the ties for the liquid-tight tubing and controller stand.
 
 ---
 
