@@ -21,8 +21,9 @@ Solar panel tilt angle is calculated based on the latitude of the installation s
 Measure the latitude Adjust tilt angle to your latitude.
 
 ``Example: Latitude = 38.23 : Angle = 38.2°``
-In the winter months, ajust the tilt angle to your latitude plus 15°.
-In summer months, adjust the tilt angle to your latitude minus 15°.
+
+* In the winter months, ajust the tilt angle to your latitude plus 15°.
+* In summer months, adjust the tilt angle to your latitude minus 15°.
 
 ``Example: Tilt angle = 38.2° in fall and spring. In winter, the tilt angle would be 38.2 + 15 = 53.2°. Then in summer, the ideal angle would be 38.2 – 15 = 23.2°.``
 
