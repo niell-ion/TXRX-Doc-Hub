@@ -62,13 +62,14 @@ If needed, level the area where the controller will be installed at this time.
 5. Ensure the light is not casting a shadow on the solar panel
 6. Thread washers and 1/4"-20 nuts onto base studs and tighten
 7. Adjust solar panel tilt to desired angle and tighten bolts
+8. Feed the wires through the cable glands into controller enclosure
 
+![Derail Solar Panel Wire](assets/derail_charger_wire.jpg){: style="height:350px;width:350px"}
 
 `` Do not connect battery wire until all installation steps are complete ``
 
-8. Feed the wires through the cable glands into controller enclosure
-9. Connect the Solar Panel wires to terminals on the board as shown
-10. Use a multimeter to test the connections
+10. Connect the Solar Panel wires to terminals on the board as shown
+11. Use a multimeter to test the connections
 
 ## 3.3 Sensor Installation
 
