@@ -79,7 +79,7 @@ Using a pickaxe, remove the ballast under the rail and around the ties for the l
 
 `` Do not connect battery wire until all installation steps are complete ``
 
-9. Connect the Solar Panel wires to terminals on the board as shown
+9. Connect the Solar Panel wires to ``+`` and ``-`` terminals on the board as shown
 10. Use a multimeter to test the connections
 
 ## 3.3 Sensor Installation
