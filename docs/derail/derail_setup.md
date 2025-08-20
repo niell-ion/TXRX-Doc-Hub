@@ -128,3 +128,4 @@ Using a pickaxe, remove the ballast under the rail and around the ties for the l
 ![Derail Charger Connected](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
 Connect battery wire as shown. Look for light on charge controller and board to indicate sensor is receiving power.
+If system does not turn on, contact TXRX for support.
