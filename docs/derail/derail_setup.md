@@ -8,6 +8,7 @@ Complete all site preparation steps before proceeding to installation. The devic
 * Measuring Tape
 * Pickaxe
 * Multimeter
+* Metric Allen Key Set
 * 2 Adjustable Wrenches
 * 1/8" Slotted Screwdriver
 * Utility knife (for cutting liquid-tight tubing)
