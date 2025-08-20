@@ -109,6 +109,6 @@ If needed, level the area where the controller will be installed at this time.
 11. Bolt liquid-tight tubing cover plate perpedicular to rail as shown
 12. Cover tubing with ballast
 
-### Turning on the System
+## 3.4 Turning on the System
 
 Connect battery wire. Look for light on charge controller and board to indicate sensor is receiving power.
