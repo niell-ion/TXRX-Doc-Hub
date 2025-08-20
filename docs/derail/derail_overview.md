@@ -2,17 +2,24 @@
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
+### Mounting Bracket, Flip-Style
+* A slotted L-shaped mounting bracket is provided for welding to flip style derail devices
+
 ### Mounting Bracket
-* A slotted L-shaped mounting bracket is provided for welding to derail
+* A slotted L-shaped mounting bracket is provided for attaching sensor to stand for swing-style derail devices
 
 ### Sensor Module
 * Monitors the opening and closing of the derail by detecting the presence of the metal plate
 
-### Liquid-Tight Tubing
+#### Liquid-Tight Tubing
 * Protects the sensor wires
 
-### Tubing Cover Bracket
+#### Tubing Cover Bracket
 * Secures the liquid-tight tubing
+
+### Swing-Style
+
+
 
 ## 3.2 Controller
 
