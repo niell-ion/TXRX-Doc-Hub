@@ -82,7 +82,7 @@ When attaching the leveling feet, pre-load them slightly so that the controller 
 
 ![Derail Solar Panel](assets/solar_center.jpg){: style="height:350px;width:350px"}
 
-1. Center solar panel on spider bracket and fasten using provided M6 cage nuts
+1. Center solar panel on spider bracket and fasten using provided M6 cage nuts, washers, and screws
 2. Bolt the spider bracket with solar panel attached to the mast
 
 ![Derail Solar Panel](assets/derail_studs.jpg){: style="height:350px;width:350px"}
