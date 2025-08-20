@@ -1,4 +1,12 @@
-m ## 3.1 Site Preparation
+## 3.1 Site Preparation
+
+### Tools and Equipment
+* Measuring Tape
+* Pickaxe
+* Multimeter
+* 2 Adjustable Wrenches
+* 1/8" Slotted Screwdriver
+* Utility knife (for cutting liquid-tight tubing)
 
 ### Clearance
 
