@@ -29,6 +29,8 @@ If needed, level the area where the controller will be installed at this time.
 
 ### Mounting the Controller Stand
 
+![Derail Solar Panel](assets/derail_sensor_wire.jpg){: style="height:350px;width:350px"}
+
 1. Center controller stand bracket on the tie
 2. Move bracket towards rail as far as possible
 3. Using at least 4 0.5" x 3" galvanized lag bolts with washers, attach the bracket to the tie
@@ -38,6 +40,8 @@ If needed, level the area where the controller will be installed at this time.
 7. Pre-load feet to prevent assembly from wobbling
 
 ### Light
+
+
 
 1. Place the slotted base of the light assembly on to the threaded stud pattern
 2. Feed the wires through the cable glands into controller enclosure
