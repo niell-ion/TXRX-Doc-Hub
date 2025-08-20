@@ -57,6 +57,8 @@ If needed, level the area where the controller will be installed at this time.
 
 ### Solar Panel
 
+![Derail Solar Panel](assets/solar_center.jpg){: style="height:350px;width:350px"}
+
 1. Center solar panel on spider bracket and fasten using provided M6 cage nuts
 2. Bolt the spider bracket with solar panel attached to the mast
 
