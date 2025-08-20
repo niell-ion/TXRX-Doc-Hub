@@ -120,7 +120,7 @@ Using a pickaxe, remove the ballast under the rail and around the ties for the l
 2. Cut tubing to length, leaving a little extra in case of adjustment
 3. Run cable through tubing from sensor to controller
 
-![Sensor Bracket](assets/derail_tubing_nut.jpg){: style="height:350px;width:350px"}
+![Sensor Bracket](assets/tubing_nut.jpg){: style="height:350px;width:350px"}
 
 4. Slide the bracket straight down on to the sensor
 5. Move bracket forward and back to adjust
