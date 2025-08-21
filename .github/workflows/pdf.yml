@@ -31,7 +31,7 @@ jobs:
           fi
         
       - name: Upload PDF as artifact
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v4.6.2
         with:
           name: docs-pdf
           path: site/docs.pdf
