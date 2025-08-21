@@ -44,12 +44,12 @@ plugins:
   - to-pdf:
       output_path: document.pdf
 markdown_extensions:
-  - attr_list:
   - toc:
       permalink: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
 
 
 
