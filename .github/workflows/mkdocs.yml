@@ -21,9 +21,15 @@ jobs:
       - name: Build site
         run: mkdocs build
 
-      - name: Move PDF into site root
-        run: mv /home/runner/work/TXRX-Doc-Hub/TXRX-Doc-Hub/site/document.pdf /site/docs.pdf
+      - name: List built files
+        run: ls -R site
 
+      - name: Move PDF into site root
+        run: |
+          if [ -f site/pdf/document.pdf ]; then
+            mv site/pdf/document.pdf site/docs.pdf
+          fi
+        
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4
         with:
