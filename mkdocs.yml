@@ -47,4 +47,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+plugins:
+  - to-pdf:
+      copyright: Copyright © TXRX Labs 2025
+      cover_logo: https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg
+      back_cover: true
+    
+
 
