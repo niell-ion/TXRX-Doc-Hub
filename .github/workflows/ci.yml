@@ -32,4 +32,6 @@ jobs:
         with:
           name: site-pdf
           path: site/*.pdf   # adjust if you named your PDF differently
+      - name: Build site
+        run: mkdocs build
       - run: mkdocs gh-deploy --force
