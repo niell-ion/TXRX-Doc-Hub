@@ -48,7 +48,9 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 plugins:
-    - with-pdf
+  - with-pdf:
+      output_path: docs/document.pdf
+
 
 
 
