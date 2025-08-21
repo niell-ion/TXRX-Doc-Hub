@@ -41,8 +41,8 @@ nav:
       - Maintenance: derail/derail_maintenance.md
       - Troubleshooting: derail/derail_troubleshooting.md
 plugins:
-  - with-pdf:
-      output_path: site/derail.pdf
+  - to-pdf:
+    verbose: true
 markdown_extensions:
   - attr_list:
   - toc:
@@ -50,6 +50,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
 
 
 
