@@ -12,7 +12,7 @@
 ### 2.1 [Derail device](derail_overview.md#21-sensor-assembly)
 ### 2.2 [Sensor](derail_overview.md#22-controller)
 ### 2.3 [Solar Panel](derail_overview.md#23-solar-panel)
-### 2.4 [Status Light](derail_overview.md#24-status-light)
+### 2.4 [Indicator Light](derail_overview.md#24-indicator-light)
 
 ---
 
