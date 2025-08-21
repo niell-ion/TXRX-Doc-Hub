@@ -1,12 +1,12 @@
-# name: ci 
-# on:
+name: ci 
+on:
   push:
     branches:
       - master 
       - main
-# permissions:
+permissions:
   contents: write
-# jobs:
+jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
