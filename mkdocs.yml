@@ -42,7 +42,7 @@ nav:
       - Troubleshooting: derail/derail_troubleshooting.md
 plugins:
   - to-pdf:
-      verbose: true
+      output_path: document.pdf
 markdown_extensions:
   - attr_list:
   - toc:
@@ -50,6 +50,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
 
 
 
