@@ -23,16 +23,10 @@ jobs:
 
       - name: List built files
         run: ls -R site
-
-      - name: Move PDF into site root
-        run: |
-          if [ -f site/pdf/document.pdf ]; then
-            mv site/pdf/document.pdf site/docs.pdf
-          fi
         
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4.6.2
         with:
           name: docs-pdf
-          path: site/docs.pdf
+          path: site/documents.pdf
 
