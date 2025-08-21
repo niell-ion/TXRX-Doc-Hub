@@ -9,7 +9,7 @@
 
 ## 2. [System Overview](derail_overview.md)
 
-### 2.1 [Derail device](derail_overview.md#2.1-derail-device)
+### 2.1 [Derail device](derail_overview.md#derail-device)
 ### 2.2 [Sensor](derail_overview.md#2.2-sensor)
 ### 2.3 [Controller](derail_overview.md#2.3-controller)
 ### 2.4 [Solar Panel](derail_overview.md#2.4-solar-panel)
