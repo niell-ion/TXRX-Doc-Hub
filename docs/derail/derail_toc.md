@@ -2,8 +2,8 @@
 
 ## 1. [Preface](derail_preface.md)
 ### 1.1 [Introduction](derail_preface.md#11-introduction)
-### 1.2 [Safety Precautions](derail_preface.md#11-safety-precautions)
-### 1.3 [Tools and Equipment](derail_preface.md#11-tools-and-equipment)
+### 1.2 [Safety Precautions](derail_preface.md#12-safety-precautions)
+### 1.3 [Tools and Equipment](derail_preface.md#13-tools-and-equipment)
 
 ---
 
