@@ -27,8 +27,8 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material 
       - run: pip install mkdocs-with-pdf
-      - name: Upload PDF as artifact
       - run: mkdocs gh-deploy --force
+      - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4
         with:
           name: site-pdf
