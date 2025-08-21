@@ -50,8 +50,8 @@ markdown_extensions:
 plugins:
   - to-pdf:
       copyright: Copyright © TXRX Labs 2025
-      cover_logo: https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg
       back_cover: true
     
+
 
 
