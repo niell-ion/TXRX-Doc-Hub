@@ -51,7 +51,10 @@ plugins:
   - to-pdf:
       copyright: Copyright © TXRX Labs 2025
       back_cover: true
+      output_path: document.pdf
+      enabled_if_env: ENABLE_PDF_EXPORT
     
+
 
 
 
