@@ -1,19 +1,19 @@
 ![Derail Light](assets/derail_stand.jpg)
 
 ## 1. [Preface](derail_preface.md)
-### 1.1 [Introduction](derail_preface.md#1.1-introduction)
-### 1.2 [Safety Precautions](derail_preface.md#1.1-safety-precautions)
-### 1.3 [Tools and Equipment](derail_preface.md#1.1-tools-and-equipment)
+### 1.1 [Introduction](derail_preface.md#11-introduction)
+### 1.2 [Safety Precautions](derail_preface.md#11-safety-precautions)
+### 1.3 [Tools and Equipment](derail_preface.md#11-tools-and-equipment)
 
 ---
 
 ## 2. [System Overview](derail_overview.md)
 
-### 2.1 [Derail device](derail_overview.md#2.1-derail-device)
-### 2.2 [Sensor](derail_overview.md#2.2-sensor)
-### 2.3 [Controller](derail_overview.md#2.3-controller)
-### 2.4 [Solar Panel](derail_overview.md#2.4-solar-panel)
-### 2.5 [Status Light](derail_overview.md#2.5-status-light)
+### 2.1 [Derail device](derail_overview.md#21-derail-device)
+### 2.2 [Sensor](derail_overview.md#22-sensor)
+### 2.3 [Controller](derail_overview.md#23-controller)
+### 2.4 [Solar Panel](derail_overview.md#24-solar-panel)
+### 2.5 [Status Light](derail_overview.md#25-status-light)
 
 ---
 
