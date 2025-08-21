@@ -29,4 +29,9 @@ jobs:
         with:
           name: docs-pdf
           path: site/documents.pdf
-
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
