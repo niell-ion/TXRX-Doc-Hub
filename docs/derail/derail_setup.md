@@ -1,15 +1,15 @@
 ## 3.1 Site Preparation
 
-Before installing the derail system, ensure that all required parts and tools are present.
-Complete all site preparation steps before proceeding to installation. The device may not be installed at sites not meeting the clearance requirements.
+Before beginning installation, confirm that all required tools and components are available. Site preparation must be completed before installing the derail system.
+``⚠️ Do not install the device at any location that does not meet the clearance requirements.``
 
 ### Tools and Equipment
 
 * Measuring Tape
-* Pickaxe
+* Tamping Pick or Pickaxe
 * Multimeter
 * Metric Allen Key Set
-* 2 Adjustable Wrenches
+* Two Adjustable Wrenches
 * 1/8" Slotted Screwdriver
 * Utility knife (for cutting liquid-tight tubing)
 
