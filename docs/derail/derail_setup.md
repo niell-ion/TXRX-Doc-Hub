@@ -79,14 +79,59 @@ Clear space for:
 
 ### Mounting the Controller Stand
 
-1. Center controller stand bracket on the tie
-2. Move bracket towards rail as far as possible
-3. Using at least 4 0.5" x 3" galvanized lag bolts with washers, attach the bracket to the tie
-4. If not already attached, bolt the controller stand to the tie bracket
-5. Ensure bolts are tightened, and that assembly is centered on the tie and square to the rail
-6. Attach leveling feet using holes on bottom of bracket and tighten
+**1. Position the Tie Bracket**
 
-When attaching the leveling feet, pre-load them slightly so that the controller stand is being held in tension by the feet pushing against the ballast. This will prevent the device from vibrating in use.
+Place the controller stand bracket on the center of the selected tie.
+
+Slide the bracket toward the rail as far as possible while keeping it centered.
+
+**2. Secure the Bracket to the Tie**
+
+Using a power drill or impact driver, install a minimum of four (4) 0.5 in. x 3 in. galvanized lag bolts with washers.
+
+Ensure bolts penetrate fully into solid wood.
+
+Tighten each bolt firmly to prevent movement.
+
+**3. Attach the Controller Stand to the Bracket**
+
+If the controller stand is not already attached, align its base with the tie bracket.
+
+Insert the supplied bolts and tighten securely.
+
+Confirm the assembly is:
+
+Centered on the tie
+
+Square (perpendicular) to the rail
+
+**4. Install Leveling Feet**
+
+Locate the pre-drilled holes at the bottom of the bracket.
+
+Thread each leveling foot into its hole and tighten by hand.
+
+Once threaded, use a wrench to snug each foot.
+
+**5. Pre-Load the Leveling Feet**
+
+Adjust the leveling feet so that they press firmly against the ballast.
+
+Apply slight downward pressure to “pre-load” the feet.
+
+The stand should be held in tension between the tie bracket and ballast.
+
+Verify that the stand does not rock or shift when pushed.
+
+**6. Final Check**
+
+Confirm all bolts are tightened.
+
+Verify that the stand is stable, centered, and level.
+
+Re-adjust leveling feet if necessary.
+
+---
 
 ### Light
 
