@@ -34,19 +34,29 @@ The area should be nominally level front to back. Ensure that there is no more t
 
 ### Solar Panel
 
-Survey the installation site. For the solar panel to function, the sun should be directly visible from 10 AM - 3 PM, and not be obstructed by structures, railcars, or foliage.
-Two mounting pounts are provided with 1/4"-20 threaded studs for the solar panel and light. Mount the solar panel on the side of the derail device that receives the most sun.
+For proper operation, the solar panel must receive direct sunlight from 10:00 AM to 3:00 PM without obstruction from structures, railcars, or vegetation.
 
-Solar panel tilt angle is calculated based on the latitude of the installation site.
+Mount the solar panel on the side of the derail device that receives the most sunlight.
 
-Measure the latitude Adjust tilt angle to your latitude.
+Two mounting points with 1/4"-20 threaded studs are provided for the solar panel and light.
 
-``Example: Latitude = 38.23 : Angle = 38.2°``
+**Solar Panel Tilt Angle**
 
-* In the winter months, ajust the tilt angle to your latitude plus 15°.
-* In summer months, adjust the tilt angle to your latitude minus 15°.
+Measure the latitude of the installation site.
 
-``Example: Tilt angle = 38.2° in fall and spring. In winter, the tilt angle would be 38.2 + 15 = 53.2°. Then in summer, the ideal angle would be 38.2 – 15 = 23.2°.``
+Set the tilt angle equal to the latitude.
+
+``Example: Latitude 38.2° → Tilt angle 38.2°.``
+
+**Seasonal adjustments:**
+
+Winter: Latitude + 15°
+
+Summer: Latitude – 15°
+
+Spring/Fall: Latitude only
+
+``Example: Spring/Fall tilt angle = 38.2°. Winter tilt angle = 38.2 + 15 = 53.2°. Summer tilt angle = 38.2 – 15 = 23.2°.``
 
 ### Excavation (Digging)
 
