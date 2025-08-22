@@ -16,12 +16,19 @@ Before beginning installation, confirm that all required tools and components ar
 
 ### Clearance
 
-The derail sensor requires a clear zone around the device and a level surface for installation. The device may only be used at sites which meet these requirments.
-Before proceeding, measure the area where the sensor will be installed. Refer to the following table for minimum clearance dimensions:
+The derail sensor requires a level installation surface and a clear zone around the device.
 
-| Distance to Rail   | Vertical Clearance   | Horizontal Clearance   |
-|------------|------------|------------|
-| 42 inches| 27 inches| 22 inches|
+Minimum clearances:
+
+Distance to rail: 42 in.
+
+Vertical clearance: 27 in.
+
+Horizontal clearance: 22 in.
+
+The ground must be level front to back. From the rail to a point 42 in. back, elevation must not rise more than 6 in.
+
+``⚠️ Installation at sites not meeting these requirements is prohibited.``
 
 The area should be nominally level front to back. Ensure that there is no more than 6" of elevation increase from the rail to a point measured 42 inches straight back.
 
@@ -41,9 +48,16 @@ Measure the latitude Adjust tilt angle to your latitude.
 
 ``Example: Tilt angle = 38.2° in fall and spring. In winter, the tilt angle would be 38.2 + 15 = 53.2°. Then in summer, the ideal angle would be 38.2 – 15 = 23.2°.``
 
-### Digging
+### Excavation (Digging)
 
-Using a pickaxe, remove the ballast under the rail and around the ties for the liquid-tight tubing and controller stand. The cleared area should be large enough to comfortably work aound.
+Use a ballast pick or pickaxe to remove ballast under the rail and around the ties.
+
+Clear space for:
+
+*Liquid-tight tubing
+*Controller stand
+
+**Ensure the cleared area is large enough for safe, comfortable access during installation.**
 
 ---
 
