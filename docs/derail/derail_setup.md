@@ -101,9 +101,9 @@ Insert the supplied bolts and tighten securely.
 
 Confirm the assembly is:
 
-Centered on the tie
+* Centered on the tie
 
-Square (perpendicular) to the rail
+* Square (perpendicular) to the rail
 
 **4. Install Leveling Feet**
 
