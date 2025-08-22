@@ -79,7 +79,7 @@ Clear space for:
 
 ### Mounting the Controller Stand
 
-**1. Position the Tie Bracket**
+**1. Position the Controller Stand Bracket**
 
 Place the controller stand bracket on the center of the selected tie.
 
@@ -92,12 +92,6 @@ Using a power drill or impact driver, install a minimum of four (4) 0.5 in. x 3 
 Ensure bolts penetrate fully into solid wood.
 
 Tighten each bolt firmly to prevent movement.
-
-**3. Attach the Controller Stand to the Bracket**
-
-If the controller stand is not already attached, align its base with the tie bracket.
-
-Insert the supplied bolts and tighten securely.
 
 Confirm the assembly is:
 
