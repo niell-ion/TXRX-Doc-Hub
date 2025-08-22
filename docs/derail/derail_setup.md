@@ -64,7 +64,7 @@ Use a ballast pick or pickaxe to remove ballast under the rail and around the ti
 
 Clear space for:
 
-*Liquid-tight tubing
+*Liquid-tight tubing path from derail to controller
 *Controller stand
 
 **Ensure the cleared area is large enough for safe, comfortable access during installation.**
