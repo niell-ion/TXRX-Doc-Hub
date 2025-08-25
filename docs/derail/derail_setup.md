@@ -267,9 +267,9 @@ Tighten terminal screws securely.
 
 * Confirm that:
 
-* The sensor is clear of moving parts and wheels.
+  * The sensor is clear of moving parts and wheels.
 
-* The sensor face is square to the rail.
+  * The sensor face is square to the rail.
 
 * The reader face is parallel to the derail’s metal plate.
 
