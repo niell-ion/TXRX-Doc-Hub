@@ -36,9 +36,9 @@ The area should be nominally level front to back. Ensure that there is no more t
 
 For proper operation, the solar panel must receive direct sunlight from 10:00 AM to 3:00 PM without obstruction from structures, railcars, or vegetation.
 
-Mount the solar panel on the side of the derail device that receives the most sunlight.
+* Two mounting points with 1/4"-20 threaded studs are provided for the solar panel and light.
 
-Two mounting points with 1/4"-20 threaded studs are provided for the solar panel and light.
+* The solar panel must be mounted on the stud pattern on the side that receives the most sunlight.
 
 **Solar Panel Tilt Angle**
 
