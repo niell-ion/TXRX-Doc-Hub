@@ -81,25 +81,25 @@ Clear space for:
 
 **1. Position the Controller Stand Bracket**
 
-Place the controller stand bracket on the center of the selected tie.
+* Place the controller stand bracket on the center of the selected tie.
 
-Slide the bracket toward the rail as far as possible while keeping it centered.
+* Slide the bracket toward the rail as far as possible while keeping it centered.
 
 **2. Secure the Bracket to the Tie**
 
-Using a power drill or impact driver, install a minimum of four (4) 0.5 in. x 3 in. galvanized lag bolts with washers.
+* Using a power drill or impact driver, install a minimum of four (4) 0.5 in. x 3 in. galvanized lag bolts with washers.
 
-Ensure bolts penetrate fully into solid wood.
+* Ensure bolts penetrate fully into solid wood.
 
-Tighten each bolt firmly to prevent movement.
+* Tighten each bolt firmly to prevent movement.
 
-Confirm the assembly is:
+* Confirm the assembly is:
 
-* Centered on the tie
+  * Centered on the tie
 
-* Square (perpendicular) to the rail
+  * Square (perpendicular) to the rail
 
-**4. Install Leveling Feet**
+**3. Install Leveling Feet**
 
 Locate the pre-drilled holes at the bottom of the bracket.
 
@@ -107,7 +107,7 @@ Thread each leveling foot into its hole and tighten by hand.
 
 Once threaded, use a wrench to snug each foot.
 
-**5. Pre-Load the Leveling Feet**
+**4. Pre-Load the Leveling Feet**
 
 Adjust the leveling feet so that they press firmly against the ballast.
 
@@ -117,7 +117,7 @@ The stand should be held in tension between the tie bracket and ballast.
 
 Verify that the stand does not rock or shift when pushed.
 
-**6. Final Check**
+**5. Final Check**
 
 Confirm all bolts are tightened.
 
