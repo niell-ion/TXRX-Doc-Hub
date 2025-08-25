@@ -1,10 +1,12 @@
 ## 3.1 Site Preparation
 
+!!! warning "Important Disclaimer"
+    Installation of this equipment requires the proper tools listed in this manual. Attempting installation without the specified tools may result in improper assembly, equipment damage, or personal injury.  
+    The manufacturer is not responsible for failures, malfunctions, or safety hazards that arise from the use of incorrect or inadequate tools.  
+    Always ensure you have the correct tools and training before beginning installation.
+
 Before beginning installation, confirm that all required tools and components are available. Site preparation must be completed before installing the derail system.
 
-!!! warning "Important Disclaimer"
-    Installation of this equipment requires the proper tools listed in this manual. Attempting installation without the specified tools may result in improper assembly, equipment damage, or personal injury. The manufacturer is not responsible for failures,        malfunctions, or safety hazards that arise from the use of incorrect or inadequate tools.  
-    Always ensure you have the correct tools and training before beginning installation.
 
 ### Tools and Equipment
 
