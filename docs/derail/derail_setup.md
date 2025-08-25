@@ -199,7 +199,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ### Solar Panel Installation
 
-``⚠️ Warning: Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.``
+!!! warning
+    Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.
 
 ![Derail Solar Panel](assets/solar_center.jpg){: style="height:350px;width:350px"}
 
@@ -247,7 +248,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 **6. Connect Solar Panel Wires**
 
-``⚠️ Warning: Only connect the solar panel wires. Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.``
+!!! warning
+    Only connect the solar panel wires. Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.
 
 * Connect the solar panel positive (+) and negative (–) leads to the Solar Panel + and Solar Panel – terminals on the controller board, as shown in the wiring diagram.
 
@@ -265,7 +267,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ### For Flip-Style Derail
 
-``⚠️ Warning: Verify sensor clearance before welding. Improper placement may cause interference with moving parts or rolling stock.``
+!!! warning
+    Verify sensor clearance before welding. Improper placement may cause interference with moving parts or rolling stock.
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
