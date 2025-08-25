@@ -185,7 +185,9 @@ Clear space for:
 
 ---
 
-### Solar Panel
+### Solar Panel Installation
+
+``⚠️ Warning: Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.``
 
 ![Derail Solar Panel](assets/solar_center.jpg){: style="height:350px;width:350px"}
 
