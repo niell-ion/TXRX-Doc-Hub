@@ -37,7 +37,7 @@ Do not install the device at any location that does not meet the clearance requi
 * The ground must be level front to back. From the rail to a point 42 in. back, elevation must not rise more than 6 in.
 
 > [!WARNING]
-Installation at sites not meeting these requirements is prohibited.
+Installation at sites not meeting the above clearance requirements is prohibited.
 
 ### Solar Panel
 
@@ -53,7 +53,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Set the tilt angle equal to the latitude.
 
-``Example: Latitude 38.2° → Tilt angle 38.2°.``
+> [!NOTE]
+Example: Latitude 38.2° → Tilt angle 38.2°
 
 **Seasonal adjustments:**
 
@@ -63,7 +64,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Spring/Fall: Latitude only
 
-``Example: Spring/Fall tilt angle = 38.2°. Winter tilt angle = 38.2 + 15 = 53.2°. Summer tilt angle = 38.2 – 15 = 23.2°.``
+> [!NOTE]
+Example: Spring/Fall tilt angle = 38.2°. Winter tilt angle = 38.2 + 15 = 53.2°. Summer tilt angle = 38.2 – 15 = 23.2°
 
 ### Excavation (Digging)
 
