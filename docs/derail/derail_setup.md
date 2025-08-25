@@ -191,27 +191,63 @@ Clear space for:
 
 ![Derail Solar Panel](assets/solar_center.jpg){: style="height:350px;width:350px"}
 
-1. Center solar panel on spider bracket and fasten using provided M6 cage nuts, washers, and screws
-2. Bolt the spider bracket with solar panel attached to the mast
+**1. Attach Solar Panel to Spider Bracket**
+
+* Center the solar panel on the spider bracket.
+
+* Fasten using the provided M6 cage nuts, flat washers, and machine screws.
+
+* Tighten screws securely, but do not overtighten.
 
 ![Derail Solar Panel](assets/derail_studs.jpg){: style="height:350px;width:350px"}
+
+**2. Mount Spider Bracket to Mast**
   
-3. Place the slotted base of the solar panel assembly onto the threaded stud pattern on the side of the device that receives more sun
-4. Adjust solar panel rotation to desired angle
-5. Ensure the light is not casting a shadow on the solar panel
-6. Thread washers and 1/4"-20 nuts onto base studs and tighten
+* Position the spider bracket (with solar panel attached) onto the mast.
+
+* Bolt the bracket securely in place.
 
 ![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:350px;width:350px"}
 
-7. Adjust solar panel tilt to desired angle and tighten bolts
-8. Feed the wires through the cable glands into controller enclosure
+**3. Mount Solar Panel Assembly to Device**
+
+* Place the slotted base of the solar panel assembly onto the threaded stud pattern located on the side of the device that receives the most direct sunlight.
+
+* Adjust the panel’s rotation so that it faces the desired direction.
+
+* Verify that the device light does not cast a shadow on the solar panel.
+
+* Install 1/4 in. flat washers and 1/4"-20 hex nuts onto the base studs and tighten evenly.
 
 ![Derail Solar Panel Wire](assets/derail_charger_wire.jpg){: style="height:350px;width:350px"}
 
-`` Do not connect battery wire until all installation steps are complete ``
+**4. Adjust Solar Panel Tilt**
 
-9. Connect the wires to ``Solar Panel +`` and ``Solar Panel -`` terminals on the board as shown
-10. Use a multimeter to test the connections
+* Loosen the tilt bolts, set the solar panel to the required tilt angle, and re-tighten the bolts.
+
+* Refer to the site preparation section for recommended tilt angle (latitude ± seasonal adjustment).
+
+**5. Route Solar Panel Wires**
+
+Feed the solar panel wires through the cable glands and into the controller enclosure.
+
+Ensure cable glands are tightened to maintain a weatherproof seal.
+
+**6. Connect Solar Panel Wires**
+
+``⚠️ Warning: Only connect the solar panel wires. Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.``
+
+Connect the solar panel positive (+) and negative (–) leads to the Solar Panel + and Solar Panel – terminals on the controller board, as shown in the wiring diagram.
+
+Tighten terminal screws securely.
+
+**7. Test the Connection**
+
+* Use a multimeter to confirm correct polarity and voltage at the solar panel terminals.
+
+* Verify that power is being delivered to the controller.
+
+---
 
 ## 3.3 Sensor Installation
 
