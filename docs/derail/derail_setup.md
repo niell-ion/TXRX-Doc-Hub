@@ -16,7 +16,6 @@ Before beginning installation, confirm that all required tools and components ar
 | 1/8" Slotted Screwdriver     | 1        |
 | Utility Knife                | 1        |
 | Cordless Drill + Drill Bits  | 1        |
-| Torque Wrench                | 1        |
 | Ratchet and Socket Set       | 1 set    |
 | Fish Tape or Pulling Rods    | 1        |
 | Level (Bubble or Digital)    | 1        |
