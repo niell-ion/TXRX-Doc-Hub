@@ -64,8 +64,10 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Spring/Fall: Latitude only
 
-> [!NOTE]
-Example: Spring/Fall tilt angle = 38.2°. Winter tilt angle = 38.2 + 15 = 53.2°. Summer tilt angle = 38.2 – 15 = 23.2°
+!!! example
+    Spring/Fall tilt angle = 38.2°
+    Winter tilt angle = 38.2 + 15 = 53.2°
+    Summer tilt angle = 38.2 – 15 = 23.2°
 
 ### Excavation (Digging)
 
