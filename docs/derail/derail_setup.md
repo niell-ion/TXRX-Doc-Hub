@@ -4,7 +4,7 @@ Before beginning installation, confirm that all required tools and components ar
 
 ``⚠️ Do not install the device at any location that does not meet the clearance requirements.``
 
-::: warning "Warning: Important Information"
+:::warning "Warning: Important Information"
 
 
 
