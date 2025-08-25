@@ -227,17 +227,17 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 **5. Route Solar Panel Wires**
 
-Feed the solar panel wires through the cable glands and into the controller enclosure.
+* Feed the solar panel wires through the cable glands and into the controller enclosure.
 
-Ensure cable glands are tightened to maintain a weatherproof seal.
+* Ensure cable glands are tightened to maintain a weatherproof seal.
 
 **6. Connect Solar Panel Wires**
 
 ``⚠️ Warning: Only connect the solar panel wires. Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.``
 
-Connect the solar panel positive (+) and negative (–) leads to the Solar Panel + and Solar Panel – terminals on the controller board, as shown in the wiring diagram.
+* Connect the solar panel positive (+) and negative (–) leads to the Solar Panel + and Solar Panel – terminals on the controller board, as shown in the wiring diagram.
 
-Tighten terminal screws securely.
+* Tighten terminal screws securely.
 
 **7. Test the Connection**
 
