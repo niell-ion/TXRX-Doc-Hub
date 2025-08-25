@@ -291,37 +291,82 @@ Tighten terminal screws securely.
 
 ``Liquid tight tubing provided by Marmon``
 
-1. Measure the required length of tubing from the sensor to the controller enclosure.
+**1. Measure and Cut Tubing**
 
-2. Cut tubing to length, leaving extra slack for adjustments and strain relief.
+* Measure the required length of tubing from the sensor to the controller enclosure.
 
-3. Insert the sensor cable into the tubing and run it from the sensor to the controller enclosure.
+* Add at least 12 in. of slack for routing and future adjustments.
+
+* Cut the tubing cleanly with a utility knife or tubing cutter. Avoid jagged edges.
 
 ![Sensor Bracket](assets/tubing_nut.jpg){: style="height:350px;width:350px"}
 
-4. Slide the mounting bracket straight down onto the sensor.
+**2. Prepare Cable for Installation**
 
-5. Move the bracket forward and back to adjust alignment.
+* Inspect the sensor cable for nicks, cuts, or damage before running it.
 
-6. Once aligned, tighten the top bolts to secure the bracket in place.
+* If pulling long runs, attach a pull string or fish tape to the cable using electrical tape. Wrap smoothly to avoid snags.
 
-7. Pass the sensor wire through a cable gland into the controller housing. Tighten the gland to ensure a weatherproof seal.
+**3. Insert Cable into Tubing**
 
-8. Connect the sensor wires to the IN 0 terminals on the controller board, following the wiring diagram. Ensure proper polarity.
+* Feed the sensor cable through the tubing slowly and evenly.
 
-![Derail Solar Panel](assets/derail_sensor_wire.jpg){: style="height:350px;width:350px"}
+* Support the tubing while feeding to prevent kinking.
 
-9. Use a multimeter to verify the connections. Confirm correct voltage and continuity.
+* Avoid sharp bends — the tubing bend radius must not be tighter than 6 in.
 
-10. Straighten the tubing path to prevent kinks or bends.
+**4. Route Tubing to Controller Enclosure**
 
-11. Bolt the liquid-tight tubing cover plate perpendicular to the rail, as shown in the installation drawing.
+* Position tubing along a straight, supported path wherever possible.
 
-12. Cover the tubing with ballast to protect it from mechanical damage.
+* Ensure tubing will not interfere with derail movement or be crushed by ballast.
+
+* If crossing under rail or ties, secure tubing to prevent chafing.
+
+**5. Install Cable Gland at Controller Enclosure**
+
+* Loosen the gland cap and insert the tubing with cable into the gland body.
+
+* Slide the cable through carefully — do not force or twist.
+
+* Ensure the cable jacket, not the conductor insulation, is gripped by the gland seal.
+
+**6. Tighten the Cable Gland**
+
+* Hand-tighten the gland cap, then snug with a wrench until resistance is firm.
+
+* Do not overtighten; overtightening may crack the gland or cut into the cable jacket.
+
+* Check that the gland provides a secure, weatherproof seal.
+
+**7. Terminate Cable at Controller**
+
+* Route the sensor wire inside the enclosure neatly, avoiding sharp bends.
+
+![Derail Sensor Wire](assets/derail_sensor_wire.jpg){: style="height:350px;width:350px"}
+
+* Connect the wires to the IN 0 terminals on the controller board, observing polarity.
+
+* Tighten terminal screws securely to prevent loosening under vibration.
+
+**8. Verify Cable Protection**
+
+* Straighten the tubing path and confirm it is free of kinks.
+
+* Bolt the liquid-tight tubing cover plate perpendicular to the rail as shown in the installation drawing.
+
+* Cover tubing with ballast to shield from UV, impact, and debris.
+
+**9. Final Test**
+
+* Use a multimeter to verify continuity and voltage.
+
+* Confirm the sensor operates correctly before completing site backfill.
 
 ## 3.4 Turning on the System
 
 ![Derail Charger Connected](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
-Connect battery wire as shown. Look for light on charge controller and board to indicate sensor is receiving power.
-If system does not turn on, contact TXRX for support.
+*Connect battery wire as shown. Look for light on charge controller and board to indicate sensor is receiving power.
+
+* If system does not turn on, contact TXRX for support.
