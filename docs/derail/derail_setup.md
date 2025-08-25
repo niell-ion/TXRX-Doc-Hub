@@ -296,7 +296,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ### For Swing-Style Derail
 
-``Note: stand for swing-style derail sensor provided by Marmon``
+!!! Note
+    Stand for swing-style derail sensor provided by Marmon
 
 1. Locate the sensor bracket on the provided stand.
 
@@ -306,7 +307,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ### Liquid-Tight tubing
 
-``Liquid tight tubing provided by Marmon``
+!!! Note 
+    Liquid tight tubing provided by Marmon
 
 **1. Measure and Cut Tubing**
 
@@ -384,6 +386,6 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ![Derail Charger Connected](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
-*Connect battery wire as shown. Look for light on charge controller and board to indicate sensor is receiving power.
+* Connect battery wire as shown. Look for light on charge controller and board to indicate sensor is receiving power.
 
 * If system does not turn on, contact TXRX for support.
