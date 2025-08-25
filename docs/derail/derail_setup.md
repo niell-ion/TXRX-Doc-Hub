@@ -390,7 +390,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ⚠️ Caution — polarity matters. Reversing battery polarity (red to – or black to +) can permanently damage the controller and board and is not covered by warranty.
 
-**2. Confirm readiness** 
+**2. Confirm Readiness** 
 
 !!! warning
     "Pre-Check Polarity with a Multimeter"
@@ -403,7 +403,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
     * System leads: red = positive (+)
 
-**3. Connect the positive lead**
+**3. Connect the Positive Lead**
 
 * Locate the red wire with spade terminal.
 
@@ -413,7 +413,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Confirm that no bare wire is exposed.
 
-**4. Verify power indicators**
+**4. Verify Power Indicators**
 
 * Look for the indicator lights on the charge controller and on the main board to confirm the sensor is receiving power.
 
