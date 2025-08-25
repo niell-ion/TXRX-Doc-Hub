@@ -6,13 +6,21 @@ Before beginning installation, confirm that all required tools and components ar
 
 ### Tools and Equipment
 
-* Measuring Tape
-* Tamping Pick or Pickaxe
-* Multimeter
-* Metric Allen Key Set
-* Two Adjustable Wrenches
-* 1/8" Slotted Screwdriver
-* Utility knife (for cutting liquid-tight tubing)
+| Tool / Equipment            | Quantity |
+|------------------------------|----------|
+| Measuring Tape               | 1        |
+| Tamping Pick or Pickaxe      | 1        |
+| Multimeter                   | 1        |
+| Metric Allen Key Set         | 1 set    |
+| Adjustable Wrench            | 2        |
+| 1/8" Slotted Screwdriver     | 1        |
+| Utility Knife                | 1        |
+| Cordless Drill + Drill Bits  | 1        |
+| Torque Wrench                | 1        |
+| Ratchet and Socket Set       | 1 set    |
+| Fish Tape or Pulling Rods    | 1        |
+| Level (Bubble or Digital)    | 1        |
+| Personal Protective Equipment (PPE) | As req’d |
 
 ### Clearance
 
