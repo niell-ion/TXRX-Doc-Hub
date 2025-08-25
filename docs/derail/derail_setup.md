@@ -388,14 +388,12 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 **1. Battery Connection**
 
-⚠️ Caution — polarity matters. Reversing battery polarity (red to – or black to +) can permanently damage the controller and board and is not covered by warranty.
+!!! warning
+    "Polarity Matters" 
+    Reversing battery polarity (red to – or black to +) can permanently damage the controller and board and is not covered by warranty.
+    Use a multimeter to pre-check the battery’s voltage and polarity at the terminals before attaching any leads.
 
 **2. Confirm Readiness** 
-
-!!! warning
-    "Pre-Check Polarity with a Multimeter"
-    Verify the battery’s voltage and polarity at the terminals before attaching any leads.
-    Ensure all installation steps are complete and all wiring is terminated. Do not connect the battery until this point.
 
 * Identify terminals and leads:
 
