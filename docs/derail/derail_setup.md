@@ -271,7 +271,7 @@ Tighten terminal screws securely.
 
   * The sensor face is square to the rail.
 
-* The reader face is parallel to the derail’s metal plate.
+  * The reader face is parallel to the derail’s metal plate.
 
 * Weld the sensor and bracket assembly to the derail as shown in the installation drawing.
 
