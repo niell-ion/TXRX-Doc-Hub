@@ -2,8 +2,8 @@
 
 Before beginning installation, confirm that all required tools and components are available. Site preparation must be completed before installing the derail system.
 
-!!! warning "Manufacturer"
-    Do not install the device at any location that does not meet the clearance requirements.
+!!! warning "Important Disclaimer"
+    Installation of this equipment requires the proper tools listed in this manual. Attempting installation without the specified tools may result in improper assembly, equipment damage, or personal injury. The manufacturer is not responsible for failures,        malfunctions, or safety hazards that arise from the use of incorrect or inadequate tools. Always ensure you have the correct tools and training before beginning installation.
 
 ### Tools and Equipment
 
@@ -36,7 +36,7 @@ Before beginning installation, confirm that all required tools and components ar
 
 * The ground must be level front to back. From the rail to a point 42 in. back, elevation must not rise more than 6 in.
 
-!!! warning "Clearance Warning"
+!!! failure "Clearance Disclaimer"
     Installation at sites not meeting the above clearance requirements is prohibited.
 
 ### Solar Panel
