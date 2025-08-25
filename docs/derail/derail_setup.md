@@ -53,8 +53,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Set the tilt angle equal to the latitude.
 
-> [!NOTE]
-Example: Latitude 38.2° → Tilt angle 38.2°
+!!! example
+    Latitude 38.2° → Tilt angle 38.2°
 
 **Seasonal adjustments:**
 
