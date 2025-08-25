@@ -42,9 +42,9 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 **Solar Panel Tilt Angle**
 
-Measure the latitude of the installation site.
+* Measure the latitude of the installation site.
 
-Set the tilt angle equal to the latitude.
+* Set the tilt angle equal to the latitude.
 
 ``Example: Latitude 38.2° → Tilt angle 38.2°.``
 
