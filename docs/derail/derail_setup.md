@@ -199,7 +199,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ### Solar Panel Installation
 
-!!! warning
+!!! warning "Damage to Equipment"
     Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.
 
 ![Derail Solar Panel](assets/solar_center.jpg){: style="height:350px;width:350px"}
@@ -267,7 +267,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ### For Flip-Style Derail
 
-!!! warning
+!!! warning "Damage to Equipment"
     Verify sensor clearance before welding. Improper placement may cause interference with moving parts or rolling stock.
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
@@ -388,8 +388,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 **1. Battery Connection**
 
-!!! warning
-    "Polarity Matters" 
+!!! warning "Polarity Matters" 
     Reversing battery polarity (red to – or black to +) can permanently damage the controller and board and is not covered by warranty.
     Use a multimeter to pre-check the battery’s voltage and polarity at the terminals before attaching any leads.
 
