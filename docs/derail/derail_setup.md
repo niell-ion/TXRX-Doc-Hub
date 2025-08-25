@@ -16,21 +16,19 @@ Before beginning installation, confirm that all required tools and components ar
 
 ### Clearance
 
-The derail sensor requires a level installation surface and a clear zone around the device.
+* The derail sensor requires a level installation surface and a clear zone around the device.
 
-Minimum clearances:
+* Minimum clearances:
 
-Distance to rail: 42 in.
+* Distance to rail: 42 in.
 
-Vertical clearance: 27 in.
+* Vertical clearance: 27 in.
 
-Horizontal clearance: 22 in.
+* Horizontal clearance: 22 in.
 
-The ground must be level front to back. From the rail to a point 42 in. back, elevation must not rise more than 6 in.
+* The ground must be level front to back. From the rail to a point 42 in. back, elevation must not rise more than 6 in.
 
 ``⚠️ Installation at sites not meeting these requirements is prohibited.``
-
-The area should be nominally level front to back. Ensure that there is no more than 6" of elevation increase from the rail to a point measured 42 inches straight back.
 
 ### Solar Panel
 
@@ -50,22 +48,22 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 **Seasonal adjustments:**
 
-Winter: Latitude + 15°
+* Winter: Latitude + 15°
 
-Summer: Latitude – 15°
+* Summer: Latitude – 15°
 
-Spring/Fall: Latitude only
+* Spring/Fall: Latitude only
 
 ``Example: Spring/Fall tilt angle = 38.2°. Winter tilt angle = 38.2 + 15 = 53.2°. Summer tilt angle = 38.2 – 15 = 23.2°.``
 
 ### Excavation (Digging)
 
-Use a ballast pick or pickaxe to remove ballast under the rail and around the ties.
+* Use a ballast pick or pickaxe to remove ballast under the rail and around the ties.
 
-Clear space for:
+* Clear space for:
 
-*Liquid-tight tubing path from derail to controller
-*Controller stand
+* Liquid-tight tubing path from derail to controller
+* Controller stand
 
 **Ensure the cleared area is large enough for safe, comfortable access during installation.**
 
@@ -253,15 +251,29 @@ Tighten terminal screws securely.
 
 ### For Flip-Style Derail
 
-1. Locate bracket on side of derail
-2. Move derailer side to side, to the nearest and furthest extent, making sure sensor is clear of moving parts
-3. Ensure sensor will be clear of wheels
-4. Grind paint off of mating face of sensor bracket before welding
-5. Mount sensor to bracket with provided screws
-6. Double check that sensor is clear, square to rail, and reader face is parallel to metal plate of derail
-7. Weld sensor and bracket assembly to derail as shown
+``⚠️ Warning: Verify sensor clearance before welding. Improper placement may cause interference with moving parts or rolling stock.``
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
+
+* Locate the sensor mounting bracket on the side of the derail.
+
+* Move the derail arm from side to side, through its full range of motion. Confirm the sensor and bracket are clear of all moving parts.
+
+* Verify that the sensor will remain clear of train wheels in both engaged and disengaged positions.
+
+* Grind paint off the mating face of the sensor bracket to ensure a proper weld.
+
+* Mount the sensor to the bracket using the provided screws. Tighten securely.
+
+* Confirm that:
+
+* The sensor is clear of moving parts and wheels.
+
+* The sensor face is square to the rail.
+
+* The reader face is parallel to the derail’s metal plate.
+
+* Weld the sensor and bracket assembly to the derail as shown in the installation drawing.
 
 ### For Swing-Style Derail
 
