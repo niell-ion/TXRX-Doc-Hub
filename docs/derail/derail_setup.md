@@ -386,6 +386,42 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ![Derail Charger Connected](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
-* Connect battery wire as shown. Look for light on charge controller and board to indicate sensor is receiving power.
+**1. Battery Connection**
 
-* If system does not turn on, contact TXRX for support.
+⚠️ Caution — polarity matters. Reversing battery polarity (red to – or black to +) can permanently damage the controller and board and is not covered by warranty.
+
+**2. Confirm readiness** 
+
+!!! warning
+    "Pre-Check Polarity with a Multimeter"
+    Verify the battery’s voltage and polarity at the terminals before attaching any leads.
+    Ensure all installation steps are complete and all wiring is terminated. Do not connect the battery until this point.
+
+* Identify terminals and leads:
+
+    * Battery positive (+) terminal.
+
+    * System leads: red = positive (+)
+
+**3. Connect the positive lead**
+
+* Locate the red wire with spade terminal.
+
+* Align the spade terminal with the positive (+) battery post.
+
+* Slide the spade connector fully onto the post tab until it is seated.
+
+* Confirm that no bare wire is exposed.
+
+**4. Verify power indicators**
+
+* Look for the indicator lights on the charge controller and on the main board to confirm the sensor is receiving power.
+
+* If indicators do not light:
+
+    * Recheck polarity and terminal tightness
+    * Inspect cable gland seating
+
+**5. Support**
+
+* If the system still does not power on, stop and contact TXRX support for assistance. Do not modify wiring beyond the procedures in this manual.
