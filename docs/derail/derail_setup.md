@@ -145,43 +145,43 @@ Clear space for:
 
 **1. Mount the Light Assembly**
 
-Place the slotted base of the light assembly onto the threaded stud pattern provided on the controller stand.
+* Place the slotted base of the light assembly onto the threaded stud pattern provided on the controller stand.
 
 **2. Secure the Assembly** 
 
-Install 1/4 in. flat washers and 1/4"-20 hex nuts onto the studs.
+* Install 1/4 in. flat washers and 1/4"-20 hex nuts onto the studs.
 
-Tighten the nuts evenly until the light is firmly secured.
+* Tighten the nuts evenly until the light is firmly secured.
 
-Do not overtighten, as this may damage the light housing.
+* Do not overtighten, as this may damage the light housing.
 
 **3. Route the Wires** 
 
-Feed the light assembly wires through the cable glands and into the controller enclosure.
+* Feed the light assembly wires through the cable glands and into the controller enclosure.
 
-Ensure the cable glands are tightened to maintain a weatherproof seal.
+* Ensure the cable glands are tightened to maintain a weatherproof seal.
 
 **4. Verify Jumpers**
 
-Confirm that the 5 V jumpers are installed on the controller board.
+* Confirm that the 5 V jumpers are installed on the controller board.
 
-These must be in place for the light to operate correctly.
+* These must be in place for the light to operate correctly.
 
 **5. Connect the Light Wires**
 
-Attach the light wires to the OUT 0 terminals on the controller board, following the wiring diagram.
+* Attach the light wires to the OUT 0 terminals on the controller board, following the wiring diagram.
 
-Ensure proper polarity (match positive and negative leads).
+* Ensure proper polarity (match positive and negative leads).
 
-Tighten terminal screws securely to prevent loose connections.
+* Tighten terminal screws securely to prevent loose connections.
 
 **6. Test the Connection**
 
-Use a multimeter to verify proper voltage at the light terminals.
+* Use a multimeter to verify proper voltage at the light terminals.
 
-Confirm that the light activates when commanded by the controller.
+* Confirm that the light activates when commanded by the controller.
 
-If the light does not function, re-check jumper placement and wiring.
+* If the light does not function, re-check jumper placement and wiring.
 
 ---
 
