@@ -101,29 +101,29 @@ Clear space for:
 
 **3. Install Leveling Feet**
 
-Locate the pre-drilled holes at the bottom of the bracket.
+* Locate the pre-drilled holes at the bottom of the bracket.
 
-Thread each leveling foot into its hole and tighten by hand.
+* Thread each leveling foot into its hole and tighten by hand.
 
-Once threaded, use a wrench to snug each foot.
+* Once threaded, use a wrench to snug each foot.
 
 **4. Pre-Load the Leveling Feet**
 
-Adjust the leveling feet so that they press firmly against the ballast.
+* Adjust the leveling feet so that they press firmly against the ballast.
 
-Apply slight downward pressure to “pre-load” the feet.
+* Apply slight downward pressure to “pre-load” the feet.
 
-The stand should be held in tension between the tie bracket and ballast.
+* The stand should be held in tension between the tie bracket and ballast.
 
-Verify that the stand does not rock or shift when pushed.
+* Verify that the stand does not rock or shift when pushed.
 
 **5. Final Check**
 
-Confirm all bolts are tightened.
+* Confirm all bolts are tightened.
 
-Verify that the stand is stable, centered, and level.
+* Verify that the stand is stable, centered, and level.
 
-Re-adjust leveling feet if necessary.
+* Re-adjust leveling feet if necessary.
 
 ---
 
