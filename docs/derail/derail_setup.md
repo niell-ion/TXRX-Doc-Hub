@@ -2,7 +2,7 @@
 
 Before beginning installation, confirm that all required tools and components are available. Site preparation must be completed before installing the derail system.
 
-!!! warning
+!!! warning "Location warning"
     Do not install the device at any location that does not meet the clearance requirements.
 
 ### Tools and Equipment
