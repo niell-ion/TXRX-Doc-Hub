@@ -255,17 +255,19 @@ Tighten terminal screws securely.
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
-* Locate the sensor mounting bracket on the side of the derail.
+**Steps:**
 
-* Move the derail arm from side to side, through its full range of motion. Confirm the sensor and bracket are clear of all moving parts.
+1. Locate the sensor mounting bracket on the side of the derail.
 
-* Verify that the sensor will remain clear of train wheels in both engaged and disengaged positions.
+2. Move the derail arm from side to side, through its full range of motion. Confirm the sensor and bracket are clear of all moving parts.
 
-* Grind paint off the mating face of the sensor bracket to ensure a proper weld.
+3. Verify that the sensor will remain clear of train wheels in both engaged and disengaged positions.
 
-* Mount the sensor to the bracket using the provided screws. Tighten securely.
+4. Grind paint off the mating face of the sensor bracket to ensure a proper weld.
 
-* Confirm that:
+5. Mount the sensor to the bracket using the provided screws. Tighten securely.
+
+6. Confirm that:
 
   * The sensor is clear of moving parts and wheels.
 
@@ -273,37 +275,49 @@ Tighten terminal screws securely.
 
   * The reader face is parallel to the derail’s metal plate.
 
-* Weld the sensor and bracket assembly to the derail as shown in the installation drawing.
+7. Weld the sensor and bracket assembly to the derail as shown in the installation drawing.
 
 ### For Swing-Style Derail
 
-``Stand for swing-style derail sensor provided by Marmon``
+``Note: stand for swing-style derail sensor provided by Marmon``
 
-1. Locate bracket on stand 
-2. Bolt bracket to stand
+1. Locate the sensor bracket on the provided stand.
+
+2. Bolt the bracket securely to the stand using the supplied fasteners.
+
+3. Verify alignment of the bracket before proceeding.
 
 ### Liquid-Tight tubing
 
 ``Liquid tight tubing provided by Marmon``
 
-1. Measure length of tubing from sensor to controller
-2. Cut tubing to length, leaving a little extra in case of adjustment
-3. Run cable through tubing from sensor to controller
+1. Measure the required length of tubing from the sensor to the controller enclosure.
+
+2. Cut tubing to length, leaving extra slack for adjustments and strain relief.
+
+3. Insert the sensor cable into the tubing and run it from the sensor to the controller enclosure.
 
 ![Sensor Bracket](assets/tubing_nut.jpg){: style="height:350px;width:350px"}
 
-4. Slide the bracket straight down on to the sensor
-5. Move bracket forward and back to adjust
-7. Once positioned, tighten top bolts to secure bracket
-8. Pass sensor wire through cable gland into controller housing
+4. Slide the mounting bracket straight down onto the sensor.
+
+5. Move the bracket forward and back to adjust alignment.
+
+6. Once aligned, tighten the top bolts to secure the bracket in place.
+
+7. Pass the sensor wire through a cable gland into the controller housing. Tighten the gland to ensure a weatherproof seal.
+
+8. Connect the sensor wires to the IN 0 terminals on the controller board, following the wiring diagram. Ensure proper polarity.
 
 ![Derail Solar Panel](assets/derail_sensor_wire.jpg){: style="height:350px;width:350px"}
 
-8. Connect the sensor wires to ``IN 0`` on the board as shown
-9. Use a multimeter to test the connections
-10. Straighten tubing path
-11. Bolt liquid-tight tubing cover plate perpedicular to rail as shown
-12. Cover tubing with ballast
+9. Use a multimeter to verify the connections. Confirm correct voltage and continuity.
+
+10. Straighten the tubing path to prevent kinks or bends.
+
+11. Bolt the liquid-tight tubing cover plate perpendicular to the rail, as shown in the installation drawing.
+
+12. Cover the tubing with ballast to protect it from mechanical damage.
 
 ## 3.4 Turning on the System
 
