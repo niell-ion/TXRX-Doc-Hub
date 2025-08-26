@@ -153,21 +153,11 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ### Light
 
-![Derail Solar Panel](assets/derail_light_studs.jpg){: style="height:350px;width:350px"}
-
-1. Place the slotted base of the light assembly on to the threaded stud pattern
-2. Fasten the 1/4" washers and 1/4"-20 nuts
-3. Feed the wires through the cable glands into controller enclosure
-
-![Derail Solar Panel](assets/derail_light_wire.jpg){: style="height:350px;width:350px"}
-
-4. Ensure that 5V jumpers are installed
-5. Connect the light wires to ``OUT 0`` terminals on the board as shown
-6. Use a multimeter to test the connections
-
 **Steps:**
 
 **1. Mount the Light Assembly**
+
+![Derail Solar Panel](assets/derail_light_studs.jpg){: style="height:350px;width:350px"}
 
 * Place the slotted base of the light assembly onto the threaded stud pattern provided on the controller stand.
 
@@ -192,6 +182,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 * These must be in place for the light to operate correctly.
 
 **5. Connect the Light Wires**
+
+![Derail Solar Panel](assets/derail_light_wire.jpg){: style="height:350px;width:350px"}
 
 * Attach the light wires to the OUT 0 terminals on the controller board, following the wiring diagram.
 
@@ -429,7 +421,6 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 * If indicators do not light:
 
     * Recheck polarity and terminal tightness
-    * Inspect cable gland seating
 
 **5. Support**
 
