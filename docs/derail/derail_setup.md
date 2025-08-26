@@ -32,14 +32,16 @@ Attempting installation without the specified tools may result in improper assem
 
 * Personal Protective Equipment (PPE): As required
 
-### Clearance
+### Measure Site Clearance
 
 The derail sensor requires a level installation surface and a clear zone around the device. Ensure that the following clearance dimensions are present before proceeding.
 
 !!! warning "Clearance Warning"
     Installation at sites not meeting the clearance requirements listed below is prohibited.
 
-* Minimum clearances:
+**1. :
+
+**Minimum Clearance Dimensions:**
 
   * Distance to rail: 42 in.
 
@@ -47,7 +49,7 @@ The derail sensor requires a level installation surface and a clear zone around 
 
   * Horizontal clearance: 22 in.
 
-* The ground must be level front to back. From the rail to a point 42 in. back, elevation must not rise more than 6 in.
+The ground must be level front to back. From the rail to a point 42 in. back, elevation must not rise more than 6 in.
 
 ### Solar Panel
 
