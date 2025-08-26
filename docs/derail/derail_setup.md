@@ -1,6 +1,6 @@
 ## 3.1 Site Preparation
 
-!!! warning "Read before installing"pr
+!!! warning "Read before installing"
     Always ensure you have the correct tools and training before beginning installation.  
     Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.  
 
@@ -149,8 +149,6 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 ---
 
 ### Light
-
-**Steps:**
 
 **1. Mount the Light Assembly**
 
@@ -395,9 +393,9 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Identify terminals and leads:
 
-    * Battery positive (+) terminal.
+  * Battery positive (+) terminal.
 
-    * System leads: red = positive (+)
+  * System leads: red = positive (+)
 
 **3. Connect the Positive Lead**
 
@@ -415,7 +413,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * If indicators do not light:
 
-    * Recheck polarity and terminal tightness
+  * Recheck polarity and terminal tightness
 
 **5. Support**
 
