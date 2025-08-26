@@ -2,7 +2,7 @@
 
 !!! warning "Read before installing"
     Always ensure you have the correct tools and training before beginning installation.  
-    Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.  
+Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.
 
 * Before beginning installation, confirm that all required tools and components are available. Site preparation must be completed before installing the derail system.
 
