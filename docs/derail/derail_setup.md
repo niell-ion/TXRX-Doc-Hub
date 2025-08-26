@@ -1,6 +1,6 @@
 ## 3.1 Site Preparation
 
-!!! warning "Important Disclaimer"
+!!! warning "Read before installing"
     Installation of this equipment requires the proper tools listed in this manual. Attempting installation without the specified tools may result in improper assembly, equipment damage, or personal injury.  
     The manufacturer is not responsible for failures, malfunctions, or safety hazards that arise from the use of incorrect or inadequate tools.  
     Always ensure you have the correct tools and training before beginning installation.
@@ -10,24 +10,37 @@ Before beginning installation, confirm that all required tools and components ar
 
 ### Tools and Equipment
 
-| Tool / Equipment            | Quantity |
-|------------------------------|----------|
-| Measuring Tape               | 1        |
-| Tamping Pick or Pickaxe      | 1        |
-| Multimeter                   | 1        |
-| Metric Allen Key Set         | 1 set    |
-| Adjustable Wrench            | 2        |
-| 1/8" Slotted Screwdriver     | 1        |
-| Utility Knife                | 1        |
-| Cordless Drill + Drill Bits  | 1        |
-| Ratchet and Socket Set       | 1 set    |
-| Fish Tape or Pulling Rods    | 1        |
-| Level (Bubble or Digital)    | 1        |
-| Personal Protective Equipment (PPE) | As req’d |
+Tools Supplied by Installer
+Measuring Tape: 1
+
+* Tamping Pick or Pickaxe
+
+* Multimeter
+
+* Metric Allen Key Set
+
+* Adjustable Wrench x2
+
+* 1/8" Slotted Screwdriver
+
+* Utility Knife
+
+* Cordless Drill + Drill Bits
+
+* Ratchet and Socket Set
+
+* Fish Tape or Pulling Rods
+
+* Level (Bubble or Digital)
+
+* Personal Protective Equipment (PPE): As required
 
 ### Clearance
 
 * The derail sensor requires a level installation surface and a clear zone around the device.
+
+!!! warning "Clearance Warning"
+    Installation at sites not meeting the clearance requirements listed below is prohibited.
 
 * Minimum clearances:
 
@@ -38,9 +51,6 @@ Before beginning installation, confirm that all required tools and components ar
 * Horizontal clearance: 22 in.
 
 * The ground must be level front to back. From the rail to a point 42 in. back, elevation must not rise more than 6 in.
-
-!!! failure "Clearance Disclaimer"
-    Installation at sites not meeting the above clearance requirements is prohibited.
 
 ### Solar Panel
 
