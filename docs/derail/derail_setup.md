@@ -1,17 +1,16 @@
 ## 3.1 Site Preparation
 
-!!! warning "Read before installing"
-    Installation of this equipment requires the proper tools listed in this manual. Attempting installation without the specified tools may result in improper assembly, equipment damage, or personal injury.  
-    The manufacturer is not responsible for failures, malfunctions, or safety hazards that arise from the use of incorrect or inadequate tools.  
-    Always ensure you have the correct tools and training before beginning installation.
+!!! warning "Read before installing"pr
+    Always ensure you have the correct tools and training before beginning installation.  
+    Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.  
 
-Before beginning installation, confirm that all required tools and components are available. Site preparation must be completed before installing the derail system.
-
+* Before beginning installation, confirm that all required tools and components are available. Site preparation must be completed before installing the derail system.
 
 ### Tools and Equipment
 
 Tools Supplied by Installer
-Measuring Tape: 1
+
+* Measuring Tape
 
 * Tamping Pick or Pickaxe
 
