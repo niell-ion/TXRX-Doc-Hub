@@ -8,8 +8,6 @@
 
 ### Tools and Equipment
 
-Tools Supplied by Installer
-
 * Measuring Tape
 
 * Tamping Pick or Pickaxe
@@ -36,18 +34,18 @@ Tools Supplied by Installer
 
 ### Clearance
 
-* The derail sensor requires a level installation surface and a clear zone around the device.
+The derail sensor requires a level installation surface and a clear zone around the device. Ensure that the following clearance dimensions are present before proceeding.
 
 !!! warning "Clearance Warning"
     Installation at sites not meeting the clearance requirements listed below is prohibited.
 
 * Minimum clearances:
 
-* Distance to rail: 42 in.
+  * Distance to rail: 42 in.
 
-* Vertical clearance: 27 in.
+  * Vertical clearance: 27 in.
 
-* Horizontal clearance: 22 in.
+  * Horizontal clearance: 22 in.
 
 * The ground must be level front to back. From the rail to a point 42 in. back, elevation must not rise more than 6 in.
 
@@ -87,8 +85,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Clear space for:
 
-* Liquid-tight tubing path from derail to controller
-* Controller stand
+  * Liquid-tight tubing path from derail to controller
+  * Controller stand
 
 **Ensure the cleared area is large enough for safe, comfortable access during installation.**
 
@@ -176,7 +174,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 **4. Verify Jumpers**
 
-* Confirm that the 5 V jumpers are installed on the controller board.
+* Confirm that the 5    V jumpers are installed on the controller board.
 
 * These must be in place for the light to operate correctly.
 
@@ -184,11 +182,11 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ![Derail Solar Panel](assets/derail_light_wire.jpg){: style="height:350px;width:350px"}
 
-* Attach the light wires to the OUT 0 terminals on the controller board, following the wiring diagram.
+* Insert the light wires into the OUT 0 terminals on the controller board, following the wiring diagram.
 
 * Ensure proper polarity (match positive and negative leads).
 
-* Tighten terminal screws securely to prevent loose connections.
+* Ensure terminals are secure to prevent loose connections.
 
 **6. Test the Connection**
 
