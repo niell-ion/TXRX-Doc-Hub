@@ -1,6 +1,6 @@
-## 3.1 Site Preparation
+## 3.1 Preparation
 
-!!! warning "Read before installing"
+!!! warning "Disclaimer"
     Always ensure you have the correct tools and training before beginning installation.  
 Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.
 
@@ -32,24 +32,25 @@ Attempting installation without the specified tools may result in improper assem
 
 * Personal Protective Equipment (PPE): As required
 
-### Measure Site Clearance
+### Clear Zone
 
 The derail sensor requires a level installation surface and a clear zone around the device. Ensure that the following clearance dimensions are present before proceeding.
+
+**1. Measure Site Clearance**
 
 !!! warning "Clearance Warning"
     Installation at sites not meeting the clearance requirements listed below is prohibited.
 
-**1. :
+!!! note "Minimum Clearance Dimensions"
+    * Distance to rail: 42 in.
+* Vertical clearance: 27 in.
+* Horizontal clearance: 22 in.
 
-**Minimum Clearance Dimensions:**
+**2. Check that Site is Level** 
 
-  * Distance to rail: 42 in.
+* Use a level to measure the elevation of the ground from front to back.
 
-  * Vertical clearance: 27 in.
-
-  * Horizontal clearance: 22 in.
-
-The ground must be level front to back. From the rail to a point 42 in. back, elevation must not rise more than 6 in.
+* From the edge of the rail to a point 42 in. straight back, the elevation must be level ±6 in.
 
 ### Solar Panel
 
