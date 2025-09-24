@@ -265,6 +265,26 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ---
 
+### Satellite Antenna Installation
+
+**1. Attach Satellite Antenna to Solar Panel**
+
+* Orient the satellite antenna assembly with the metal bracket and plastic housing pointing upwards.
+
+* Center the satellite antenna assembly on the top rail of the solar panel, between the arms of the spider bracket.
+
+* Fasten using the provided M6 cage nuts and machine screws.
+
+**2. Connect Satellite Antenna to Controller Enclosure**
+
+* Locate the RF SMA connectors on the bottom of the controller enclosure.
+
+* Route wires neatly from satellite antenna to controller enslosure.
+
+* Hand-tighten the satellite RF connectors until fully threaded and snug.
+
+---
+
 ## 3.3 Sensor Installation
 
 ### For Flip-Style Derail
