@@ -399,6 +399,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
   * Battery positive (+) terminal.
 
   * System leads: red = positive (+)
+ 
+* Taking care not to cut the wire or touch the spade terminal to any metal, cut the zip tie restraining the battery positive (+) wire.
 
 **3. Connect the Positive Lead**
 
