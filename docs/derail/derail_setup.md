@@ -173,13 +173,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Ensure the cable glands are tightened to maintain a weatherproof seal.
 
-**4. Verify Jumpers**
-
-* Confirm that the 5V jumpers are installed on the controller board.
-
-* These must be in place for the light to operate correctly.
-
-**5. Connect the Light Wires**
+**4. Connect the Light Wires**
 
 ![Derail Solar Panel](assets/derail_light_wire.jpg){: style="height:350px;width:350px"}
 
@@ -189,7 +183,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Ensure terminals are secure to prevent loose connections.
 
-**6. Test the Connection**
+**5. Test the Connection**
 
 * Use a multimeter to verify proper voltage at the light terminals.
 
