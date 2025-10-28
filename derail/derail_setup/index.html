@@ -1,0 +1,2050 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://niell-ion.github.io/txrx_doc_hub/derail/derail_setup/">
+      
+      
+        <link rel="prev" href="../derail_overview/">
+      
+      
+        <link rel="next" href="../derail_operation/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.22">
+    
+    
+      
+        <title>Setup - TXRX Doc Hub</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.84d31ad4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#31-preparation" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="TXRX Doc Hub" class="md-header__button md-logo" aria-label="TXRX Doc Hub" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            TXRX Doc Hub
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Setup
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="TXRX Doc Hub" class="md-nav__button md-logo" aria-label="TXRX Doc Hub" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    TXRX Doc Hub
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    About
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    RAR
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            RAR
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rar/rars_toc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Table of Contents
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rar/rars_preface/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Preface
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rar/rars_overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    System Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rar/rars_operation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Operation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rar/rars_maintenance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Maintenance
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rar/rars_troubleshooting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Troubleshooting
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Switch Gap Detector
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Switch Gap Detector
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../switchgap/switchgap_toc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Table of Contents
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../switchgap/switchgap_preface/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Preface
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../switchgap/switchgap_overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    System Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../switchgap/switchgap_operation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Operation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../switchgap/switchgap_maintenance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Maintenance
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../switchgap/switchgap_troubleshooting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Troubleshooting
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Portable Crossing Gate
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Portable Crossing Gate
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../crossing/crossing_toc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Table of Contents
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../crossing/crossing_preface/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Preface
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../crossing/crossing_overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    System Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../crossing/crossing_setup/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../crossing/crossing_remote/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Remote
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../crossing/crossing_maintenance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Maintenance
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../crossing/crossing_troubleshooting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Troubleshooting
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Derail
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Derail
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../derail_toc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Table of Contents
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../derail_preface/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Preface
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../derail_overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    System Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Setup
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#31-preparation" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.1 Preparation
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3.1 Preparation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tools-and-equipment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tools and Equipment
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#clear-zone" class="md-nav__link">
+    <span class="md-ellipsis">
+      Clear Zone
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#solar-panel" class="md-nav__link">
+    <span class="md-ellipsis">
+      Solar Panel
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#excavation-digging" class="md-nav__link">
+    <span class="md-ellipsis">
+      Excavation (Digging)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#32-assembly" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.2 Assembly
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3.2 Assembly">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mounting-the-controller-stand" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mounting the Controller Stand
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#light" class="md-nav__link">
+    <span class="md-ellipsis">
+      Light
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#solar-panel-installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Solar Panel Installation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#satellite-antenna-installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Satellite Antenna Installation
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#33-sensor-installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.3 Sensor Installation
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3.3 Sensor Installation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#for-flip-style-derail" class="md-nav__link">
+    <span class="md-ellipsis">
+      For Flip-Style Derail
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#for-swing-style-derail" class="md-nav__link">
+    <span class="md-ellipsis">
+      For Swing-Style Derail
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#liquid-tight-tubing" class="md-nav__link">
+    <span class="md-ellipsis">
+      Liquid-Tight tubing
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#34-turning-on-the-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.4 Turning on the System
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../derail_operation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Operation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../derail_maintenance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Maintenance
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../derail_troubleshooting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Troubleshooting
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#31-preparation" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.1 Preparation
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3.1 Preparation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tools-and-equipment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tools and Equipment
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#clear-zone" class="md-nav__link">
+    <span class="md-ellipsis">
+      Clear Zone
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#solar-panel" class="md-nav__link">
+    <span class="md-ellipsis">
+      Solar Panel
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#excavation-digging" class="md-nav__link">
+    <span class="md-ellipsis">
+      Excavation (Digging)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#32-assembly" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.2 Assembly
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3.2 Assembly">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mounting-the-controller-stand" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mounting the Controller Stand
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#light" class="md-nav__link">
+    <span class="md-ellipsis">
+      Light
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#solar-panel-installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Solar Panel Installation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#satellite-antenna-installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Satellite Antenna Installation
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#33-sensor-installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.3 Sensor Installation
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3.3 Sensor Installation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#for-flip-style-derail" class="md-nav__link">
+    <span class="md-ellipsis">
+      For Flip-Style Derail
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#for-swing-style-derail" class="md-nav__link">
+    <span class="md-ellipsis">
+      For Swing-Style Derail
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#liquid-tight-tubing" class="md-nav__link">
+    <span class="md-ellipsis">
+      Liquid-Tight tubing
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#34-turning-on-the-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.4 Turning on the System
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Setup</h1>
+
+<h2 id="31-preparation">3.1 Preparation<a class="headerlink" href="#31-preparation" title="Permanent link">&para;</a></h2>
+<div class="admonition warning">
+<p class="admonition-title">Disclaimer</p>
+<p>Always ensure you have the correct tools and training before beginning installation.  </p>
+</div>
+<p>Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.</p>
+<ul>
+<li>Before beginning installation, confirm that all required tools and components are available. Site preparation must be completed before installing the derail system.</li>
+</ul>
+<h3 id="tools-and-equipment">Tools and Equipment<a class="headerlink" href="#tools-and-equipment" title="Permanent link">&para;</a></h3>
+<ul>
+<li>
+<p>Measuring Tape</p>
+</li>
+<li>
+<p>Tamping Pick or Pickaxe</p>
+</li>
+<li>
+<p>Multimeter</p>
+</li>
+<li>
+<p>Metric Allen Key Set</p>
+</li>
+<li>
+<p>Adjustable Wrench x2</p>
+</li>
+<li>
+<p>1/8" Slotted Screwdriver</p>
+</li>
+<li>
+<p>Utility Knife</p>
+</li>
+<li>
+<p>Cordless Drill + Drill Bits</p>
+</li>
+<li>
+<p>Ratchet and Socket Set</p>
+</li>
+<li>
+<p>Fish Tape or Pulling Rods</p>
+</li>
+<li>
+<p>Level (Bubble or Digital)</p>
+</li>
+<li>
+<p>Personal Protective Equipment (PPE): As required</p>
+</li>
+</ul>
+<h3 id="clear-zone">Clear Zone<a class="headerlink" href="#clear-zone" title="Permanent link">&para;</a></h3>
+<p>The derail sensor requires a level installation surface and a clear zone around the device. Ensure that the following clearance dimensions are present before proceeding.</p>
+<p><strong>1. Measure Site Clearance</strong></p>
+<div class="admonition warning">
+<p class="admonition-title">Clearance Warning</p>
+<p>Installation at sites not meeting the clearance requirements listed below is prohibited.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Minimum Clearance Dimensions</p>
+<ul>
+<li>Distance to rail: 42 in.</li>
+</ul>
+</div>
+<ul>
+<li>Vertical clearance: 27 in.</li>
+<li>Horizontal clearance: 22 in.</li>
+</ul>
+<p><strong>2. Check that Site is Level</strong> </p>
+<ul>
+<li>
+<p>Use a level to measure the elevation of the ground from front to back.</p>
+</li>
+<li>
+<p>From the edge of the rail to a point 42 in. straight back, the elevation must be level ±6 in.</p>
+</li>
+</ul>
+<h3 id="solar-panel">Solar Panel<a class="headerlink" href="#solar-panel" title="Permanent link">&para;</a></h3>
+<p>For proper operation, the solar panel must receive direct sunlight from 10:00 AM to 3:00 PM without obstruction from structures, railcars, or vegetation.</p>
+<ul>
+<li>
+<p>Two mounting points with 1/4"-20 threaded studs are provided for the solar panel and light.</p>
+</li>
+<li>
+<p>The solar panel must be mounted on the stud pattern on the side that receives the most sunlight.</p>
+</li>
+</ul>
+<p><strong>Solar Panel Tilt Angle</strong></p>
+<ul>
+<li>
+<p>Measure the latitude of the installation site.</p>
+</li>
+<li>
+<p>Set the tilt angle equal to the latitude.</p>
+</li>
+</ul>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>Latitude 38.2° → Tilt angle 38.2°</p>
+</div>
+<p><strong>Seasonal adjustments:</strong></p>
+<ul>
+<li>
+<p>Winter: Latitude + 15°</p>
+</li>
+<li>
+<p>Summer: Latitude – 15°</p>
+</li>
+<li>
+<p>Spring/Fall: Latitude only</p>
+</li>
+</ul>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>Spring/Fall tilt angle = 38.2°<br />
+Winter tilt angle = 38.2 + 15 = 53.2°<br />
+Summer tilt angle = 38.2 – 15 = 23.2°  </p>
+</div>
+<h3 id="excavation-digging">Excavation (Digging)<a class="headerlink" href="#excavation-digging" title="Permanent link">&para;</a></h3>
+<ul>
+<li>
+<p>Use a ballast pick or pickaxe to remove ballast under the rail and around the ties.</p>
+</li>
+<li>
+<p>Clear space for:</p>
+</li>
+<li>
+<p>Liquid-tight tubing path from derail to controller</p>
+</li>
+<li>Controller stand</li>
+</ul>
+<p><strong>Ensure the cleared area is large enough for safe, comfortable access during installation.</strong></p>
+<hr />
+<p><img alt="Derail Sensor" src="../assets/derail_sensor.jpg" style="height:350px;width:350px" /></p>
+<h2 id="32-assembly">3.2 Assembly<a class="headerlink" href="#32-assembly" title="Permanent link">&para;</a></h2>
+<p><img alt="Derail Sensor" src="../assets/derail_housing.jpg" style="height:350px;width:350px" /></p>
+<h3 id="mounting-the-controller-stand">Mounting the Controller Stand<a class="headerlink" href="#mounting-the-controller-stand" title="Permanent link">&para;</a></h3>
+<p><strong>1. Position the Controller Stand Bracket</strong></p>
+<ul>
+<li>
+<p>Place the controller stand bracket on the center of the selected tie.</p>
+</li>
+<li>
+<p>Slide the bracket toward the rail as far as possible while keeping it centered.</p>
+</li>
+</ul>
+<p><strong>2. Secure the Bracket to the Tie</strong></p>
+<ul>
+<li>
+<p>Using a power drill or impact driver, install a minimum of four (4) 0.5 in. x 3 in. galvanized lag bolts with washers.</p>
+</li>
+<li>
+<p>Ensure bolts penetrate fully into solid wood.</p>
+</li>
+<li>
+<p>Tighten each bolt firmly to prevent movement.</p>
+</li>
+<li>
+<p>Confirm the assembly is:</p>
+</li>
+<li>
+<p>Centered on the tie</p>
+</li>
+<li>
+<p>Square (perpendicular) to the rail</p>
+</li>
+</ul>
+<p><strong>3. Install Leveling Feet</strong></p>
+<ul>
+<li>
+<p>Locate the pre-drilled holes at the bottom of the bracket.</p>
+</li>
+<li>
+<p>Thread each leveling foot into its hole and tighten by hand.</p>
+</li>
+<li>
+<p>Once threaded, use a wrench to snug each foot.</p>
+</li>
+</ul>
+<p><strong>4. Pre-Load the Leveling Feet</strong></p>
+<ul>
+<li>
+<p>Adjust the leveling feet so that they press firmly against the ballast.</p>
+</li>
+<li>
+<p>Apply slight downward pressure to “pre-load” the feet.</p>
+</li>
+<li>
+<p>The stand should be held in tension between the tie bracket and ballast.</p>
+</li>
+<li>
+<p>Verify that the stand does not rock or shift when pushed.</p>
+</li>
+</ul>
+<p><strong>5. Final Check</strong></p>
+<ul>
+<li>
+<p>Confirm all bolts are tightened.</p>
+</li>
+<li>
+<p>Verify that the stand is stable, centered, and level.</p>
+</li>
+<li>
+<p>Re-adjust leveling feet if necessary.</p>
+</li>
+</ul>
+<hr />
+<h3 id="light">Light<a class="headerlink" href="#light" title="Permanent link">&para;</a></h3>
+<p><strong>1. Mount the Light Assembly</strong></p>
+<p><img alt="Derail Solar Panel" src="../assets/derail_light_studs.jpg" style="height:350px;width:350px" /></p>
+<ul>
+<li>Place the slotted base of the light assembly onto the threaded stud pattern provided on the controller stand.</li>
+</ul>
+<p><strong>2. Secure the Assembly</strong> </p>
+<ul>
+<li>
+<p>Install 1/4 in. flat washers and 1/4"-20 hex nuts onto the studs.</p>
+</li>
+<li>
+<p>Tighten the nuts evenly until the light is firmly secured.</p>
+</li>
+<li>
+<p>Do not overtighten, as this may damage the light housing.</p>
+</li>
+</ul>
+<p><strong>3. Route the Wires</strong> </p>
+<ul>
+<li>
+<p>Feed the light assembly wires through the cable glands and into the controller enclosure.</p>
+</li>
+<li>
+<p>Ensure the cable glands are tightened to maintain a weatherproof seal.</p>
+</li>
+</ul>
+<p><strong>4. Connect the Light Wires</strong></p>
+<p><img alt="Derail Solar Panel" src="../assets/derail_light_wire.jpg" style="height:350px;width:350px" /></p>
+<ul>
+<li>
+<p>Insert the light wires into the OUT 0 terminals on the controller board, following the wiring diagram.</p>
+</li>
+<li>
+<p>Ensure proper polarity (match positive and negative leads).</p>
+</li>
+<li>
+<p>Ensure terminals are secure to prevent loose connections.</p>
+</li>
+</ul>
+<p><strong>5. Test the Connection</strong></p>
+<ul>
+<li>
+<p>Use a multimeter to verify proper voltage at the light terminals.</p>
+</li>
+<li>
+<p>Confirm that the light activates when commanded by the controller.</p>
+</li>
+<li>
+<p>If the light does not function, re-check jumper placement and wiring.</p>
+</li>
+</ul>
+<hr />
+<h3 id="solar-panel-installation">Solar Panel Installation<a class="headerlink" href="#solar-panel-installation" title="Permanent link">&para;</a></h3>
+<div class="admonition warning">
+<p class="admonition-title">Damage to Equipment</p>
+<p>Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.</p>
+</div>
+<p><img alt="Derail Solar Panel" src="../assets/solar_center.jpg" style="height:350px;width:350px" /></p>
+<p><strong>1. Attach Solar Panel to Spider Bracket</strong></p>
+<ul>
+<li>
+<p>Center the solar panel on the spider bracket.</p>
+</li>
+<li>
+<p>Fasten using the provided M6 cage nuts, flat washers, and machine screws.</p>
+</li>
+<li>
+<p>Tighten screws securely, but do not overtighten.</p>
+</li>
+</ul>
+<p><img alt="Derail Solar Panel" src="../assets/derail_studs.jpg" style="height:350px;width:350px" /></p>
+<p><strong>2. Mount Spider Bracket to Mast</strong></p>
+<ul>
+<li>
+<p>Position the spider bracket (with solar panel attached) onto the mast.</p>
+</li>
+<li>
+<p>Bolt the bracket securely in place.</p>
+</li>
+</ul>
+<p><img alt="Derail Solar Panel" src="../assets/solar_adjust.jpg" style="height:350px;width:350px" /></p>
+<p><strong>3. Mount Solar Panel Assembly to Device</strong></p>
+<ul>
+<li>
+<p>Place the slotted base of the solar panel assembly onto the threaded stud pattern located on the side of the device that receives the most direct sunlight.</p>
+</li>
+<li>
+<p>Adjust the panel’s rotation so that it faces the desired direction.</p>
+</li>
+<li>
+<p>Verify that the device light does not cast a shadow on the solar panel.</p>
+</li>
+<li>
+<p>Install 1/4 in. flat washers and 1/4"-20 hex nuts onto the base studs and tighten evenly.</p>
+</li>
+</ul>
+<p><img alt="Derail Solar Panel Wire" src="../assets/derail_charger_wire.jpg" style="height:350px;width:350px" /></p>
+<p><strong>4. Adjust Solar Panel Tilt</strong></p>
+<ul>
+<li>
+<p>Loosen the tilt bolts, set the solar panel to the required tilt angle, and re-tighten the bolts.</p>
+</li>
+<li>
+<p>Refer to the site preparation section for recommended tilt angle (latitude ± seasonal adjustment).</p>
+</li>
+</ul>
+<p><strong>5. Route Solar Panel Wires</strong></p>
+<ul>
+<li>
+<p>Feed the solar panel wires through the cable glands and into the controller enclosure.</p>
+</li>
+<li>
+<p>Ensure cable glands are tightened to maintain a weatherproof seal.</p>
+</li>
+</ul>
+<p><strong>6. Connect Solar Panel Wires</strong></p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Only connect the solar panel wires. Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.</p>
+</div>
+<ul>
+<li>
+<p>Connect the solar panel positive (+) and negative (–) leads to the Solar Panel + and Solar Panel – terminals on the controller board, as shown in the wiring diagram.</p>
+</li>
+<li>
+<p>Tighten terminal screws securely.</p>
+</li>
+</ul>
+<p><strong>7. Test the Connection</strong></p>
+<ul>
+<li>
+<p>Use a multimeter to confirm correct polarity and voltage at the solar panel terminals.</p>
+</li>
+<li>
+<p>Verify that power is being delivered to the controller.</p>
+</li>
+</ul>
+<hr />
+<h3 id="satellite-antenna-installation">Satellite Antenna Installation<a class="headerlink" href="#satellite-antenna-installation" title="Permanent link">&para;</a></h3>
+<p><strong>1. Attach Satellite Antenna to Solar Panel</strong></p>
+<p><img alt="Derail Sensor" src="../assets/derail_align.jpg" style="height:350px;width:350px" /></p>
+<ul>
+<li>
+<p>Orient the satellite antenna assembly with the metal bracket and plastic housing pointing upwards.</p>
+</li>
+<li>
+<p>Center the satellite antenna assembly on the top rail of the solar panel, between the arms of the spider bracket.</p>
+</li>
+<li>
+<p>Fasten using the provided M6 cage nuts and machine screws.</p>
+</li>
+</ul>
+<p><strong>2. Connect Satellite Antenna to Controller Enclosure</strong></p>
+<p><img alt="Derail Sensor" src="../assets/derail_sma.jpg" style="height:350px;width:350px" /></p>
+<ul>
+<li>
+<p>Locate the RF SMA connectors on the bottom of the controller enclosure.</p>
+</li>
+<li>
+<p>Route wires neatly from satellite antenna to controller enslosure.</p>
+</li>
+<li>
+<p>Hand-tighten the satellite RF connectors until fully threaded and snug.</p>
+</li>
+</ul>
+<hr />
+<h2 id="33-sensor-installation">3.3 Sensor Installation<a class="headerlink" href="#33-sensor-installation" title="Permanent link">&para;</a></h2>
+<h3 id="for-flip-style-derail">For Flip-Style Derail<a class="headerlink" href="#for-flip-style-derail" title="Permanent link">&para;</a></h3>
+<div class="admonition warning">
+<p class="admonition-title">Damage to Equipment</p>
+<p>Verify sensor clearance before welding. Improper placement may cause interference with moving parts or rolling stock.</p>
+</div>
+<p><img alt="Derail Sensor" src="../assets/derail_sensor.jpg" style="height:350px;width:350px" /></p>
+<p><strong>Steps:</strong></p>
+<ol>
+<li>
+<p>Locate the sensor mounting bracket on the side of the derail.</p>
+</li>
+<li>
+<p>Move the derail arm from side to side, through its full range of motion. Confirm the sensor and bracket are clear of all moving parts.</p>
+</li>
+<li>
+<p>Verify that the sensor will remain clear of train wheels in both engaged and disengaged positions.</p>
+</li>
+<li>
+<p>Grind paint off the mating face of the sensor bracket to ensure a proper weld.</p>
+</li>
+<li>
+<p>Mount the sensor to the bracket using the provided screws. Tighten securely.</p>
+</li>
+<li>
+<p>Confirm that:</p>
+</li>
+<li>
+<p>The sensor is clear of moving parts and wheels.</p>
+</li>
+<li>
+<p>The sensor face is square to the rail.</p>
+</li>
+<li>
+<p>The reader face is parallel to the derail’s metal plate.</p>
+</li>
+<li>
+<p>Weld the sensor and bracket assembly to the derail as shown in the installation drawing.</p>
+</li>
+</ol>
+<h3 id="for-swing-style-derail">For Swing-Style Derail<a class="headerlink" href="#for-swing-style-derail" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Stand for swing-style derail sensor provided by Marmon</p>
+</div>
+<ol>
+<li>
+<p>Locate the sensor bracket on the provided stand.</p>
+</li>
+<li>
+<p>Bolt the bracket securely to the stand using the supplied fasteners.</p>
+</li>
+<li>
+<p>Verify alignment of the bracket before proceeding.</p>
+</li>
+</ol>
+<h3 id="liquid-tight-tubing">Liquid-Tight tubing<a class="headerlink" href="#liquid-tight-tubing" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Liquid tight tubing provided by Marmon</p>
+</div>
+<p><strong>1. Measure and Cut Tubing</strong></p>
+<ul>
+<li>
+<p>Measure the required length of tubing from the sensor to the controller enclosure.</p>
+</li>
+<li>
+<p>Add at least 12 in. of slack for routing and future adjustments.</p>
+</li>
+<li>
+<p>Cut the tubing cleanly with a utility knife or tubing cutter. Avoid jagged edges.</p>
+</li>
+</ul>
+<p><img alt="Sensor Bracket" src="../assets/tubing_nut.jpg" style="height:350px;width:350px" /></p>
+<p><strong>2. Prepare Cable for Installation</strong></p>
+<ul>
+<li>
+<p>Inspect the sensor cable for nicks, cuts, or damage before running it.</p>
+</li>
+<li>
+<p>If pulling long runs, attach a pull string or fish tape to the cable using electrical tape. Wrap smoothly to avoid snags.</p>
+</li>
+</ul>
+<p><strong>3. Insert Cable into Tubing</strong></p>
+<ul>
+<li>
+<p>Feed the sensor cable through the tubing slowly and evenly.</p>
+</li>
+<li>
+<p>Support the tubing while feeding to prevent kinking.</p>
+</li>
+<li>
+<p>Avoid sharp bends — the tubing bend radius must not be tighter than 6 in.</p>
+</li>
+</ul>
+<p><strong>4. Route Tubing to Controller Enclosure</strong></p>
+<ul>
+<li>
+<p>Position tubing along a straight, supported path wherever possible.</p>
+</li>
+<li>
+<p>Ensure tubing will not interfere with derail movement or be crushed by ballast.</p>
+</li>
+<li>
+<p>If crossing under rail or ties, secure tubing to prevent chafing.</p>
+</li>
+</ul>
+<p><strong>5. Install Cable Gland at Controller Enclosure</strong></p>
+<ul>
+<li>
+<p>Loosen the gland cap and insert the tubing with cable into the gland body.</p>
+</li>
+<li>
+<p>Slide the cable through carefully — do not force or twist.</p>
+</li>
+<li>
+<p>Ensure the cable jacket, not the conductor insulation, is gripped by the gland seal.</p>
+</li>
+</ul>
+<p><strong>6. Tighten the Cable Gland</strong></p>
+<ul>
+<li>
+<p>Hand-tighten the gland cap, then snug with a wrench until resistance is firm.</p>
+</li>
+<li>
+<p>Do not overtighten; overtightening may crack the gland or cut into the cable jacket.</p>
+</li>
+<li>
+<p>Check that the gland provides a secure, weatherproof seal.</p>
+</li>
+</ul>
+<p><strong>7. Terminate Cable at Controller</strong></p>
+<ul>
+<li>Route the sensor wire inside the enclosure neatly, avoiding sharp bends.</li>
+</ul>
+<p><img alt="Derail Sensor Wire" src="../assets/derail_sensor_wire.jpg" style="height:350px;width:350px" /></p>
+<ul>
+<li>Connect the wires to the IN 0 terminals on the controller board, observing polarity.</li>
+</ul>
+<p><strong>8. Verify Cable Protection</strong></p>
+<ul>
+<li>
+<p>Straighten the tubing path and confirm it is free of kinks.</p>
+</li>
+<li>
+<p>Bolt the liquid-tight tubing cover plate perpendicular to the rail as shown in the installation drawing.</p>
+</li>
+<li>
+<p>Cover tubing with ballast to shield from UV, impact, and debris.</p>
+</li>
+</ul>
+<p><strong>9. Final Test</strong></p>
+<ul>
+<li>
+<p>Use a multimeter to verify continuity and voltage.</p>
+</li>
+<li>
+<p>Confirm the sensor operates correctly before completing site backfill.</p>
+</li>
+</ul>
+<h2 id="34-turning-on-the-system">3.4 Turning on the System<a class="headerlink" href="#34-turning-on-the-system" title="Permanent link">&para;</a></h2>
+<p><img alt="Derail Charger Connected" src="../assets/solar_control.jpg" style="height:350px;width:350px" /></p>
+<p><strong>1. Battery Connection</strong></p>
+<div class="admonition warning">
+<p class="admonition-title">Polarity Matters</p>
+<p>Reversing battery polarity (red to – or black to +) can permanently damage the controller and board and is not covered by warranty.
+Use a multimeter to pre-check the battery’s voltage and polarity at the terminals before attaching any leads.</p>
+</div>
+<p><strong>2. Confirm Readiness</strong> </p>
+<ul>
+<li>
+<p>Identify terminals and leads:</p>
+</li>
+<li>
+<p>Battery positive (+) terminal.</p>
+</li>
+<li>
+<p>System leads: red = positive (+)</p>
+</li>
+<li>
+<p>Taking care not to cut the wire or touch the spade terminal to any metal, cut the zip tie restraining the battery positive (+) wire.</p>
+</li>
+</ul>
+<p><strong>3. Connect the Positive Lead</strong></p>
+<ul>
+<li>
+<p>Locate the red wire with spade terminal.</p>
+</li>
+<li>
+<p>Align the spade terminal with the positive (+) battery post.</p>
+</li>
+<li>
+<p>Slide the spade connector fully onto the post tab until it is seated.</p>
+</li>
+<li>
+<p>Confirm that no bare wire is exposed.</p>
+</li>
+</ul>
+<p><strong>4. Verify Power Indicators</strong></p>
+<ul>
+<li>
+<p>Look for the indicator lights on the charge controller and on the main board to confirm the sensor is receiving power.</p>
+</li>
+<li>
+<p>If indicators do not light:</p>
+</li>
+<li>
+<p>Recheck polarity and terminal tightness</p>
+</li>
+</ul>
+<p><strong>5. Support</strong></p>
+<ul>
+<li>If the system still does not power on, stop and contact TXRX support for assistance. Do not modify wiring beyond the procedures in this manual.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../derail_overview/" class="md-footer__link md-footer__link--prev" aria-label="Previous: System Overview">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                System Overview
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../derail_operation/" class="md-footer__link md-footer__link--next" aria-label="Next: Operation">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Operation
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer"], "search": "../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.f55a23d4.min.js"></script>
+      
+    
+  </body>
+</html>
